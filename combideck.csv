@@ -1,0 +1,1310 @@
+PassengerId,Survived,Pclass,Name,Sex,Deck,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked,Title,Surname,FamilyID,FamilySize,FamilyID2
+1,0,3,"Braund, Mr. Owen Harris",male,Z,22.0,1,0,A/5 21171,$7.25,,S,Mr,Braund,Small,2,Small
+2,1,1,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",female,C,38.0,1,0,PC 17599,$71.28,C85,C,Mrs,Cumings,Small,2,Small
+3,1,3,"Heikkinen, Miss. Laina",female,Z,26.0,0,0,STON/O2. 3101282,$7.93,,S,Miss,Heikkinen,Small,1,Small
+4,1,1,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",female,C,35.0,1,0,113803,$53.10,C123,S,Mrs,Futrelle,Small,2,Small
+5,0,3,"Allen, Mr. William Henry",male,Z,35.0,0,0,373450,$8.05,,S,Mr,Allen,Small,1,Small
+6,0,3,"Moran, Mr. James",male,Z,28.9,0,0,330877,$8.46,,Q,Mr,Moran,Small,1,Small
+7,0,1,"McCarthy, Mr. Timothy J",male,E,54.0,0,0,17463,$51.86,E46,S,Mr,McCarthy,Small,1,Small
+8,0,3,"Palsson, Master. Gosta Leonard",male,Z,2.0,3,1,349909,$21.08,,S,Master,Palsson,5Palsson,5,5Palsson
+9,1,3,"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",female,Z,27.0,0,2,347742,$11.13,,S,Mrs,Johnson,3Johnson,3,Small
+10,1,2,"Nasser, Mrs. Nicholas (Adele Achem)",female,Z,14.0,1,0,237736,$30.07,,C,Mrs,Nasser,Small,2,Small
+11,1,3,"Sandstrom, Miss. Marguerite Rut",female,G,4.0,1,1,PP 9549,$16.70,G6,S,Miss,Sandstrom,3Sandstrom,3,Small
+12,1,1,"Bonnell, Miss. Elizabeth",female,C,58.0,0,0,113783,$26.55,C103,S,Miss,Bonnell,Small,1,Small
+13,0,3,"Saundercock, Mr. William Henry",male,Z,20.0,0,0,A/5. 2151,$8.05,,S,Mr,Saundercock,Small,1,Small
+14,0,3,"Andersson, Mr. Anders Johan",male,Z,39.0,1,5,347082,$31.28,,S,Mr,Andersson,7Andersson,7,7Andersson
+15,0,3,"Vestrom, Miss. Hulda Amanda Adolfina",female,Z,14.0,0,0,350406,$7.85,,S,Miss,Vestrom,Small,1,Small
+16,1,2,"Hewlett, Mrs. (Mary D Kingcome) ",female,Z,55.0,0,0,248706,$16.00,,S,Mrs,Hewlett,Small,1,Small
+17,0,3,"Rice, Master. Eugene",male,Z,2.0,4,1,382652,$29.13,,Q,Master,Rice,6Rice,6,6Rice
+18,1,2,"Williams, Mr. Charles Eugene",male,Z,33.1,0,0,244373,$13.00,,S,Mr,Williams,Small,1,Small
+19,0,3,"Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)",female,Z,31.0,1,0,345763,$18.00,,S,Mrs,Vander Planke,Small,2,Small
+20,1,3,"Masselmani, Mrs. Fatima",female,Z,28.9,0,0,2649,$7.23,,C,Mrs,Masselmani,Small,1,Small
+21,0,2,"Fynney, Mr. Joseph J",male,Z,35.0,0,0,239865,$26.00,,S,Mr,Fynney,Small,1,Small
+22,1,2,"Beesley, Mr. Lawrence",male,D,34.0,0,0,248698,$13.00,D56,S,Mr,Beesley,Small,1,Small
+23,1,3,"McGowan, Miss. Anna ""Annie""",female,Z,15.0,0,0,330923,$8.03,,Q,Miss,McGowan,Small,1,Small
+24,1,1,"Sloper, Mr. William Thompson",male,A,28.0,0,0,113788,$35.50,A6,S,Mr,Sloper,Small,1,Small
+25,0,3,"Palsson, Miss. Torborg Danira",female,Z,8.0,3,1,349909,$21.08,,S,Miss,Palsson,5Palsson,5,5Palsson
+26,1,3,"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",female,Z,38.0,1,5,347077,$31.39,,S,Mrs,Asplund,7Asplund,7,7Asplund
+27,0,3,"Emir, Mr. Farred Chehab",male,Z,28.9,0,0,2631,$7.23,,C,Mr,Emir,Small,1,Small
+28,0,1,"Fortune, Mr. Charles Alexander",male,C,19.0,3,2,19950,$263.00,C23 C25 C27,S,Mr,Fortune,6Fortune,6,6Fortune
+29,1,3,"O'Dwyer, Miss. Ellen ""Nellie""",female,Z,22.3,0,0,330959,$7.88,,Q,Miss,O'Dwyer,Small,1,Small
+30,0,3,"Todoroff, Mr. Lalio",male,Z,28.9,0,0,349216,$7.90,,S,Mr,Todoroff,Small,1,Small
+31,0,1,"Uruchurtu, Don. Manuel E",male,Z,40.0,0,0,PC 17601,$27.72,,C,Sir,Uruchurtu,Small,1,Small
+32,1,1,"Spencer, Mrs. William Augustus (Marie Eugenie)",female,B,42.5,1,0,PC 17569,$146.52,B78,C,Mrs,Spencer,Small,2,Small
+33,1,3,"Glynn, Miss. Mary Agatha",female,Z,22.3,0,0,335677,$7.75,,Q,Miss,Glynn,Small,1,Small
+34,0,2,"Wheadon, Mr. Edward H",male,Z,66.0,0,0,C.A. 24579,$10.50,,S,Mr,Wheadon,Small,1,Small
+35,0,1,"Meyer, Mr. Edgar Joseph",male,Z,28.0,1,0,PC 17604,$82.17,,C,Mr,Meyer,Small,2,Small
+36,0,1,"Holverson, Mr. Alexander Oskar",male,Z,42.0,1,0,113789,$52.00,,S,Mr,Holverson,Small,2,Small
+37,1,3,"Mamee, Mr. Hanna",male,Z,28.9,0,0,2677,$7.23,,C,Mr,Mamee,Small,1,Small
+38,0,3,"Cann, Mr. Ernest Charles",male,Z,21.0,0,0,A./5. 2152,$8.05,,S,Mr,Cann,Small,1,Small
+39,0,3,"Vander Planke, Miss. Augusta Maria",female,Z,18.0,2,0,345764,$18.00,,S,Miss,Vander Planke,Small,3,Small
+40,1,3,"Nicola-Yarred, Miss. Jamila",female,Z,14.0,1,0,2651,$11.24,,C,Miss,Nicola-Yarred,Small,2,Small
+41,0,3,"Ahlin, Mrs. Johan (Johanna Persdotter Larsson)",female,Z,40.0,1,0,7546,$9.48,,S,Mrs,Ahlin,Small,2,Small
+42,0,2,"Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott)",female,Z,27.0,1,0,11668,$21.00,,S,Mrs,Turpin,Small,2,Small
+43,0,3,"Kraeff, Mr. Theodor",male,Z,28.9,0,0,349253,$7.90,,C,Mr,Kraeff,Small,1,Small
+44,1,2,"Laroche, Miss. Simonne Marie Anne Andree",female,Z,3.0,1,2,SC/Paris 2123,$41.58,,C,Miss,Laroche,4Laroche,4,4Laroche
+45,1,3,"Devaney, Miss. Margaret Delia",female,Z,19.0,0,0,330958,$7.88,,Q,Miss,Devaney,Small,1,Small
+46,0,3,"Rogers, Mr. William John",male,Z,28.9,0,0,S.C./A.4. 23567,$8.05,,S,Mr,Rogers,Small,1,Small
+47,0,3,"Lennon, Mr. Denis",male,Z,28.9,1,0,370371,$15.50,,Q,Mr,Lennon,Small,2,Small
+48,1,3,"O'Driscoll, Miss. Bridget",female,Z,22.3,0,0,14311,$7.75,,Q,Miss,O'Driscoll,Small,1,Small
+49,0,3,"Samaan, Mr. Youssef",male,Z,28.9,2,0,2662,$21.68,,C,Mr,Samaan,3Samaan,3,Small
+50,0,3,"Arnold-Franchi, Mrs. Josef (Josefine Franchi)",female,Z,18.0,1,0,349237,$17.80,,S,Mrs,Arnold-Franchi,Small,2,Small
+51,0,3,"Panula, Master. Juha Niilo",male,Z,7.0,4,1,3101295,$39.69,,S,Master,Panula,6Panula,6,6Panula
+52,0,3,"Nosworthy, Mr. Richard Cater",male,Z,21.0,0,0,A/4. 39886,$7.80,,S,Mr,Nosworthy,Small,1,Small
+53,1,1,"Harper, Mrs. Henry Sleeper (Myna Haxtun)",female,D,49.0,1,0,PC 17572,$76.73,D33,C,Mrs,Harper,Small,2,Small
+54,1,2,"Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)",female,Z,29.0,1,0,2926,$26.00,,S,Mrs,Faunthorpe,Small,2,Small
+55,0,1,"Ostby, Mr. Engelhart Cornelius",male,B,65.0,0,1,113509,$61.98,B30,C,Mr,Ostby,Small,2,Small
+56,1,1,"Woolner, Mr. Hugh",male,C,42.5,0,0,19947,$35.50,C52,S,Mr,Woolner,Small,1,Small
+57,1,2,"Rugg, Miss. Emily",female,Z,21.0,0,0,C.A. 31026,$10.50,,S,Miss,Rugg,Small,1,Small
+58,0,3,"Novel, Mr. Mansouer",male,Z,28.5,0,0,2697,$7.23,,C,Mr,Novel,Small,1,Small
+59,1,2,"West, Miss. Constance Mirium",female,Z,5.0,1,2,C.A. 34651,$27.75,,S,Miss,West,4West,4,4West
+60,0,3,"Goodwin, Master. William Frederick",male,Z,11.0,5,2,CA 2144,$46.90,,S,Master,Goodwin,8Goodwin,8,8Goodwin
+61,0,3,"Sirayanian, Mr. Orsen",male,Z,22.0,0,0,2669,$7.23,,C,Mr,Sirayanian,Small,1,Small
+62,1,1,"Icard, Miss. Amelie",female,B,38.0,0,0,113572,$80.00,B28,S,Miss,Icard,Small,1,Small
+63,0,1,"Harris, Mr. Henry Birkhardt",male,C,45.0,1,0,36973,$83.48,C83,S,Mr,Harris,Small,2,Small
+64,0,3,"Skoog, Master. Harald",male,Z,4.0,3,2,347088,$27.90,,S,Master,Skoog,6Skoog,6,6Skoog
+65,0,1,"Stewart, Mr. Albert A",male,Z,42.5,0,0,PC 17605,$27.72,,C,Mr,Stewart,Small,1,Small
+66,1,3,"Moubarek, Master. Gerios",male,Z,7.1,1,1,2661,$15.25,,C,Master,Moubarek,3Moubarek,3,Small
+67,1,2,"Nye, Mrs. (Elizabeth Ramell)",female,F,29.0,0,0,C.A. 29395,$10.50,F33,S,Mrs,Nye,Small,1,Small
+68,0,3,"Crease, Mr. Ernest James",male,Z,19.0,0,0,S.P. 3464,$8.16,,S,Mr,Crease,Small,1,Small
+69,1,3,"Andersson, Miss. Erna Alexandra",female,Z,17.0,4,2,3101281,$7.93,,S,Miss,Andersson,7Andersson,7,7Andersson
+70,0,3,"Kink, Mr. Vincenz",male,Z,26.0,2,0,315151,$8.66,,S,Mr,Kink,Small,3,Small
+71,0,2,"Jenkin, Mr. Stephen Curnow",male,Z,32.0,0,0,C.A. 33111,$10.50,,S,Mr,Jenkin,Small,1,Small
+72,0,3,"Goodwin, Miss. Lillian Amy",female,Z,16.0,5,2,CA 2144,$46.90,,S,Miss,Goodwin,8Goodwin,8,8Goodwin
+73,0,2,"Hood, Mr. Ambrose Jr",male,Z,21.0,0,0,S.O.C. 14879,$73.50,,S,Mr,Hood,Small,1,Small
+74,0,3,"Chronopoulos, Mr. Apostolos",male,Z,26.0,1,0,2680,$14.45,,C,Mr,Chronopoulos,Small,2,Small
+75,1,3,"Bing, Mr. Lee",male,Z,32.0,0,0,1601,$56.50,,S,Mr,Bing,Small,1,Small
+76,0,3,"Moen, Mr. Sigurd Hansen",male,F,25.0,0,0,348123,$7.65,F G73,S,Mr,Moen,Small,1,Small
+77,0,3,"Staneff, Mr. Ivan",male,Z,28.9,0,0,349208,$7.90,,S,Mr,Staneff,Small,1,Small
+78,0,3,"Moutal, Mr. Rahamin Haim",male,Z,28.9,0,0,374746,$8.05,,S,Mr,Moutal,Small,1,Small
+79,1,2,"Caldwell, Master. Alden Gates",male,Z,0.8,0,2,248738,$29.00,,S,Master,Caldwell,3Caldwell,3,Small
+80,1,3,"Dowdell, Miss. Elizabeth",female,Z,30.0,0,0,364516,$12.48,,S,Miss,Dowdell,Small,1,Small
+81,0,3,"Waelens, Mr. Achille",male,Z,22.0,0,0,345767,$9.00,,S,Mr,Waelens,Small,1,Small
+82,1,3,"Sheerlinck, Mr. Jan Baptist",male,Z,29.0,0,0,345779,$9.50,,S,Mr,Sheerlinck,Small,1,Small
+83,1,3,"McDermott, Miss. Brigdet Delia",female,Z,22.3,0,0,330932,$7.79,,Q,Miss,McDermott,Small,1,Small
+84,0,1,"Carrau, Mr. Francisco M",male,Z,28.0,0,0,113059,$47.10,,S,Mr,Carrau,Small,1,Small
+85,1,2,"Ilett, Miss. Bertha",female,Z,17.0,0,0,SO/C 14885,$10.50,,S,Miss,Ilett,Small,1,Small
+86,1,3,"Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)",female,Z,33.0,3,0,3101278,$15.85,,S,Mrs,Backstrom,Small,4,Small
+87,0,3,"Ford, Mr. William Neal",male,Z,16.0,1,3,W./C. 6608,$34.38,,S,Mr,Ford,5Ford,5,5Ford
+88,0,3,"Slocovski, Mr. Selman Francis",male,Z,28.9,0,0,SOTON/OQ 392086,$8.05,,S,Mr,Slocovski,Small,1,Small
+89,1,1,"Fortune, Miss. Mabel Helen",female,C,23.0,3,2,19950,$263.00,C23 C25 C27,S,Miss,Fortune,6Fortune,6,6Fortune
+90,0,3,"Celotti, Mr. Francesco",male,Z,24.0,0,0,343275,$8.05,,S,Mr,Celotti,Small,1,Small
+91,0,3,"Christmann, Mr. Emil",male,Z,29.0,0,0,343276,$8.05,,S,Mr,Christmann,Small,1,Small
+92,0,3,"Andreasson, Mr. Paul Edvin",male,Z,20.0,0,0,347466,$7.85,,S,Mr,Andreasson,Small,1,Small
+93,0,1,"Chaffee, Mr. Herbert Fuller",male,E,46.0,1,0,W.E.P. 5734,$61.18,E31,S,Mr,Chaffee,Small,2,Small
+94,0,3,"Dean, Mr. Bertram Frank",male,Z,26.0,1,2,C.A. 2315,$20.58,,S,Mr,Dean,4Dean,4,4Dean
+95,0,3,"Coxon, Mr. Daniel",male,Z,59.0,0,0,364500,$7.25,,S,Mr,Coxon,Small,1,Small
+96,0,3,"Shorney, Mr. Charles Joseph",male,Z,28.9,0,0,374910,$8.05,,S,Mr,Shorney,Small,1,Small
+97,0,1,"Goldschmidt, Mr. George B",male,A,71.0,0,0,PC 17754,$34.65,A5,C,Mr,Goldschmidt,Small,1,Small
+98,1,1,"Greenfield, Mr. William Bertram",male,D,23.0,0,1,PC 17759,$63.36,D10 D12,C,Mr,Greenfield,Small,2,Small
+99,1,2,"Doling, Mrs. John T (Ada Julia Bone)",female,Z,34.0,0,1,231919,$23.00,,S,Mrs,Doling,Small,2,Small
+100,0,2,"Kantor, Mr. Sinai",male,Z,34.0,1,0,244367,$26.00,,S,Mr,Kantor,Small,2,Small
+101,0,3,"Petranec, Miss. Matilda",female,Z,28.0,0,0,349245,$7.90,,S,Miss,Petranec,Small,1,Small
+102,0,3,"Petroff, Mr. Pastcho (""Pentcho"")",male,Z,28.9,0,0,349215,$7.90,,S,Mr,Petroff,Small,1,Small
+103,0,1,"White, Mr. Richard Frasar",male,D,21.0,0,1,35281,$77.29,D26,S,Mr,White,Small,2,Small
+104,0,3,"Johansson, Mr. Gustaf Joel",male,Z,33.0,0,0,7540,$8.65,,S,Mr,Johansson,Small,1,Small
+105,0,3,"Gustafsson, Mr. Anders Vilhelm",male,Z,37.0,2,0,3101276,$7.93,,S,Mr,Gustafsson,Small,3,Small
+106,0,3,"Mionoff, Mr. Stoytcho",male,Z,28.0,0,0,349207,$7.90,,S,Mr,Mionoff,Small,1,Small
+107,1,3,"Salkjelsvik, Miss. Anna Kristine",female,Z,21.0,0,0,343120,$7.65,,S,Miss,Salkjelsvik,Small,1,Small
+108,1,3,"Moss, Mr. Albert Johan",male,Z,28.9,0,0,312991,$7.78,,S,Mr,Moss,Small,1,Small
+109,0,3,"Rekic, Mr. Tido",male,Z,38.0,0,0,349249,$7.90,,S,Mr,Rekic,Small,1,Small
+110,1,3,"Moran, Miss. Bertha",female,Z,22.3,1,0,371110,$24.15,,Q,Miss,Moran,Small,2,Small
+111,0,1,"Porter, Mr. Walter Chamberlain",male,C,47.0,0,0,110465,$52.00,C110,S,Mr,Porter,Small,1,Small
+112,0,3,"Zabour, Miss. Hileni",female,Z,14.5,1,0,2665,$14.45,,C,Miss,Zabour,Small,2,Small
+113,0,3,"Barton, Mr. David John",male,Z,22.0,0,0,324669,$8.05,,S,Mr,Barton,Small,1,Small
+114,0,3,"Jussila, Miss. Katriina",female,Z,20.0,1,0,4136,$9.83,,S,Miss,Jussila,Small,2,Small
+115,0,3,"Attalah, Miss. Malake",female,Z,17.0,0,0,2627,$14.46,,C,Miss,Attalah,Small,1,Small
+116,0,3,"Pekoniemi, Mr. Edvard",male,Z,21.0,0,0,STON/O 2. 3101294,$7.93,,S,Mr,Pekoniemi,Small,1,Small
+117,0,3,"Connors, Mr. Patrick",male,Z,70.5,0,0,370369,$7.75,,Q,Mr,Connors,Small,1,Small
+118,0,2,"Turpin, Mr. William John Robert",male,Z,29.0,1,0,11668,$21.00,,S,Mr,Turpin,Small,2,Small
+119,0,1,"Baxter, Mr. Quigg Edmond",male,B,24.0,0,1,PC 17558,$247.52,B58 B60,C,Mr,Baxter,Small,2,Small
+120,0,3,"Andersson, Miss. Ellis Anna Maria",female,Z,2.0,4,2,347082,$31.28,,S,Miss,Andersson,7Andersson,7,7Andersson
+121,0,2,"Hickman, Mr. Stanley George",male,Z,21.0,2,0,S.O.C. 14879,$73.50,,S,Mr,Hickman,3Hickman,3,Small
+122,0,3,"Moore, Mr. Leonard Charles",male,Z,28.9,0,0,A4. 54510,$8.05,,S,Mr,Moore,Small,1,Small
+123,0,2,"Nasser, Mr. Nicholas",male,Z,32.5,1,0,237736,$30.07,,C,Mr,Nasser,Small,2,Small
+124,1,2,"Webber, Miss. Susan",female,E,32.5,0,0,27267,$13.00,E101,S,Miss,Webber,Small,1,Small
+125,0,1,"White, Mr. Percival Wayland",male,D,54.0,0,1,35281,$77.29,D26,S,Mr,White,Small,2,Small
+126,1,3,"Nicola-Yarred, Master. Elias",male,Z,12.0,1,0,2651,$11.24,,C,Master,Nicola-Yarred,Small,2,Small
+127,0,3,"McMahon, Mr. Martin",male,Z,28.9,0,0,370372,$7.75,,Q,Mr,McMahon,Small,1,Small
+128,1,3,"Madsen, Mr. Fridtjof Arne",male,Z,24.0,0,0,C 17369,$7.14,,S,Mr,Madsen,Small,1,Small
+129,1,3,"Peter, Miss. Anna",female,E,7.1,1,1,2668,$22.36,F E69,C,Miss,Peter,3Peter,3,Small
+130,0,3,"Ekstrom, Mr. Johan",male,Z,45.0,0,0,347061,$6.98,,S,Mr,Ekstrom,Small,1,Small
+131,0,3,"Drazenoic, Mr. Jozef",male,Z,33.0,0,0,349241,$7.90,,C,Mr,Drazenoic,Small,1,Small
+132,0,3,"Coelho, Mr. Domingos Fernandeo",male,Z,20.0,0,0,SOTON/O.Q. 3101307,$7.05,,S,Mr,Coelho,Small,1,Small
+133,0,3,"Robins, Mrs. Alexander A (Grace Charity Laury)",female,Z,47.0,1,0,A/5. 3337,$14.50,,S,Mrs,Robins,Small,2,Small
+134,1,2,"Weisz, Mrs. Leopold (Mathilde Francoise Pede)",female,Z,29.0,1,0,228414,$26.00,,S,Mrs,Weisz,Small,2,Small
+135,0,2,"Sobey, Mr. Samuel James Hayden",male,Z,25.0,0,0,C.A. 29178,$13.00,,S,Mr,Sobey,Small,1,Small
+136,0,2,"Richard, Mr. Emile",male,Z,23.0,0,0,SC/PARIS 2133,$15.05,,C,Mr,Richard,Small,1,Small
+137,1,1,"Newsom, Miss. Helen Monypeny",female,D,19.0,0,2,11752,$26.28,D47,S,Miss,Newsom,Small,3,Small
+138,0,1,"Futrelle, Mr. Jacques Heath",male,C,37.0,1,0,113803,$53.10,C123,S,Mr,Futrelle,Small,2,Small
+139,0,3,"Osen, Mr. Olaf Elon",male,Z,16.0,0,0,7534,$9.22,,S,Mr,Osen,Small,1,Small
+140,0,1,"Giglio, Mr. Victor",male,B,24.0,0,0,PC 17593,$79.20,B86,C,Mr,Giglio,Small,1,Small
+141,0,3,"Boulos, Mrs. Joseph (Sultana)",female,Z,28.9,0,2,2678,$15.25,,C,Mrs,Boulos,3Boulos,3,Small
+142,1,3,"Nysten, Miss. Anna Sofia",female,Z,22.0,0,0,347081,$7.75,,S,Miss,Nysten,Small,1,Small
+143,1,3,"Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck)",female,Z,24.0,1,0,STON/O2. 3101279,$15.85,,S,Mrs,Hakkarainen,Small,2,Small
+144,0,3,"Burke, Mr. Jeremiah",male,Z,19.0,0,0,365222,$6.75,,Q,Mr,Burke,Small,1,Small
+145,0,2,"Andrew, Mr. Edgardo Samuel",male,Z,18.0,0,0,231945,$11.50,,S,Mr,Andrew,Small,1,Small
+146,0,2,"Nicholls, Mr. Joseph Charles",male,Z,19.0,1,1,C.A. 33112,$36.75,,S,Mr,Nicholls,Small,3,Small
+147,1,3,"Andersson, Mr. August Edvard (""Wennerstrom"")",male,Z,27.0,0,0,350043,$7.80,,S,Mr,Andersson,Small,1,Small
+148,0,3,"Ford, Miss. Robina Maggie ""Ruby""",female,Z,9.0,2,2,W./C. 6608,$34.38,,S,Miss,Ford,5Ford,5,5Ford
+149,0,2,"Navratil, Mr. Michel (""Louis M Hoffman"")",male,F,36.5,0,2,230080,$26.00,F2,S,Mr,Navratil,3Navratil,3,Small
+150,0,2,"Byles, Rev. Thomas Roussel Davids",male,Z,42.0,0,0,244310,$13.00,,S,Rev,Byles,Small,1,Small
+151,0,2,"Bateman, Rev. Robert James",male,Z,51.0,0,0,S.O.P. 1166,$12.53,,S,Rev,Bateman,Small,1,Small
+152,1,1,"Pears, Mrs. Thomas (Edith Wearne)",female,C,22.0,1,0,113776,$66.60,C2,S,Mrs,Pears,Small,2,Small
+153,0,3,"Meo, Mr. Alfonzo",male,Z,55.5,0,0,A.5. 11206,$8.05,,S,Mr,Meo,Small,1,Small
+154,0,3,"van Billiard, Mr. Austin Blyler",male,Z,40.5,0,2,A/5. 851,$14.50,,S,Mr,van Billiard,3van Billiard,3,Small
+155,0,3,"Olsen, Mr. Ole Martin",male,Z,28.9,0,0,Fa 265302,$7.31,,S,Mr,Olsen,Small,1,Small
+156,0,1,"Williams, Mr. Charles Duane",male,Z,51.0,0,1,PC 17597,$61.38,,C,Mr,Williams,Small,2,Small
+157,1,3,"Gilnagh, Miss. Katherine ""Katie""",female,Z,16.0,0,0,35851,$7.73,,Q,Miss,Gilnagh,Small,1,Small
+158,0,3,"Corn, Mr. Harry",male,Z,30.0,0,0,SOTON/OQ 392090,$8.05,,S,Mr,Corn,Small,1,Small
+159,0,3,"Smiljanic, Mr. Mile",male,Z,28.9,0,0,315037,$8.66,,S,Mr,Smiljanic,Small,1,Small
+160,0,3,"Sage, Master. Thomas Henry",male,Z,18.8,8,2,CA. 2343,$69.55,,S,Master,Sage,11Sage,11,11Sage
+161,0,3,"Cribb, Mr. John Hatfield",male,Z,44.0,0,1,371362,$16.10,,S,Mr,Cribb,Small,2,Small
+162,1,2,"Watt, Mrs. James (Elizabeth ""Bessie"" Inglis Milne)",female,Z,40.0,0,0,C.A. 33595,$15.75,,S,Mrs,Watt,Small,1,Small
+163,0,3,"Bengtsson, Mr. John Viktor",male,Z,26.0,0,0,347068,$7.78,,S,Mr,Bengtsson,Small,1,Small
+164,0,3,"Calic, Mr. Jovo",male,Z,17.0,0,0,315093,$8.66,,S,Mr,Calic,Small,1,Small
+165,0,3,"Panula, Master. Eino Viljami",male,Z,1.0,4,1,3101295,$39.69,,S,Master,Panula,6Panula,6,6Panula
+166,1,3,"Goldsmith, Master. Frank John William ""Frankie""",male,Z,9.0,0,2,363291,$20.53,,S,Master,Goldsmith,3Goldsmith,3,Small
+167,1,1,"Chibnall, Mrs. (Edith Martha Bowerman)",female,E,42.5,0,1,113505,$55.00,E33,S,Mrs,Chibnall,Small,2,Small
+168,0,3,"Skoog, Mrs. William (Anna Bernhardina Karlsson)",female,Z,45.0,1,4,347088,$27.90,,S,Mrs,Skoog,6Skoog,6,6Skoog
+169,0,1,"Baumann, Mr. John D",male,Z,42.5,0,0,PC 17318,$25.93,,S,Mr,Baumann,Small,1,Small
+170,0,3,"Ling, Mr. Lee",male,Z,28.0,0,0,1601,$56.50,,S,Mr,Ling,Small,1,Small
+171,0,1,"Van der hoef, Mr. Wyckoff",male,B,61.0,0,0,111240,$33.50,B19,S,Mr,Van der hoef,Small,1,Small
+172,0,3,"Rice, Master. Arthur",male,Z,4.0,4,1,382652,$29.13,,Q,Master,Rice,6Rice,6,6Rice
+173,1,3,"Johnson, Miss. Eleanor Ileen",female,Z,1.0,1,1,347742,$11.13,,S,Miss,Johnson,3Johnson,3,Small
+174,0,3,"Sivola, Mr. Antti Wilhelm",male,Z,21.0,0,0,STON/O 2. 3101280,$7.93,,S,Mr,Sivola,Small,1,Small
+175,0,1,"Smith, Mr. James Clinch",male,A,56.0,0,0,17764,$30.70,A7,C,Mr,Smith,Small,1,Small
+176,0,3,"Klasen, Mr. Klas Albin",male,Z,18.0,1,1,350404,$7.85,,S,Mr,Klasen,3Klasen,3,Small
+177,0,3,"Lefebre, Master. Henry Forbes",male,Z,7.1,3,1,4133,$25.47,,S,Master,Lefebre,5Lefebre,5,5Lefebre
+178,0,1,"Isham, Miss. Ann Elizabeth",female,C,50.0,0,0,PC 17595,$28.71,C49,C,Miss,Isham,Small,1,Small
+179,0,2,"Hale, Mr. Reginald",male,Z,30.0,0,0,250653,$13.00,,S,Mr,Hale,Small,1,Small
+180,0,3,"Leonard, Mr. Lionel",male,Z,36.0,0,0,LINE,$0.00,,S,Mr,Leonard,Small,1,Small
+181,0,3,"Sage, Miss. Constance Gladys",female,Z,18.8,8,2,CA. 2343,$69.55,,S,Miss,Sage,11Sage,11,11Sage
+182,0,2,"Pernot, Mr. Rene",male,Z,33.1,0,0,SC/PARIS 2131,$15.05,,C,Mr,Pernot,Small,1,Small
+183,0,3,"Asplund, Master. Clarence Gustaf Hugo",male,Z,9.0,4,2,347077,$31.39,,S,Master,Asplund,7Asplund,7,7Asplund
+184,1,2,"Becker, Master. Richard F",male,F,1.0,2,1,230136,$39.00,F4,S,Master,Becker,4Becker,4,4Becker
+185,1,3,"Kink-Heilmann, Miss. Luise Gretchen",female,Z,4.0,0,2,315153,$22.03,,S,Miss,Kink-Heilmann,Small,3,Small
+186,0,1,"Rood, Mr. Hugh Roscoe",male,A,42.5,0,0,113767,$50.00,A32,S,Mr,Rood,Small,1,Small
+187,1,3,"O'Brien, Mrs. Thomas (Johanna ""Hannah"" Godfrey)",female,Z,28.9,1,0,370365,$15.50,,Q,Mrs,O'Brien,Small,2,Small
+188,1,1,"Romaine, Mr. Charles Hallace (""Mr C Rolmane"")",male,Z,45.0,0,0,111428,$26.55,,S,Mr,Romaine,Small,1,Small
+189,0,3,"Bourke, Mr. John",male,Z,40.0,1,1,364849,$15.50,,Q,Mr,Bourke,3Bourke,3,Small
+190,0,3,"Turcin, Mr. Stjepan",male,Z,36.0,0,0,349247,$7.90,,S,Mr,Turcin,Small,1,Small
+191,1,2,"Pinsky, Mrs. (Rosa)",female,Z,32.0,0,0,234604,$13.00,,S,Mrs,Pinsky,Small,1,Small
+192,0,2,"Carbines, Mr. William",male,Z,19.0,0,0,28424,$13.00,,S,Mr,Carbines,Small,1,Small
+193,1,3,"Andersen-Jensen, Miss. Carla Christine Nielsine",female,Z,19.0,1,0,350046,$7.85,,S,Miss,Andersen-Jensen,Small,2,Small
+194,1,2,"Navratil, Master. Michel M",male,F,3.0,1,1,230080,$26.00,F2,S,Master,Navratil,3Navratil,3,Small
+195,1,1,"Brown, Mrs. James Joseph (Margaret Tobin)",female,B,44.0,0,0,PC 17610,$27.72,B4,C,Mrs,Brown,Small,1,Small
+196,1,1,"Lurette, Miss. Elise",female,B,58.0,0,0,PC 17569,$146.52,B80,C,Miss,Lurette,Small,1,Small
+197,0,3,"Mernagh, Mr. Robert",male,Z,28.9,0,0,368703,$7.75,,Q,Mr,Mernagh,Small,1,Small
+198,0,3,"Olsen, Mr. Karl Siegwart Andreas",male,Z,42.0,0,1,4579,$8.40,,S,Mr,Olsen,Small,2,Small
+199,1,3,"Madigan, Miss. Margaret ""Maggie""",female,Z,22.3,0,0,370370,$7.75,,Q,Miss,Madigan,Small,1,Small
+200,0,2,"Yrois, Miss. Henriette (""Mrs Harbeck"")",female,Z,24.0,0,0,248747,$13.00,,S,Miss,Yrois,Small,1,Small
+201,0,3,"Vande Walle, Mr. Nestor Cyriel",male,Z,28.0,0,0,345770,$9.50,,S,Mr,Vande Walle,Small,1,Small
+202,0,3,"Sage, Mr. Frederick",male,Z,28.9,8,2,CA. 2343,$69.55,,S,Mr,Sage,11Sage,11,11Sage
+203,0,3,"Johanson, Mr. Jakob Alfred",male,Z,34.0,0,0,3101264,$6.50,,S,Mr,Johanson,Small,1,Small
+204,0,3,"Youseff, Mr. Gerious",male,Z,45.5,0,0,2628,$7.23,,C,Mr,Youseff,Small,1,Small
+205,1,3,"Cohen, Mr. Gurshon ""Gus""",male,Z,18.0,0,0,A/5 3540,$8.05,,S,Mr,Cohen,Small,1,Small
+206,0,3,"Strom, Miss. Telma Matilda",female,G,2.0,0,1,347054,$10.46,G6,S,Miss,Strom,Small,2,Small
+207,0,3,"Backstrom, Mr. Karl Alfred",male,Z,32.0,1,0,3101278,$15.85,,S,Mr,Backstrom,Small,2,Small
+208,1,3,"Albimona, Mr. Nassef Cassem",male,Z,26.0,0,0,2699,$18.79,,C,Mr,Albimona,Small,1,Small
+209,1,3,"Carr, Miss. Helen ""Ellen""",female,Z,16.0,0,0,367231,$7.75,,Q,Miss,Carr,Small,1,Small
+210,1,1,"Blank, Mr. Henry",male,A,40.0,0,0,112277,$31.00,A31,C,Mr,Blank,Small,1,Small
+211,0,3,"Ali, Mr. Ahmed",male,Z,24.0,0,0,SOTON/O.Q. 3101311,$7.05,,S,Mr,Ali,Small,1,Small
+212,1,2,"Cameron, Miss. Clear Annie",female,Z,35.0,0,0,F.C.C. 13528,$21.00,,S,Miss,Cameron,Small,1,Small
+213,0,3,"Perkin, Mr. John Henry",male,Z,22.0,0,0,A/5 21174,$7.25,,S,Mr,Perkin,Small,1,Small
+214,0,2,"Givard, Mr. Hans Kristensen",male,Z,30.0,0,0,250646,$13.00,,S,Mr,Givard,Small,1,Small
+215,0,3,"Kiernan, Mr. Philip",male,Z,28.9,1,0,367229,$7.75,,Q,Mr,Kiernan,Small,2,Small
+216,1,1,"Newell, Miss. Madeleine",female,D,31.0,1,0,35273,$113.28,D36,C,Miss,Newell,Small,2,Small
+217,1,3,"Honkanen, Miss. Eliina",female,Z,27.0,0,0,STON/O2. 3101283,$7.93,,S,Miss,Honkanen,Small,1,Small
+218,0,2,"Jacobsohn, Mr. Sidney Samuel",male,Z,42.0,1,0,243847,$27.00,,S,Mr,Jacobsohn,Small,2,Small
+219,1,1,"Bazzani, Miss. Albina",female,D,32.0,0,0,11813,$76.29,D15,C,Miss,Bazzani,Small,1,Small
+220,0,2,"Harris, Mr. Walter",male,Z,30.0,0,0,W/C 14208,$10.50,,S,Mr,Harris,Small,1,Small
+221,1,3,"Sunderland, Mr. Victor Francis",male,Z,16.0,0,0,SOTON/OQ 392089,$8.05,,S,Mr,Sunderland,Small,1,Small
+222,0,2,"Bracken, Mr. James H",male,Z,27.0,0,0,220367,$13.00,,S,Mr,Bracken,Small,1,Small
+223,0,3,"Green, Mr. George Henry",male,Z,51.0,0,0,21440,$8.05,,S,Mr,Green,Small,1,Small
+224,0,3,"Nenkoff, Mr. Christo",male,Z,28.9,0,0,349234,$7.90,,S,Mr,Nenkoff,Small,1,Small
+225,1,1,"Hoyt, Mr. Frederick Maxfield",male,C,38.0,1,0,19943,$90.00,C93,S,Mr,Hoyt,Small,2,Small
+226,0,3,"Berglund, Mr. Karl Ivar Sven",male,Z,22.0,0,0,PP 4348,$9.35,,S,Mr,Berglund,Small,1,Small
+227,1,2,"Mellors, Mr. William John",male,Z,19.0,0,0,SW/PP 751,$10.50,,S,Mr,Mellors,Small,1,Small
+228,0,3,"Lovell, Mr. John Hall (""Henry"")",male,Z,20.5,0,0,A/5 21173,$7.25,,S,Mr,Lovell,Small,1,Small
+229,0,2,"Fahlstrom, Mr. Arne Jonas",male,Z,18.0,0,0,236171,$13.00,,S,Mr,Fahlstrom,Small,1,Small
+230,0,3,"Lefebre, Miss. Mathilde",female,Z,7.1,3,1,4133,$25.47,,S,Miss,Lefebre,5Lefebre,5,5Lefebre
+231,1,1,"Harris, Mrs. Henry Birkhardt (Irene Wallach)",female,C,35.0,1,0,36973,$83.48,C83,S,Mrs,Harris,Small,2,Small
+232,0,3,"Larsson, Mr. Bengt Edvin",male,Z,29.0,0,0,347067,$7.78,,S,Mr,Larsson,Small,1,Small
+233,0,2,"Sjostedt, Mr. Ernst Adolf",male,Z,59.0,0,0,237442,$13.50,,S,Mr,Sjostedt,Small,1,Small
+234,1,3,"Asplund, Miss. Lillian Gertrud",female,Z,5.0,4,2,347077,$31.39,,S,Miss,Asplund,7Asplund,7,7Asplund
+235,0,2,"Leyson, Mr. Robert William Norman",male,Z,24.0,0,0,C.A. 29566,$10.50,,S,Mr,Leyson,Small,1,Small
+236,0,3,"Harknett, Miss. Alice Phoebe",female,Z,22.3,0,0,W./C. 6609,$7.55,,S,Miss,Harknett,Small,1,Small
+237,0,2,"Hold, Mr. Stephen",male,Z,44.0,1,0,26707,$26.00,,S,Mr,Hold,Small,2,Small
+238,1,2,"Collyer, Miss. Marjorie ""Lottie""",female,Z,8.0,0,2,C.A. 31921,$26.25,,S,Miss,Collyer,3Collyer,3,Small
+239,0,2,"Pengelly, Mr. Frederick William",male,Z,19.0,0,0,28665,$10.50,,S,Mr,Pengelly,Small,1,Small
+240,0,2,"Hunt, Mr. George Henry",male,Z,33.0,0,0,SCO/W 1585,$12.28,,S,Mr,Hunt,Small,1,Small
+241,0,3,"Zabour, Miss. Thamine",female,Z,22.3,1,0,2665,$14.45,,C,Miss,Zabour,Small,2,Small
+242,1,3,"Murphy, Miss. Katherine ""Kate""",female,Z,22.3,1,0,367230,$15.50,,Q,Miss,Murphy,Small,2,Small
+243,0,2,"Coleridge, Mr. Reginald Charles",male,Z,29.0,0,0,W./C. 14263,$10.50,,S,Mr,Coleridge,Small,1,Small
+244,0,3,"Maenpaa, Mr. Matti Alexanteri",male,Z,22.0,0,0,STON/O 2. 3101275,$7.13,,S,Mr,Maenpaa,Small,1,Small
+245,0,3,"Attalah, Mr. Sleiman",male,Z,30.0,0,0,2694,$7.23,,C,Mr,Attalah,Small,1,Small
+246,0,1,"Minahan, Dr. William Edward",male,C,44.0,2,0,19928,$90.00,C78,Q,Dr,Minahan,Small,3,Small
+247,0,3,"Lindahl, Miss. Agda Thorilda Viktoria",female,Z,25.0,0,0,347071,$7.78,,S,Miss,Lindahl,Small,1,Small
+248,1,2,"Hamalainen, Mrs. William (Anna)",female,Z,24.0,0,2,250649,$14.50,,S,Mrs,Hamalainen,Small,3,Small
+249,1,1,"Beckwith, Mr. Richard Leonard",male,D,37.0,1,1,11751,$52.55,D35,S,Mr,Beckwith,Small,3,Small
+250,0,2,"Carter, Rev. Ernest Courtenay",male,Z,54.0,1,0,244252,$26.00,,S,Rev,Carter,Small,2,Small
+251,0,3,"Reed, Mr. James George",male,Z,28.9,0,0,362316,$7.25,,S,Mr,Reed,Small,1,Small
+252,0,3,"Strom, Mrs. Wilhelm (Elna Matilda Persson)",female,G,29.0,1,1,347054,$10.46,G6,S,Mrs,Strom,Small,3,Small
+253,0,1,"Stead, Mr. William Thomas",male,C,62.0,0,0,113514,$26.55,C87,S,Mr,Stead,Small,1,Small
+254,0,3,"Lobb, Mr. William Arthur",male,Z,30.0,1,0,A/5. 3336,$16.10,,S,Mr,Lobb,Small,2,Small
+255,0,3,"Rosblom, Mrs. Viktor (Helena Wilhelmina)",female,Z,41.0,0,2,370129,$20.21,,S,Mrs,Rosblom,3Rosblom,3,Small
+256,1,3,"Touma, Mrs. Darwis (Hanne Youssef Razi)",female,Z,29.0,0,2,2650,$15.25,,C,Mrs,Touma,3Touma,3,Small
+257,1,1,"Thorne, Mrs. Gertrude Maybelle",female,Z,42.5,0,0,PC 17585,$79.20,,C,Mrs,Thorne,Small,1,Small
+258,1,1,"Cherry, Miss. Gladys",female,B,30.0,0,0,110152,$86.50,B77,S,Miss,Cherry,Small,1,Small
+259,1,1,"Ward, Miss. Anna",female,Z,35.0,0,0,PC 17755,$512.33,,C,Miss,Ward,Small,1,Small
+260,1,2,"Parrish, Mrs. (Lutie Davis)",female,Z,50.0,0,1,230433,$26.00,,S,Mrs,Parrish,Small,2,Small
+261,0,3,"Smith, Mr. Thomas",male,Z,28.9,0,0,384461,$7.75,,Q,Mr,Smith,Small,1,Small
+262,1,3,"Asplund, Master. Edvin Rojj Felix",male,Z,3.0,4,2,347077,$31.39,,S,Master,Asplund,7Asplund,7,7Asplund
+263,0,1,"Taussig, Mr. Emil",male,E,52.0,1,1,110413,$79.65,E67,S,Mr,Taussig,3Taussig,3,Small
+264,0,1,"Harrison, Mr. William",male,B,40.0,0,0,112059,$0.00,B94,S,Mr,Harrison,Small,1,Small
+265,0,3,"Henry, Miss. Delia",female,Z,22.3,0,0,382649,$7.75,,Q,Miss,Henry,Small,1,Small
+266,0,2,"Reeves, Mr. David",male,Z,36.0,0,0,C.A. 17248,$10.50,,S,Mr,Reeves,Small,1,Small
+267,0,3,"Panula, Mr. Ernesti Arvid",male,Z,16.0,4,1,3101295,$39.69,,S,Mr,Panula,6Panula,6,6Panula
+268,1,3,"Persson, Mr. Ernst Ulrik",male,Z,25.0,1,0,347083,$7.78,,S,Mr,Persson,Small,2,Small
+269,1,1,"Graham, Mrs. William Thompson (Edith Junkins)",female,C,58.0,0,1,PC 17582,$153.46,C125,S,Mrs,Graham,Small,2,Small
+270,1,1,"Bissette, Miss. Amelia",female,C,35.0,0,0,PC 17760,$135.63,C99,S,Miss,Bissette,Small,1,Small
+271,0,1,"Cairns, Mr. Alexander",male,Z,42.5,0,0,113798,$31.00,,S,Mr,Cairns,Small,1,Small
+272,1,3,"Tornquist, Mr. William Henry",male,Z,25.0,0,0,LINE,$0.00,,S,Mr,Tornquist,Small,1,Small
+273,1,2,"Mellinger, Mrs. (Elizabeth Anne Maidment)",female,Z,41.0,0,1,250644,$19.50,,S,Mrs,Mellinger,Small,2,Small
+274,0,1,"Natsch, Mr. Charles H",male,C,37.0,0,1,PC 17596,$29.70,C118,C,Mr,Natsch,Small,2,Small
+275,1,3,"Healy, Miss. Hanora ""Nora""",female,Z,22.3,0,0,370375,$7.75,,Q,Miss,Healy,Small,1,Small
+276,1,1,"Andrews, Miss. Kornelia Theodosia",female,D,63.0,1,0,13502,$77.96,D7,S,Miss,Andrews,Small,2,Small
+277,0,3,"Lindblom, Miss. Augusta Charlotta",female,Z,45.0,0,0,347073,$7.75,,S,Miss,Lindblom,Small,1,Small
+278,0,2,"Parkes, Mr. Francis ""Frank""",male,Z,33.1,0,0,239853,$0.00,,S,Mr,Parkes,Small,1,Small
+279,0,3,"Rice, Master. Eric",male,Z,7.0,4,1,382652,$29.13,,Q,Master,Rice,6Rice,6,6Rice
+280,1,3,"Abbott, Mrs. Stanton (Rosa Hunt)",female,Z,35.0,1,1,C.A. 2673,$20.25,,S,Mrs,Abbott,3Abbott,3,Small
+281,0,3,"Duane, Mr. Frank",male,Z,65.0,0,0,336439,$7.75,,Q,Mr,Duane,Small,1,Small
+282,0,3,"Olsson, Mr. Nils Johan Goransson",male,Z,28.0,0,0,347464,$7.85,,S,Mr,Olsson,Small,1,Small
+283,0,3,"de Pelsmaeker, Mr. Alfons",male,Z,16.0,0,0,345778,$9.50,,S,Mr,de Pelsmaeker,Small,1,Small
+284,1,3,"Dorking, Mr. Edward Arthur",male,Z,19.0,0,0,A/5. 10482,$8.05,,S,Mr,Dorking,Small,1,Small
+285,0,1,"Smith, Mr. Richard William",male,A,42.5,0,0,113056,$26.00,A19,S,Mr,Smith,Small,1,Small
+286,0,3,"Stankovic, Mr. Ivan",male,Z,33.0,0,0,349239,$8.66,,C,Mr,Stankovic,Small,1,Small
+287,1,3,"de Mulder, Mr. Theodore",male,Z,30.0,0,0,345774,$9.50,,S,Mr,de Mulder,Small,1,Small
+288,0,3,"Naidenoff, Mr. Penko",male,Z,22.0,0,0,349206,$7.90,,S,Mr,Naidenoff,Small,1,Small
+289,1,2,"Hosono, Mr. Masabumi",male,Z,42.0,0,0,237798,$13.00,,S,Mr,Hosono,Small,1,Small
+290,1,3,"Connolly, Miss. Kate",female,Z,22.0,0,0,370373,$7.75,,Q,Miss,Connolly,Small,1,Small
+291,1,1,"Barber, Miss. Ellen ""Nellie""",female,Z,26.0,0,0,19877,$78.85,,S,Miss,Barber,Small,1,Small
+292,1,1,"Bishop, Mrs. Dickinson H (Helen Walton)",female,B,19.0,1,0,11967,$91.08,B49,C,Mrs,Bishop,Small,2,Small
+293,0,2,"Levy, Mr. Rene Jacques",male,D,36.0,0,0,SC/Paris 2163,$12.88,D,C,Mr,Levy,Small,1,Small
+294,0,3,"Haas, Miss. Aloisia",female,Z,24.0,0,0,349236,$8.85,,S,Miss,Haas,Small,1,Small
+295,0,3,"Mineff, Mr. Ivan",male,Z,24.0,0,0,349233,$7.90,,S,Mr,Mineff,Small,1,Small
+296,0,1,"Lewy, Mr. Ervin G",male,Z,42.5,0,0,PC 17612,$27.72,,C,Mr,Lewy,Small,1,Small
+297,0,3,"Hanna, Mr. Mansour",male,Z,23.5,0,0,2693,$7.23,,C,Mr,Hanna,Small,1,Small
+298,0,1,"Allison, Miss. Helen Loraine",female,C,2.0,1,2,113781,$151.55,C22 C26,S,Miss,Allison,4Allison,4,4Allison
+299,1,1,"Saalfeld, Mr. Adolphe",male,C,42.5,0,0,19988,$30.50,C106,S,Mr,Saalfeld,Small,1,Small
+300,1,1,"Baxter, Mrs. James (Helene DeLaudeniere Chaput)",female,B,50.0,0,1,PC 17558,$247.52,B58 B60,C,Mrs,Baxter,Small,2,Small
+301,1,3,"Kelly, Miss. Anna Katherine ""Annie Kate""",female,Z,22.3,0,0,9234,$7.75,,Q,Miss,Kelly,Small,1,Small
+302,1,3,"McCoy, Mr. Bernard",male,Z,28.9,2,0,367226,$23.25,,Q,Mr,McCoy,3McCoy,3,Small
+303,0,3,"Johnson, Mr. William Cahoone Jr",male,Z,19.0,0,0,LINE,$0.00,,S,Mr,Johnson,Small,1,Small
+304,1,2,"Keane, Miss. Nora A",female,E,31.8,0,0,226593,$12.35,E101,Q,Miss,Keane,Small,1,Small
+305,0,3,"Williams, Mr. Howard Hugh ""Harry""",male,Z,28.9,0,0,A/5 2466,$8.05,,S,Mr,Williams,Small,1,Small
+306,1,1,"Allison, Master. Hudson Trevor",male,C,0.9,1,2,113781,$151.55,C22 C26,S,Master,Allison,4Allison,4,4Allison
+307,1,1,"Fleming, Miss. Margaret",female,Z,31.8,0,0,17421,$110.88,,C,Miss,Fleming,Small,1,Small
+308,1,1,"Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)",female,C,17.0,1,0,PC 17758,$108.90,C65,C,Mrs,Penasco y Castellana,Small,2,Small
+309,0,2,"Abelson, Mr. Samuel",male,Z,30.0,1,0,P/PP 3381,$24.00,,C,Mr,Abelson,Small,2,Small
+310,1,1,"Francatelli, Miss. Laura Mabel",female,E,30.0,0,0,PC 17485,$56.93,E36,C,Miss,Francatelli,Small,1,Small
+311,1,1,"Hays, Miss. Margaret Bechstein",female,C,24.0,0,0,11767,$83.16,C54,C,Miss,Hays,Small,1,Small
+312,1,1,"Ryerson, Miss. Emily Borie",female,B,18.0,2,2,PC 17608,$262.38,B57 B59 B63 B66,C,Miss,Ryerson,5Ryerson,5,5Ryerson
+313,0,2,"Lahtinen, Mrs. William (Anna Sylfven)",female,Z,26.0,1,1,250651,$26.00,,S,Mrs,Lahtinen,Small,3,Small
+314,0,3,"Hendekovic, Mr. Ignjac",male,Z,28.0,0,0,349243,$7.90,,S,Mr,Hendekovic,Small,1,Small
+315,0,2,"Hart, Mr. Benjamin",male,Z,43.0,1,1,F.C.C. 13529,$26.25,,S,Mr,Hart,3Hart,3,Small
+316,1,3,"Nilsson, Miss. Helmina Josefina",female,Z,26.0,0,0,347470,$7.85,,S,Miss,Nilsson,Small,1,Small
+317,1,2,"Kantor, Mrs. Sinai (Miriam Sternin)",female,Z,24.0,1,0,244367,$26.00,,S,Mrs,Kantor,Small,2,Small
+318,0,2,"Moraweck, Dr. Ernest",male,Z,54.0,0,0,29011,$14.00,,S,Dr,Moraweck,Small,1,Small
+319,1,1,"Wick, Miss. Mary Natalie",female,C,31.0,0,2,36928,$164.87,C7,S,Miss,Wick,3Wick,3,Small
+320,1,1,"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)",female,E,40.0,1,1,16966,$134.50,E34,C,Mrs,Spedden,3Spedden,3,Small
+321,0,3,"Dennis, Mr. Samuel",male,Z,22.0,0,0,A/5 21172,$7.25,,S,Mr,Dennis,Small,1,Small
+322,0,3,"Danoff, Mr. Yoto",male,Z,27.0,0,0,349219,$7.90,,S,Mr,Danoff,Small,1,Small
+323,1,2,"Slayter, Miss. Hilda Mary",female,Z,30.0,0,0,234818,$12.35,,Q,Miss,Slayter,Small,1,Small
+324,1,2,"Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)",female,Z,22.0,1,1,248738,$29.00,,S,Mrs,Caldwell,3Caldwell,3,Small
+325,0,3,"Sage, Mr. George John Jr",male,Z,28.9,8,2,CA. 2343,$69.55,,S,Mr,Sage,11Sage,11,11Sage
+326,1,1,"Young, Miss. Marie Grice",female,C,36.0,0,0,PC 17760,$135.63,C32,C,Miss,Young,Small,1,Small
+327,0,3,"Nysveen, Mr. Johan Hansen",male,Z,61.0,0,0,345364,$6.24,,S,Mr,Nysveen,Small,1,Small
+328,1,2,"Ball, Mrs. (Ada E Hall)",female,D,36.0,0,0,28551,$13.00,D,S,Mrs,Ball,Small,1,Small
+329,1,3,"Goldsmith, Mrs. Frank John (Emily Alice Brown)",female,Z,31.0,1,1,363291,$20.53,,S,Mrs,Goldsmith,3Goldsmith,3,Small
+330,1,1,"Hippach, Miss. Jean Gertrude",female,B,16.0,0,1,111361,$57.98,B18,C,Miss,Hippach,Small,2,Small
+331,1,3,"McCoy, Miss. Agnes",female,Z,22.3,2,0,367226,$23.25,,Q,Miss,McCoy,3McCoy,3,Small
+332,0,1,"Partner, Mr. Austen",male,C,45.5,0,0,113043,$28.50,C124,S,Mr,Partner,Small,1,Small
+333,0,1,"Graham, Mr. George Edward",male,C,38.0,0,1,PC 17582,$153.46,C91,S,Mr,Graham,Small,2,Small
+334,0,3,"Vander Planke, Mr. Leo Edmondus",male,Z,16.0,2,0,345764,$18.00,,S,Mr,Vander Planke,Small,3,Small
+335,1,1,"Frauenthal, Mrs. Henry William (Clara Heinsheimer)",female,Z,42.5,1,0,PC 17611,$133.65,,S,Mrs,Frauenthal,Small,2,Small
+336,0,3,"Denkoff, Mr. Mitto",male,Z,28.9,0,0,349225,$7.90,,S,Mr,Denkoff,Small,1,Small
+337,0,1,"Pears, Mr. Thomas Clinton",male,C,29.0,1,0,113776,$66.60,C2,S,Mr,Pears,Small,2,Small
+338,1,1,"Burns, Miss. Elizabeth Margaret",female,Z,41.0,0,0,16966,$134.50,E40,C,Miss,Burns,Small,1,Small
+339,1,3,"Dahl, Mr. Karl Edwart",male,Z,45.0,0,0,7598,$8.05,,S,Mr,Dahl,Small,1,Small
+340,0,1,"Blackwell, Mr. Stephen Weart",male,BD,45.0,0,0,113784,$35.50,T,S,Mr,Blackwell,Small,1,Small
+341,1,2,"Navratil, Master. Edmond Roger",male,F,2.0,1,1,230080,$26.00,F2,S,Master,Navratil,3Navratil,3,Small
+342,1,1,"Fortune, Miss. Alice Elizabeth",female,C,24.0,3,2,19950,$263.00,C23 C25 C27,S,Miss,Fortune,6Fortune,6,6Fortune
+343,0,2,"Collander, Mr. Erik Gustaf",male,Z,28.0,0,0,248740,$13.00,,S,Mr,Collander,Small,1,Small
+344,0,2,"Sedgwick, Mr. Charles Frederick Waddington",male,Z,25.0,0,0,244361,$13.00,,S,Mr,Sedgwick,Small,1,Small
+345,0,2,"Fox, Mr. Stanley Hubert",male,Z,36.0,0,0,229236,$13.00,,S,Mr,Fox,Small,1,Small
+346,1,2,"Brown, Miss. Amelia ""Mildred""",female,F,24.0,0,0,248733,$13.00,F33,S,Miss,Brown,Small,1,Small
+347,1,2,"Smith, Miss. Marion Elsie",female,Z,40.0,0,0,31418,$13.00,,S,Miss,Smith,Small,1,Small
+348,1,3,"Davison, Mrs. Thomas Henry (Mary E Finck)",female,Z,28.9,1,0,386525,$16.10,,S,Mrs,Davison,Small,2,Small
+349,1,3,"Coutts, Master. William Loch ""William""",male,Z,3.0,1,1,C.A. 37671,$15.90,,S,Master,Coutts,3Coutts,3,Small
+350,0,3,"Dimic, Mr. Jovan",male,Z,42.0,0,0,315088,$8.66,,S,Mr,Dimic,Small,1,Small
+351,0,3,"Odahl, Mr. Nils Martin",male,Z,23.0,0,0,7267,$9.23,,S,Mr,Odahl,Small,1,Small
+352,0,1,"Williams-Lambert, Mr. Fletcher Fellows",male,C,42.5,0,0,113510,$35.00,C128,S,Mr,Williams-Lambert,Small,1,Small
+353,0,3,"Elias, Mr. Tannous",male,Z,15.0,1,1,2695,$7.23,,C,Mr,Elias,3Elias,3,Small
+354,0,3,"Arnold-Franchi, Mr. Josef",male,Z,25.0,1,0,349237,$17.80,,S,Mr,Arnold-Franchi,Small,2,Small
+355,0,3,"Yousif, Mr. Wazli",male,Z,28.9,0,0,2647,$7.23,,C,Mr,Yousif,Small,1,Small
+356,0,3,"Vanden Steen, Mr. Leo Peter",male,Z,28.0,0,0,345783,$9.50,,S,Mr,Vanden Steen,Small,1,Small
+357,1,1,"Bowerman, Miss. Elsie Edith",female,E,22.0,0,1,113505,$55.00,E33,S,Miss,Bowerman,Small,2,Small
+358,0,2,"Funk, Miss. Annie Clemmer",female,Z,38.0,0,0,237671,$13.00,,S,Miss,Funk,Small,1,Small
+359,1,3,"McGovern, Miss. Mary",female,Z,22.3,0,0,330931,$7.88,,Q,Miss,McGovern,Small,1,Small
+360,1,3,"Mockler, Miss. Helen Mary ""Ellie""",female,Z,22.3,0,0,330980,$7.88,,Q,Miss,Mockler,Small,1,Small
+361,0,3,"Skoog, Mr. Wilhelm",male,Z,40.0,1,4,347088,$27.90,,S,Mr,Skoog,6Skoog,6,6Skoog
+362,0,2,"del Carlo, Mr. Sebastiano",male,Z,29.0,1,0,SC/PARIS 2167,$27.72,,C,Mr,del Carlo,Small,2,Small
+363,0,3,"Barbara, Mrs. (Catherine David)",female,Z,45.0,0,1,2691,$14.45,,C,Mrs,Barbara,Small,2,Small
+364,0,3,"Asim, Mr. Adola",male,Z,35.0,0,0,SOTON/O.Q. 3101310,$7.05,,S,Mr,Asim,Small,1,Small
+365,0,3,"O'Brien, Mr. Thomas",male,Z,28.9,1,0,370365,$15.50,,Q,Mr,O'Brien,Small,2,Small
+366,0,3,"Adahl, Mr. Mauritz Nils Martin",male,Z,30.0,0,0,C 7076,$7.25,,S,Mr,Adahl,Small,1,Small
+367,1,1,"Warren, Mrs. Frank Manley (Anna Sophia Atkinson)",female,D,60.0,1,0,110813,$75.25,D37,C,Mrs,Warren,Small,2,Small
+368,1,3,"Moussa, Mrs. (Mantoura Boulos)",female,Z,28.9,0,0,2626,$7.23,,C,Mrs,Moussa,Small,1,Small
+369,1,3,"Jermyn, Miss. Annie",female,Z,22.3,0,0,14313,$7.75,,Q,Miss,Jermyn,Small,1,Small
+370,1,1,"Aubart, Mme. Leontine Pauline",female,B,24.0,0,0,PC 17477,$69.30,B35,C,Mme,Aubart,Small,1,Small
+371,1,1,"Harder, Mr. George Achilles",male,E,25.0,1,0,11765,$55.44,E50,C,Mr,Harder,Small,2,Small
+372,0,3,"Wiklund, Mr. Jakob Alfred",male,Z,18.0,1,0,3101267,$6.50,,S,Mr,Wiklund,Small,2,Small
+373,0,3,"Beavan, Mr. William Thomas",male,Z,19.0,0,0,323951,$8.05,,S,Mr,Beavan,Small,1,Small
+374,0,1,"Ringhini, Mr. Sante",male,Z,22.0,0,0,PC 17760,$135.63,,C,Mr,Ringhini,Small,1,Small
+375,0,3,"Palsson, Miss. Stina Viola",female,Z,3.0,3,1,349909,$21.08,,S,Miss,Palsson,5Palsson,5,5Palsson
+376,1,1,"Meyer, Mrs. Edgar Joseph (Leila Saks)",female,Z,42.5,1,0,PC 17604,$82.17,,C,Mrs,Meyer,Small,2,Small
+377,1,3,"Landergren, Miss. Aurora Adelia",female,Z,22.0,0,0,C 7077,$7.25,,S,Miss,Landergren,Small,1,Small
+378,0,1,"Widener, Mr. Harry Elkins",male,C,27.0,0,2,113503,$211.50,C82,C,Mr,Widener,3Widener,3,Small
+379,0,3,"Betros, Mr. Tannous",male,Z,20.0,0,0,2648,$4.01,,C,Mr,Betros,Small,1,Small
+380,0,3,"Gustafsson, Mr. Karl Gideon",male,Z,19.0,0,0,347069,$7.78,,S,Mr,Gustafsson,Small,1,Small
+381,1,1,"Bidois, Miss. Rosalie",female,Z,42.0,0,0,PC 17757,$227.53,,C,Miss,Bidois,Small,1,Small
+382,1,3,"Nakid, Miss. Maria (""Mary"")",female,Z,1.0,0,2,2653,$15.74,,C,Miss,Nakid,3Nakid,3,Small
+383,0,3,"Tikkanen, Mr. Juho",male,Z,32.0,0,0,STON/O 2. 3101293,$7.93,,S,Mr,Tikkanen,Small,1,Small
+384,1,1,"Holverson, Mrs. Alexander Oskar (Mary Aline Towner)",female,Z,35.0,1,0,113789,$52.00,,S,Mrs,Holverson,Small,2,Small
+385,0,3,"Plotcharsky, Mr. Vasil",male,Z,28.9,0,0,349227,$7.90,,S,Mr,Plotcharsky,Small,1,Small
+386,0,2,"Davies, Mr. Charles Henry",male,Z,18.0,0,0,S.O.C. 14879,$73.50,,S,Mr,Davies,Small,1,Small
+387,0,3,"Goodwin, Master. Sidney Leonard",male,Z,1.0,5,2,CA 2144,$46.90,,S,Master,Goodwin,8Goodwin,8,8Goodwin
+388,1,2,"Buss, Miss. Kate",female,Z,36.0,0,0,27849,$13.00,,S,Miss,Buss,Small,1,Small
+389,0,3,"Sadlier, Mr. Matthew",male,Z,28.9,0,0,367655,$7.73,,Q,Mr,Sadlier,Small,1,Small
+390,1,2,"Lehmann, Miss. Bertha",female,Z,17.0,0,0,SC 1748,$12.00,,C,Miss,Lehmann,Small,1,Small
+391,1,1,"Carter, Mr. William Ernest",male,B,36.0,1,2,113760,$120.00,B96 B98,S,Mr,Carter,4Carter,4,4Carter
+392,1,3,"Jansson, Mr. Carl Olof",male,Z,21.0,0,0,350034,$7.80,,S,Mr,Jansson,Small,1,Small
+393,0,3,"Gustafsson, Mr. Johan Birger",male,Z,28.0,2,0,3101277,$7.93,,S,Mr,Gustafsson,Small,3,Small
+394,1,1,"Newell, Miss. Marjorie",female,D,23.0,1,0,35273,$113.28,D36,C,Miss,Newell,Small,2,Small
+395,1,3,"Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)",female,G,24.0,0,2,PP 9549,$16.70,G6,S,Mrs,Sandstrom,3Sandstrom,3,Small
+396,0,3,"Johansson, Mr. Erik",male,Z,22.0,0,0,350052,$7.80,,S,Mr,Johansson,Small,1,Small
+397,0,3,"Olsson, Miss. Elina",female,Z,31.0,0,0,350407,$7.85,,S,Miss,Olsson,Small,1,Small
+398,0,2,"McKane, Mr. Peter David",male,Z,46.0,0,0,28403,$26.00,,S,Mr,McKane,Small,1,Small
+399,0,2,"Pain, Dr. Alfred",male,Z,23.0,0,0,244278,$10.50,,S,Dr,Pain,Small,1,Small
+400,1,2,"Trout, Mrs. William H (Jessie L)",female,Z,28.0,0,0,240929,$12.65,,S,Mrs,Trout,Small,1,Small
+401,1,3,"Niskanen, Mr. Juha",male,Z,39.0,0,0,STON/O 2. 3101289,$7.93,,S,Mr,Niskanen,Small,1,Small
+402,0,3,"Adams, Mr. John",male,Z,26.0,0,0,341826,$8.05,,S,Mr,Adams,Small,1,Small
+403,0,3,"Jussila, Miss. Mari Aina",female,Z,21.0,1,0,4137,$9.83,,S,Miss,Jussila,Small,2,Small
+404,0,3,"Hakkarainen, Mr. Pekka Pietari",male,Z,28.0,1,0,STON/O2. 3101279,$15.85,,S,Mr,Hakkarainen,Small,2,Small
+405,0,3,"Oreskovic, Miss. Marija",female,Z,20.0,0,0,315096,$8.66,,S,Miss,Oreskovic,Small,1,Small
+406,0,2,"Gale, Mr. Shadrach",male,Z,34.0,1,0,28664,$21.00,,S,Mr,Gale,Small,2,Small
+407,0,3,"Widegren, Mr. Carl/Charles Peter",male,Z,51.0,0,0,347064,$7.75,,S,Mr,Widegren,Small,1,Small
+408,1,2,"Richards, Master. William Rowe",male,Z,3.0,1,1,29106,$18.75,,S,Master,Richards,Small,3,Small
+409,0,3,"Birkeland, Mr. Hans Martin Monsen",male,Z,21.0,0,0,312992,$7.78,,S,Mr,Birkeland,Small,1,Small
+410,0,3,"Lefebre, Miss. Ida",female,Z,7.1,3,1,4133,$25.47,,S,Miss,Lefebre,5Lefebre,5,5Lefebre
+411,0,3,"Sdycoff, Mr. Todor",male,Z,28.9,0,0,349222,$7.90,,S,Mr,Sdycoff,Small,1,Small
+412,0,3,"Hart, Mr. Henry",male,Z,28.9,0,0,394140,$6.86,,Q,Mr,Hart,Small,1,Small
+413,1,1,"Minahan, Miss. Daisy E",female,C,33.0,1,0,19928,$90.00,C78,Q,Miss,Minahan,Small,2,Small
+414,0,2,"Cunningham, Mr. Alfred Fleming",male,Z,33.1,0,0,239853,$0.00,,S,Mr,Cunningham,Small,1,Small
+415,1,3,"Sundman, Mr. Johan Julian",male,Z,44.0,0,0,STON/O 2. 3101269,$7.93,,S,Mr,Sundman,Small,1,Small
+416,0,3,"Meek, Mrs. Thomas (Annie Louise Rowley)",female,Z,28.9,0,0,343095,$8.05,,S,Mrs,Meek,Small,1,Small
+417,1,2,"Drew, Mrs. James Vivian (Lulu Thorne Christian)",female,Z,34.0,1,1,28220,$32.50,,S,Mrs,Drew,3Drew,3,Small
+418,1,2,"Silven, Miss. Lyyli Karoliina",female,Z,18.0,0,2,250652,$13.00,,S,Miss,Silven,Small,3,Small
+419,0,2,"Matthews, Mr. William John",male,Z,30.0,0,0,28228,$13.00,,S,Mr,Matthews,Small,1,Small
+420,0,3,"Van Impe, Miss. Catharina",female,Z,10.0,0,2,345773,$24.15,,S,Miss,Van Impe,3Van Impe,3,Small
+421,0,3,"Gheorgheff, Mr. Stanio",male,Z,28.9,0,0,349254,$7.90,,C,Mr,Gheorgheff,Small,1,Small
+422,0,3,"Charters, Mr. David",male,Z,21.0,0,0,A/5. 13032,$7.73,,Q,Mr,Charters,Small,1,Small
+423,0,3,"Zimmerman, Mr. Leo",male,Z,29.0,0,0,315082,$7.88,,S,Mr,Zimmerman,Small,1,Small
+424,0,3,"Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren)",female,Z,28.0,1,1,347080,$14.40,,S,Mrs,Danbom,3Danbom,3,Small
+425,0,3,"Rosblom, Mr. Viktor Richard",male,Z,18.0,1,1,370129,$20.21,,S,Mr,Rosblom,3Rosblom,3,Small
+426,0,3,"Wiseman, Mr. Phillippe",male,Z,28.9,0,0,A/4. 34244,$7.25,,S,Mr,Wiseman,Small,1,Small
+427,1,2,"Clarke, Mrs. Charles V (Ada Maria Winfield)",female,Z,28.0,1,0,2003,$26.00,,S,Mrs,Clarke,Small,2,Small
+428,1,2,"Phillips, Miss. Kate Florence (""Mrs Kate Louise Phillips Marshall"")",female,Z,19.0,0,0,250655,$26.00,,S,Miss,Phillips,Small,1,Small
+429,0,3,"Flynn, Mr. James",male,Z,28.9,0,0,364851,$7.75,,Q,Mr,Flynn,Small,1,Small
+430,1,3,"Pickard, Mr. Berk (Berk Trembisky)",male,E,32.0,0,0,SOTON/O.Q. 392078,$8.05,E10,S,Mr,Pickard,Small,1,Small
+431,1,1,"Bjornstrom-Steffansson, Mr. Mauritz Hakan",male,C,28.0,0,0,110564,$26.55,C52,S,Mr,Bjornstrom-Steffansson,Small,1,Small
+432,1,3,"Thorneycroft, Mrs. Percival (Florence Kate White)",female,Z,28.9,1,0,376564,$16.10,,S,Mrs,Thorneycroft,Small,2,Small
+433,1,2,"Louch, Mrs. Charles Alexander (Alice Adelaide Slow)",female,Z,42.0,1,0,SC/AH 3085,$26.00,,S,Mrs,Louch,Small,2,Small
+434,0,3,"Kallio, Mr. Nikolai Erland",male,Z,17.0,0,0,STON/O 2. 3101274,$7.13,,S,Mr,Kallio,Small,1,Small
+435,0,1,"Silvey, Mr. William Baird",male,E,50.0,1,0,13507,$55.90,E44,S,Mr,Silvey,Small,2,Small
+436,1,1,"Carter, Miss. Lucile Polk",female,B,14.0,1,2,113760,$120.00,B96 B98,S,Miss,Carter,4Carter,4,4Carter
+437,0,3,"Ford, Miss. Doolina Margaret ""Daisy""",female,Z,21.0,2,2,W./C. 6608,$34.38,,S,Miss,Ford,5Ford,5,5Ford
+438,1,2,"Richards, Mrs. Sidney (Emily Hocking)",female,Z,24.0,2,3,29106,$18.75,,S,Mrs,Richards,Small,6,Small
+439,0,1,"Fortune, Mr. Mark",male,C,64.0,1,4,19950,$263.00,C23 C25 C27,S,Mr,Fortune,6Fortune,6,6Fortune
+440,0,2,"Kvillner, Mr. Johan Henrik Johannesson",male,Z,31.0,0,0,C.A. 18723,$10.50,,S,Mr,Kvillner,Small,1,Small
+441,1,2,"Hart, Mrs. Benjamin (Esther Ada Bloomfield)",female,Z,45.0,1,1,F.C.C. 13529,$26.25,,S,Mrs,Hart,3Hart,3,Small
+442,0,3,"Hampe, Mr. Leon",male,Z,20.0,0,0,345769,$9.50,,S,Mr,Hampe,Small,1,Small
+443,0,3,"Petterson, Mr. Johan Emil",male,Z,25.0,1,0,347076,$7.78,,S,Mr,Petterson,Small,2,Small
+444,1,2,"Reynaldo, Ms. Encarnacion",female,Z,28.0,0,0,230434,$13.00,,S,Ms,Reynaldo,Small,1,Small
+445,1,3,"Johannesen-Bratthammer, Mr. Bernt",male,Z,28.9,0,0,65306,$8.11,,S,Mr,Johannesen-Bratthammer,Small,1,Small
+446,1,1,"Dodge, Master. Washington",male,A,4.0,0,2,33638,$81.86,A34,S,Master,Dodge,3Dodge,3,Small
+447,1,2,"Mellinger, Miss. Madeleine Violet",female,Z,13.0,0,1,250644,$19.50,,S,Miss,Mellinger,Small,2,Small
+448,1,1,"Seward, Mr. Frederic Kimber",male,Z,34.0,0,0,113794,$26.55,,S,Mr,Seward,Small,1,Small
+449,1,3,"Baclini, Miss. Marie Catherine",female,Z,5.0,2,1,2666,$19.26,,C,Miss,Baclini,4Baclini,4,4Baclini
+450,1,1,"Peuchen, Major. Arthur Godfrey",male,C,52.0,0,0,113786,$30.50,C104,S,Sir,Peuchen,Small,1,Small
+451,0,2,"West, Mr. Edwy Arthur",male,Z,36.0,1,2,C.A. 34651,$27.75,,S,Mr,West,4West,4,4West
+452,0,3,"Hagland, Mr. Ingvald Olai Olsen",male,Z,28.9,1,0,65303,$19.97,,S,Mr,Hagland,Small,2,Small
+453,0,1,"Foreman, Mr. Benjamin Laventall",male,C,30.0,0,0,113051,$27.75,C111,C,Mr,Foreman,Small,1,Small
+454,1,1,"Goldenberg, Mr. Samuel L",male,C,49.0,1,0,17453,$89.10,C92,C,Mr,Goldenberg,Small,2,Small
+455,0,3,"Peduzzi, Mr. Joseph",male,Z,28.9,0,0,A/5 2817,$8.05,,S,Mr,Peduzzi,Small,1,Small
+456,1,3,"Jalsevac, Mr. Ivan",male,Z,29.0,0,0,349240,$7.90,,C,Mr,Jalsevac,Small,1,Small
+457,0,1,"Millet, Mr. Francis Davis",male,E,65.0,0,0,13509,$26.55,E38,S,Mr,Millet,Small,1,Small
+458,1,1,"Kenyon, Mrs. Frederick R (Marion)",female,D,42.5,1,0,17464,$51.86,D21,S,Mrs,Kenyon,Small,2,Small
+459,1,2,"Toomey, Miss. Ellen",female,Z,50.0,0,0,F.C.C. 13531,$10.50,,S,Miss,Toomey,Small,1,Small
+460,0,3,"O'Connor, Mr. Maurice",male,Z,28.9,0,0,371060,$7.75,,Q,Mr,O'Connor,Small,1,Small
+461,1,1,"Anderson, Mr. Harry",male,E,48.0,0,0,19952,$26.55,E12,S,Mr,Anderson,Small,1,Small
+462,0,3,"Morley, Mr. William",male,Z,34.0,0,0,364506,$8.05,,S,Mr,Morley,Small,1,Small
+463,0,1,"Gee, Mr. Arthur H",male,E,47.0,0,0,111320,$38.50,E63,S,Mr,Gee,Small,1,Small
+464,0,2,"Milling, Mr. Jacob Christian",male,Z,48.0,0,0,234360,$13.00,,S,Mr,Milling,Small,1,Small
+465,0,3,"Maisner, Mr. Simon",male,Z,28.9,0,0,A/S 2816,$8.05,,S,Mr,Maisner,Small,1,Small
+466,0,3,"Goncalves, Mr. Manuel Estanslas",male,Z,38.0,0,0,SOTON/O.Q. 3101306,$7.05,,S,Mr,Goncalves,Small,1,Small
+467,0,2,"Campbell, Mr. William",male,Z,33.1,0,0,239853,$0.00,,S,Mr,Campbell,Small,1,Small
+468,0,1,"Smart, Mr. John Montgomery",male,Z,56.0,0,0,113792,$26.55,,S,Mr,Smart,Small,1,Small
+469,0,3,"Scanlan, Mr. James",male,Z,28.9,0,0,36209,$7.73,,Q,Mr,Scanlan,Small,1,Small
+470,1,3,"Baclini, Miss. Helene Barbara",female,Z,0.8,2,1,2666,$19.26,,C,Miss,Baclini,4Baclini,4,4Baclini
+471,0,3,"Keefe, Mr. Arthur",male,Z,28.9,0,0,323592,$7.25,,S,Mr,Keefe,Small,1,Small
+472,0,3,"Cacic, Mr. Luka",male,Z,38.0,0,0,315089,$8.66,,S,Mr,Cacic,Small,1,Small
+473,1,2,"West, Mrs. Edwy Arthur (Ada Mary Worth)",female,Z,33.0,1,2,C.A. 34651,$27.75,,S,Mrs,West,4West,4,4West
+474,1,2,"Jerwan, Mrs. Amin S (Marie Marthe Thuillard)",female,D,23.0,0,0,SC/AH Basle 541,$13.79,D,C,Mrs,Jerwan,Small,1,Small
+475,0,3,"Strandberg, Miss. Ida Sofia",female,Z,22.0,0,0,7553,$9.84,,S,Miss,Strandberg,Small,1,Small
+476,0,1,"Clifford, Mr. George Quincy",male,A,42.5,0,0,110465,$52.00,A14,S,Mr,Clifford,Small,1,Small
+477,0,2,"Renouf, Mr. Peter Henry",male,Z,34.0,1,0,31027,$21.00,,S,Mr,Renouf,Small,2,Small
+478,0,3,"Braund, Mr. Lewis Richard",male,Z,29.0,1,0,3460,$7.05,,S,Mr,Braund,Small,2,Small
+479,0,3,"Karlsson, Mr. Nils August",male,Z,22.0,0,0,350060,$7.52,,S,Mr,Karlsson,Small,1,Small
+480,1,3,"Hirvonen, Miss. Hildur E",female,Z,2.0,0,1,3101298,$12.29,,S,Miss,Hirvonen,Small,2,Small
+481,0,3,"Goodwin, Master. Harold Victor",male,Z,9.0,5,2,CA 2144,$46.90,,S,Master,Goodwin,8Goodwin,8,8Goodwin
+482,0,2,"Frost, Mr. Anthony Wood ""Archie""",male,Z,33.1,0,0,239854,$0.00,,S,Mr,Frost,Small,1,Small
+483,0,3,"Rouse, Mr. Richard Henry",male,Z,50.0,0,0,A/5 3594,$8.05,,S,Mr,Rouse,Small,1,Small
+484,1,3,"Turkula, Mrs. (Hedwig)",female,Z,63.0,0,0,4134,$9.59,,S,Mrs,Turkula,Small,1,Small
+485,1,1,"Bishop, Mr. Dickinson H",male,B,25.0,1,0,11967,$91.08,B49,C,Mr,Bishop,Small,2,Small
+486,0,3,"Lefebre, Miss. Jeannie",female,Z,7.1,3,1,4133,$25.47,,S,Miss,Lefebre,5Lefebre,5,5Lefebre
+487,1,1,"Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)",female,C,35.0,1,0,19943,$90.00,C93,S,Mrs,Hoyt,Small,2,Small
+488,0,1,"Kent, Mr. Edward Austin",male,B,58.0,0,0,11771,$29.70,B37,C,Mr,Kent,Small,1,Small
+489,0,3,"Somerton, Mr. Francis William",male,Z,30.0,0,0,A.5. 18509,$8.05,,S,Mr,Somerton,Small,1,Small
+490,1,3,"Coutts, Master. Eden Leslie ""Neville""",male,Z,9.0,1,1,C.A. 37671,$15.90,,S,Master,Coutts,3Coutts,3,Small
+491,0,3,"Hagland, Mr. Konrad Mathias Reiersen",male,Z,28.9,1,0,65304,$19.97,,S,Mr,Hagland,Small,2,Small
+492,0,3,"Windelov, Mr. Einar",male,Z,21.0,0,0,SOTON/OQ 3101317,$7.25,,S,Mr,Windelov,Small,1,Small
+493,0,1,"Molson, Mr. Harry Markland",male,C,55.0,0,0,113787,$30.50,C30,S,Mr,Molson,Small,1,Small
+494,0,1,"Artagaveytia, Mr. Ramon",male,Z,71.0,0,0,PC 17609,$49.50,,C,Mr,Artagaveytia,Small,1,Small
+495,0,3,"Stanley, Mr. Edward Roland",male,Z,21.0,0,0,A/4 45380,$8.05,,S,Mr,Stanley,Small,1,Small
+496,0,3,"Yousseff, Mr. Gerious",male,Z,28.9,0,0,2627,$14.46,,C,Mr,Yousseff,Small,1,Small
+497,1,1,"Eustis, Miss. Elizabeth Mussey",female,D,54.0,1,0,36947,$78.27,D20,C,Miss,Eustis,Small,2,Small
+498,0,3,"Shellard, Mr. Frederick William",male,Z,28.9,0,0,C.A. 6212,$15.10,,S,Mr,Shellard,Small,1,Small
+499,0,1,"Allison, Mrs. Hudson J C (Bessie Waldo Daniels)",female,C,25.0,1,2,113781,$151.55,C22 C26,S,Mrs,Allison,4Allison,4,4Allison
+500,0,3,"Svensson, Mr. Olof",male,Z,24.0,0,0,350035,$7.80,,S,Mr,Svensson,Small,1,Small
+501,0,3,"Calic, Mr. Petar",male,Z,17.0,0,0,315086,$8.66,,S,Mr,Calic,Small,1,Small
+502,0,3,"Canavan, Miss. Mary",female,Z,21.0,0,0,364846,$7.75,,Q,Miss,Canavan,Small,1,Small
+503,0,3,"O'Sullivan, Miss. Bridget Mary",female,Z,22.3,0,0,330909,$7.63,,Q,Miss,O'Sullivan,Small,1,Small
+504,0,3,"Laitinen, Miss. Kristina Sofia",female,Z,37.0,0,0,4135,$9.59,,S,Miss,Laitinen,Small,1,Small
+505,1,1,"Maioni, Miss. Roberta",female,B,16.0,0,0,110152,$86.50,B79,S,Miss,Maioni,Small,1,Small
+506,0,1,"Penasco y Castellana, Mr. Victor de Satode",male,C,18.0,1,0,PC 17758,$108.90,C65,C,Mr,Penasco y Castellana,Small,2,Small
+507,1,2,"Quick, Mrs. Frederick Charles (Jane Richards)",female,Z,33.0,0,2,26360,$26.00,,S,Mrs,Quick,3Quick,3,Small
+508,1,1,"Bradley, Mr. George (""George Arthur Brayton"")",male,Z,42.5,0,0,111427,$26.55,,S,Mr,Bradley,Small,1,Small
+509,0,3,"Olsen, Mr. Henry Margido",male,Z,28.0,0,0,C 4001,$22.53,,S,Mr,Olsen,Small,1,Small
+510,1,3,"Lang, Mr. Fang",male,Z,26.0,0,0,1601,$56.50,,S,Mr,Lang,Small,1,Small
+511,1,3,"Daly, Mr. Eugene Patrick",male,Z,29.0,0,0,382651,$7.75,,Q,Mr,Daly,Small,1,Small
+512,0,3,"Webber, Mr. James",male,Z,28.9,0,0,SOTON/OQ 3101316,$8.05,,S,Mr,Webber,Small,1,Small
+513,1,1,"McGough, Mr. James Robert",male,E,36.0,0,0,PC 17473,$26.29,E25,S,Mr,McGough,Small,1,Small
+514,1,1,"Rothschild, Mrs. Martin (Elizabeth L. Barrett)",female,Z,54.0,1,0,PC 17603,$59.40,,C,Mrs,Rothschild,Small,2,Small
+515,0,3,"Coleff, Mr. Satio",male,Z,24.0,0,0,349209,$7.50,,S,Mr,Coleff,Small,1,Small
+516,0,1,"Walker, Mr. William Anderson",male,D,47.0,0,0,36967,$34.02,D46,S,Mr,Walker,Small,1,Small
+517,1,2,"Lemore, Mrs. (Amelia Milley)",female,F,34.0,0,0,C.A. 34260,$10.50,F33,S,Mrs,Lemore,Small,1,Small
+518,0,3,"Ryan, Mr. Patrick",male,Z,28.9,0,0,371110,$24.15,,Q,Mr,Ryan,Small,1,Small
+519,1,2,"Angle, Mrs. William A (Florence ""Mary"" Agnes Hughes)",female,Z,36.0,1,0,226875,$26.00,,S,Mrs,Angle,Small,2,Small
+520,0,3,"Pavlovic, Mr. Stefo",male,Z,32.0,0,0,349242,$7.90,,S,Mr,Pavlovic,Small,1,Small
+521,1,1,"Perreault, Miss. Anne",female,B,30.0,0,0,12749,$93.50,B73,S,Miss,Perreault,Small,1,Small
+522,0,3,"Vovk, Mr. Janko",male,Z,22.0,0,0,349252,$7.90,,S,Mr,Vovk,Small,1,Small
+523,0,3,"Lahoud, Mr. Sarkis",male,Z,28.9,0,0,2624,$7.23,,C,Mr,Lahoud,Small,1,Small
+524,1,1,"Hippach, Mrs. Louis Albert (Ida Sophia Fischer)",female,B,44.0,0,1,111361,$57.98,B18,C,Mrs,Hippach,Small,2,Small
+525,0,3,"Kassem, Mr. Fared",male,Z,28.9,0,0,2700,$7.23,,C,Mr,Kassem,Small,1,Small
+526,0,3,"Farrell, Mr. James",male,Z,40.5,0,0,367232,$7.75,,Q,Mr,Farrell,Small,1,Small
+527,1,2,"Ridsdale, Miss. Lucy",female,Z,50.0,0,0,W./C. 14258,$10.50,,S,Miss,Ridsdale,Small,1,Small
+528,0,1,"Farthing, Mr. John",male,C,42.5,0,0,PC 17483,$221.78,C95,S,Mr,Farthing,Small,1,Small
+529,0,3,"Salonen, Mr. Johan Werner",male,Z,39.0,0,0,3101296,$7.93,,S,Mr,Salonen,Small,1,Small
+530,0,2,"Hocking, Mr. Richard George",male,Z,23.0,2,1,29104,$11.50,,S,Mr,Hocking,Small,4,Small
+531,1,2,"Quick, Miss. Phyllis May",female,Z,2.0,1,1,26360,$26.00,,S,Miss,Quick,3Quick,3,Small
+532,0,3,"Toufik, Mr. Nakli",male,Z,28.9,0,0,2641,$7.23,,C,Mr,Toufik,Small,1,Small
+533,0,3,"Elias, Mr. Joseph Jr",male,Z,17.0,1,1,2690,$7.23,,C,Mr,Elias,3Elias,3,Small
+534,1,3,"Peter, Mrs. Catherine (Catherine Rizk)",female,Z,28.9,0,2,2668,$22.36,,C,Mrs,Peter,3Peter,3,Small
+535,0,3,"Cacic, Miss. Marija",female,Z,30.0,0,0,315084,$8.66,,S,Miss,Cacic,Small,1,Small
+536,1,2,"Hart, Miss. Eva Miriam",female,Z,7.0,0,2,F.C.C. 13529,$26.25,,S,Miss,Hart,3Hart,3,Small
+537,0,1,"Butt, Major. Archibald Willingham",male,B,45.0,0,0,113050,$26.55,B38,S,Sir,Butt,Small,1,Small
+538,1,1,"LeRoy, Miss. Bertha",female,Z,30.0,0,0,PC 17761,$106.43,,C,Miss,LeRoy,Small,1,Small
+539,0,3,"Risien, Mr. Samuel Beard",male,Z,28.9,0,0,364498,$14.50,,S,Mr,Risien,Small,1,Small
+540,1,1,"Frolicher, Miss. Hedwig Margaritha",female,B,22.0,0,2,13568,$49.50,B39,C,Miss,Frolicher,Small,3,Small
+541,1,1,"Crosby, Miss. Harriet R",female,B,36.0,0,2,WE/P 5735,$71.00,B22,S,Miss,Crosby,3Crosby,3,Small
+542,0,3,"Andersson, Miss. Ingeborg Constanzia",female,Z,9.0,4,2,347082,$31.28,,S,Miss,Andersson,7Andersson,7,7Andersson
+543,0,3,"Andersson, Miss. Sigrid Elisabeth",female,Z,11.0,4,2,347082,$31.28,,S,Miss,Andersson,7Andersson,7,7Andersson
+544,1,2,"Beane, Mr. Edward",male,Z,32.0,1,0,2908,$26.00,,S,Mr,Beane,Small,2,Small
+545,0,1,"Douglas, Mr. Walter Donald",male,C,50.0,1,0,PC 17761,$106.43,C86,C,Mr,Douglas,Small,2,Small
+546,0,1,"Nicholson, Mr. Arthur Ernest",male,Z,64.0,0,0,693,$26.00,,S,Mr,Nicholson,Small,1,Small
+547,1,2,"Beane, Mrs. Edward (Ethel Clarke)",female,Z,19.0,1,0,2908,$26.00,,S,Mrs,Beane,Small,2,Small
+548,1,2,"Padro y Manent, Mr. Julian",male,Z,33.1,0,0,SC/PARIS 2146,$13.86,,C,Mr,Padro y Manent,Small,1,Small
+549,0,3,"Goldsmith, Mr. Frank John",male,Z,33.0,1,1,363291,$20.53,,S,Mr,Goldsmith,3Goldsmith,3,Small
+550,1,2,"Davies, Master. John Morgan Jr",male,Z,8.0,1,1,C.A. 33112,$36.75,,S,Master,Davies,3Davies,3,Small
+551,1,1,"Thayer, Mr. John Borland Jr",male,C,17.0,0,2,17421,$110.88,C70,C,Mr,Thayer,3Thayer,3,Small
+552,0,2,"Sharp, Mr. Percival James R",male,Z,27.0,0,0,244358,$26.00,,S,Mr,Sharp,Small,1,Small
+553,0,3,"O'Brien, Mr. Timothy",male,Z,28.9,0,0,330979,$7.83,,Q,Mr,O'Brien,Small,1,Small
+554,1,3,"Leeni, Mr. Fahim (""Philip Zenni"")",male,Z,22.0,0,0,2620,$7.23,,C,Mr,Leeni,Small,1,Small
+555,1,3,"Ohman, Miss. Velin",female,Z,22.0,0,0,347085,$7.78,,S,Miss,Ohman,Small,1,Small
+556,0,1,"Wright, Mr. George",male,Z,62.0,0,0,113807,$26.55,,S,Mr,Wright,Small,1,Small
+557,1,1,"Duff Gordon, Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")",female,A,48.0,1,0,11755,$39.60,A16,C,Lady,Duff Gordon,Small,2,Small
+558,0,1,"Robbins, Mr. Victor",male,Z,42.5,0,0,PC 17757,$227.53,,C,Mr,Robbins,Small,1,Small
+559,1,1,"Taussig, Mrs. Emil (Tillie Mandelbaum)",female,E,39.0,1,1,110413,$79.65,E67,S,Mrs,Taussig,3Taussig,3,Small
+560,1,3,"de Messemaeker, Mrs. Guillaume Joseph (Emma)",female,Z,36.0,1,0,345572,$17.40,,S,Mrs,de Messemaeker,Small,2,Small
+561,0,3,"Morrow, Mr. Thomas Rowan",male,Z,28.9,0,0,372622,$7.75,,Q,Mr,Morrow,Small,1,Small
+562,0,3,"Sivic, Mr. Husein",male,Z,40.0,0,0,349251,$7.90,,S,Mr,Sivic,Small,1,Small
+563,0,2,"Norman, Mr. Robert Douglas",male,Z,28.0,0,0,218629,$13.50,,S,Mr,Norman,Small,1,Small
+564,0,3,"Simmons, Mr. John",male,Z,28.9,0,0,SOTON/OQ 392082,$8.05,,S,Mr,Simmons,Small,1,Small
+565,0,3,"Meanwell, Miss. (Marion Ogden)",female,Z,22.3,0,0,SOTON/O.Q. 392087,$8.05,,S,Miss,Meanwell,Small,1,Small
+566,0,3,"Davies, Mr. Alfred J",male,Z,24.0,2,0,A/4 48871,$24.15,,S,Mr,Davies,3Davies,3,Small
+567,0,3,"Stoytcheff, Mr. Ilia",male,Z,19.0,0,0,349205,$7.90,,S,Mr,Stoytcheff,Small,1,Small
+568,0,3,"Palsson, Mrs. Nils (Alma Cornelia Berglund)",female,Z,29.0,0,4,349909,$21.08,,S,Mrs,Palsson,5Palsson,5,5Palsson
+569,0,3,"Doharr, Mr. Tannous",male,Z,28.9,0,0,2686,$7.23,,C,Mr,Doharr,Small,1,Small
+570,1,3,"Jonsson, Mr. Carl",male,Z,32.0,0,0,350417,$7.85,,S,Mr,Jonsson,Small,1,Small
+571,1,2,"Harris, Mr. George",male,Z,62.0,0,0,S.W./PP 752,$10.50,,S,Mr,Harris,Small,1,Small
+572,1,1,"Appleton, Mrs. Edward Dale (Charlotte Lamson)",female,C,53.0,2,0,11769,$51.48,C101,S,Mrs,Appleton,Small,3,Small
+573,1,1,"Flynn, Mr. John Irwin (""Irving"")",male,E,36.0,0,0,PC 17474,$26.39,E25,S,Mr,Flynn,Small,1,Small
+574,1,3,"Kelly, Miss. Mary",female,Z,22.3,0,0,14312,$7.75,,Q,Miss,Kelly,Small,1,Small
+575,0,3,"Rush, Mr. Alfred George John",male,Z,16.0,0,0,A/4. 20589,$8.05,,S,Mr,Rush,Small,1,Small
+576,0,3,"Patchett, Mr. George",male,Z,19.0,0,0,358585,$14.50,,S,Mr,Patchett,Small,1,Small
+577,1,2,"Garside, Miss. Ethel",female,Z,34.0,0,0,243880,$13.00,,S,Miss,Garside,Small,1,Small
+578,1,1,"Silvey, Mrs. William Baird (Alice Munger)",female,E,39.0,1,0,13507,$55.90,E44,S,Mrs,Silvey,Small,2,Small
+579,0,3,"Caram, Mrs. Joseph (Maria Elias)",female,Z,28.9,1,0,2689,$14.46,,C,Mrs,Caram,Small,2,Small
+580,1,3,"Jussila, Mr. Eiriik",male,Z,32.0,0,0,STON/O 2. 3101286,$7.93,,S,Mr,Jussila,Small,1,Small
+581,1,2,"Christy, Miss. Julie Rachel",female,Z,25.0,1,1,237789,$30.00,,S,Miss,Christy,Small,3,Small
+582,1,1,"Thayer, Mrs. John Borland (Marian Longstreth Morris)",female,C,39.0,1,1,17421,$110.88,C68,C,Mrs,Thayer,3Thayer,3,Small
+583,0,2,"Downton, Mr. William James",male,Z,54.0,0,0,28403,$26.00,,S,Mr,Downton,Small,1,Small
+584,0,1,"Ross, Mr. John Hugo",male,A,36.0,0,0,13049,$40.13,A10,C,Mr,Ross,Small,1,Small
+585,0,3,"Paulner, Mr. Uscher",male,Z,28.9,0,0,3411,$8.71,,C,Mr,Paulner,Small,1,Small
+586,1,1,"Taussig, Miss. Ruth",female,E,18.0,0,2,110413,$79.65,E68,S,Miss,Taussig,3Taussig,3,Small
+587,0,2,"Jarvis, Mr. John Denzil",male,Z,47.0,0,0,237565,$15.00,,S,Mr,Jarvis,Small,1,Small
+588,1,1,"Frolicher-Stehli, Mr. Maxmillian",male,B,60.0,1,1,13567,$79.20,B41,C,Mr,Frolicher-Stehli,Small,3,Small
+589,0,3,"Gilinski, Mr. Eliezer",male,Z,22.0,0,0,14973,$8.05,,S,Mr,Gilinski,Small,1,Small
+590,0,3,"Murdlin, Mr. Joseph",male,Z,28.9,0,0,A./5. 3235,$8.05,,S,Mr,Murdlin,Small,1,Small
+591,0,3,"Rintamaki, Mr. Matti",male,Z,35.0,0,0,STON/O 2. 3101273,$7.13,,S,Mr,Rintamaki,Small,1,Small
+592,1,1,"Stephenson, Mrs. Walter Bertram (Martha Eustis)",female,D,52.0,1,0,36947,$78.27,D20,C,Mrs,Stephenson,Small,2,Small
+593,0,3,"Elsbury, Mr. William James",male,Z,47.0,0,0,A/5 3902,$7.25,,S,Mr,Elsbury,Small,1,Small
+594,0,3,"Bourke, Miss. Mary",female,Z,7.1,0,2,364848,$7.75,,Q,Miss,Bourke,3Bourke,3,Small
+595,0,2,"Chapman, Mr. John Henry",male,Z,37.0,1,0,SC/AH 29037,$26.00,,S,Mr,Chapman,Small,2,Small
+596,0,3,"Van Impe, Mr. Jean Baptiste",male,Z,36.0,1,1,345773,$24.15,,S,Mr,Van Impe,3Van Impe,3,Small
+597,1,2,"Leitch, Miss. Jessie Wills",female,Z,31.8,0,0,248727,$33.00,,S,Miss,Leitch,Small,1,Small
+598,0,3,"Johnson, Mr. Alfred",male,Z,49.0,0,0,LINE,$0.00,,S,Mr,Johnson,Small,1,Small
+599,0,3,"Boulos, Mr. Hanna",male,Z,28.9,0,0,2664,$7.23,,C,Mr,Boulos,Small,1,Small
+600,1,1,"Duff Gordon, Sir. Cosmo Edmund (""Mr Morgan"")",male,A,49.0,1,0,PC 17485,$56.93,A20,C,Sir,Duff Gordon,Small,2,Small
+601,1,2,"Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)",female,Z,24.0,2,1,243847,$27.00,,S,Mrs,Jacobsohn,Small,4,Small
+602,0,3,"Slabenoff, Mr. Petco",male,Z,28.9,0,0,349214,$7.90,,S,Mr,Slabenoff,Small,1,Small
+603,0,1,"Harrington, Mr. Charles H",male,Z,42.5,0,0,113796,$42.40,,S,Mr,Harrington,Small,1,Small
+604,0,3,"Torber, Mr. Ernst William",male,Z,44.0,0,0,364511,$8.05,,S,Mr,Torber,Small,1,Small
+605,1,1,"Homer, Mr. Harry (""Mr E Haven"")",male,Z,35.0,0,0,111426,$26.55,,C,Mr,Homer,Small,1,Small
+606,0,3,"Lindell, Mr. Edvard Bengtsson",male,Z,36.0,1,0,349910,$15.55,,S,Mr,Lindell,Small,2,Small
+607,0,3,"Karaic, Mr. Milan",male,Z,30.0,0,0,349246,$7.90,,S,Mr,Karaic,Small,1,Small
+608,1,1,"Daniel, Mr. Robert Williams",male,Z,27.0,0,0,113804,$30.50,,S,Mr,Daniel,Small,1,Small
+609,1,2,"Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)",female,Z,22.0,1,2,SC/Paris 2123,$41.58,,C,Mrs,Laroche,4Laroche,4,4Laroche
+610,1,1,"Shutes, Miss. Elizabeth W",female,C,40.0,0,0,PC 17582,$153.46,C125,S,Miss,Shutes,Small,1,Small
+611,0,3,"Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)",female,Z,39.0,1,5,347082,$31.28,,S,Mrs,Andersson,7Andersson,7,7Andersson
+612,0,3,"Jardin, Mr. Jose Neto",male,Z,28.9,0,0,SOTON/O.Q. 3101305,$7.05,,S,Mr,Jardin,Small,1,Small
+613,1,3,"Murphy, Miss. Margaret Jane",female,Z,22.3,1,0,367230,$15.50,,Q,Miss,Murphy,Small,2,Small
+614,0,3,"Horgan, Mr. John",male,Z,28.9,0,0,370377,$7.75,,Q,Mr,Horgan,Small,1,Small
+615,0,3,"Brocklebank, Mr. William Alfred",male,Z,35.0,0,0,364512,$8.05,,S,Mr,Brocklebank,Small,1,Small
+616,1,2,"Herman, Miss. Alice",female,Z,24.0,1,2,220845,$65.00,,S,Miss,Herman,4Herman,4,4Herman
+617,0,3,"Danbom, Mr. Ernst Gilbert",male,Z,34.0,1,1,347080,$14.40,,S,Mr,Danbom,3Danbom,3,Small
+618,0,3,"Lobb, Mrs. William Arthur (Cordelia K Stanlick)",female,Z,26.0,1,0,A/5. 3336,$16.10,,S,Mrs,Lobb,Small,2,Small
+619,1,2,"Becker, Miss. Marion Louise",female,F,4.0,2,1,230136,$39.00,F4,S,Miss,Becker,4Becker,4,4Becker
+620,0,2,"Gavey, Mr. Lawrence",male,Z,26.0,0,0,31028,$10.50,,S,Mr,Gavey,Small,1,Small
+621,0,3,"Yasbeck, Mr. Antoni",male,Z,27.0,1,0,2659,$14.45,,C,Mr,Yasbeck,Small,2,Small
+622,1,1,"Kimball, Mr. Edwin Nelson Jr",male,D,42.0,1,0,11753,$52.55,D19,S,Mr,Kimball,Small,2,Small
+623,1,3,"Nakid, Mr. Sahid",male,Z,20.0,1,1,2653,$15.74,,C,Mr,Nakid,3Nakid,3,Small
+624,0,3,"Hansen, Mr. Henry Damsgaard",male,Z,21.0,0,0,350029,$7.85,,S,Mr,Hansen,Small,1,Small
+625,0,3,"Bowen, Mr. David John ""Dai""",male,Z,21.0,0,0,54636,$16.10,,S,Mr,Bowen,Small,1,Small
+626,0,1,"Sutton, Mr. Frederick",male,D,61.0,0,0,36963,$32.32,D50,S,Mr,Sutton,Small,1,Small
+627,0,2,"Kirkland, Rev. Charles Leonard",male,Z,57.0,0,0,219533,$12.35,,Q,Rev,Kirkland,Small,1,Small
+628,1,1,"Longley, Miss. Gretchen Fiske",female,D,21.0,0,0,13502,$77.96,D9,S,Miss,Longley,Small,1,Small
+629,0,3,"Bostandyeff, Mr. Guentcho",male,Z,26.0,0,0,349224,$7.90,,S,Mr,Bostandyeff,Small,1,Small
+630,0,3,"O'Connell, Mr. Patrick D",male,Z,28.9,0,0,334912,$7.73,,Q,Mr,O'Connell,Small,1,Small
+631,1,1,"Barkworth, Mr. Algernon Henry Wilson",male,A,80.0,0,0,27042,$30.00,A23,S,Mr,Barkworth,Small,1,Small
+632,0,3,"Lundahl, Mr. Johan Svensson",male,Z,51.0,0,0,347743,$7.05,,S,Mr,Lundahl,Small,1,Small
+633,1,1,"Stahelin-Maeglin, Dr. Max",male,B,32.0,0,0,13214,$30.50,B50,C,Dr,Stahelin-Maeglin,Small,1,Small
+634,0,1,"Parr, Mr. William Henry Marsh",male,Z,42.5,0,0,112052,$0.00,,S,Mr,Parr,Small,1,Small
+635,0,3,"Skoog, Miss. Mabel",female,Z,9.0,3,2,347088,$27.90,,S,Miss,Skoog,6Skoog,6,6Skoog
+636,1,2,"Davis, Miss. Mary",female,Z,28.0,0,0,237668,$13.00,,S,Miss,Davis,Small,1,Small
+637,0,3,"Leinonen, Mr. Antti Gustaf",male,Z,32.0,0,0,STON/O 2. 3101292,$7.93,,S,Mr,Leinonen,Small,1,Small
+638,0,2,"Collyer, Mr. Harvey",male,Z,31.0,1,1,C.A. 31921,$26.25,,S,Mr,Collyer,3Collyer,3,Small
+639,0,3,"Panula, Mrs. Juha (Maria Emilia Ojala)",female,Z,41.0,0,5,3101295,$39.69,,S,Mrs,Panula,6Panula,6,6Panula
+640,0,3,"Thorneycroft, Mr. Percival",male,Z,28.9,1,0,376564,$16.10,,S,Mr,Thorneycroft,Small,2,Small
+641,0,3,"Jensen, Mr. Hans Peder",male,Z,20.0,0,0,350050,$7.85,,S,Mr,Jensen,Small,1,Small
+642,1,1,"Sagesser, Mlle. Emma",female,B,24.0,0,0,PC 17477,$69.30,B35,C,Mlle,Sagesser,Small,1,Small
+643,0,3,"Skoog, Miss. Margit Elizabeth",female,Z,2.0,3,2,347088,$27.90,,S,Miss,Skoog,6Skoog,6,6Skoog
+644,1,3,"Foo, Mr. Choong",male,Z,28.9,0,0,1601,$56.50,,S,Mr,Foo,Small,1,Small
+645,1,3,"Baclini, Miss. Eugenie",female,Z,0.8,2,1,2666,$19.26,,C,Miss,Baclini,4Baclini,4,4Baclini
+646,1,1,"Harper, Mr. Henry Sleeper",male,D,48.0,1,0,PC 17572,$76.73,D33,C,Mr,Harper,Small,2,Small
+647,0,3,"Cor, Mr. Liudevit",male,Z,19.0,0,0,349231,$7.90,,S,Mr,Cor,Small,1,Small
+648,1,1,"Simonius-Blumer, Col. Oberst Alfons",male,A,56.0,0,0,13213,$35.50,A26,C,Col,Simonius-Blumer,Small,1,Small
+649,0,3,"Willey, Mr. Edward",male,Z,28.9,0,0,S.O./P.P. 751,$7.55,,S,Mr,Willey,Small,1,Small
+650,1,3,"Stanley, Miss. Amy Zillah Elsie",female,Z,23.0,0,0,CA. 2314,$7.55,,S,Miss,Stanley,Small,1,Small
+651,0,3,"Mitkoff, Mr. Mito",male,Z,28.9,0,0,349221,$7.90,,S,Mr,Mitkoff,Small,1,Small
+652,1,2,"Doling, Miss. Elsie",female,Z,18.0,0,1,231919,$23.00,,S,Miss,Doling,Small,2,Small
+653,0,3,"Kalvik, Mr. Johannes Halvorsen",male,Z,21.0,0,0,8475,$8.43,,S,Mr,Kalvik,Small,1,Small
+654,1,3,"O'Leary, Miss. Hanora ""Norah""",female,Z,22.3,0,0,330919,$7.83,,Q,Miss,O'Leary,Small,1,Small
+655,0,3,"Hegarty, Miss. Hanora ""Nora""",female,Z,18.0,0,0,365226,$6.75,,Q,Miss,Hegarty,Small,1,Small
+656,0,2,"Hickman, Mr. Leonard Mark",male,Z,24.0,2,0,S.O.C. 14879,$73.50,,S,Mr,Hickman,3Hickman,3,Small
+657,0,3,"Radeff, Mr. Alexander",male,Z,28.9,0,0,349223,$7.90,,S,Mr,Radeff,Small,1,Small
+658,0,3,"Bourke, Mrs. John (Catherine)",female,Z,32.0,1,1,364849,$15.50,,Q,Mrs,Bourke,3Bourke,3,Small
+659,0,2,"Eitemiller, Mr. George Floyd",male,Z,23.0,0,0,29751,$13.00,,S,Mr,Eitemiller,Small,1,Small
+660,0,1,"Newell, Mr. Arthur Webster",male,D,58.0,0,2,35273,$113.28,D48,C,Mr,Newell,Small,3,Small
+661,1,1,"Frauenthal, Dr. Henry William",male,Z,50.0,2,0,PC 17611,$133.65,,S,Dr,Frauenthal,Small,3,Small
+662,0,3,"Badt, Mr. Mohamed",male,Z,40.0,0,0,2623,$7.23,,C,Mr,Badt,Small,1,Small
+663,0,1,"Colley, Mr. Edward Pomeroy",male,E,47.0,0,0,5727,$25.59,E58,S,Mr,Colley,Small,1,Small
+664,0,3,"Coleff, Mr. Peju",male,Z,36.0,0,0,349210,$7.50,,S,Mr,Coleff,Small,1,Small
+665,1,3,"Lindqvist, Mr. Eino William",male,Z,20.0,1,0,STON/O 2. 3101285,$7.93,,S,Mr,Lindqvist,Small,2,Small
+666,0,2,"Hickman, Mr. Lewis",male,Z,32.0,2,0,S.O.C. 14879,$73.50,,S,Mr,Hickman,3Hickman,3,Small
+667,0,2,"Butler, Mr. Reginald Fenton",male,Z,25.0,0,0,234686,$13.00,,S,Mr,Butler,Small,1,Small
+668,0,3,"Rommetvedt, Mr. Knud Paust",male,Z,28.9,0,0,312993,$7.78,,S,Mr,Rommetvedt,Small,1,Small
+669,0,3,"Cook, Mr. Jacob",male,Z,43.0,0,0,A/5 3536,$8.05,,S,Mr,Cook,Small,1,Small
+670,1,1,"Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright)",female,C,42.5,1,0,19996,$52.00,C126,S,Mrs,Taylor,Small,2,Small
+671,1,2,"Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)",female,Z,40.0,1,1,29750,$39.00,,S,Mrs,Brown,3Brown,3,Small
+672,0,1,"Davidson, Mr. Thornton",male,B,31.0,1,0,F.C. 12750,$52.00,B71,S,Mr,Davidson,Small,2,Small
+673,0,2,"Mitchell, Mr. Henry Michael",male,Z,70.0,0,0,C.A. 24580,$10.50,,S,Mr,Mitchell,Small,1,Small
+674,1,2,"Wilhelms, Mr. Charles",male,Z,31.0,0,0,244270,$13.00,,S,Mr,Wilhelms,Small,1,Small
+675,0,2,"Watson, Mr. Ennis Hastings",male,Z,33.1,0,0,239856,$0.00,,S,Mr,Watson,Small,1,Small
+676,0,3,"Edvardsson, Mr. Gustaf Hjalmar",male,Z,18.0,0,0,349912,$7.78,,S,Mr,Edvardsson,Small,1,Small
+677,0,3,"Sawyer, Mr. Frederick Charles",male,Z,24.5,0,0,342826,$8.05,,S,Mr,Sawyer,Small,1,Small
+678,1,3,"Turja, Miss. Anna Sofia",female,Z,18.0,0,0,4138,$9.84,,S,Miss,Turja,Small,1,Small
+679,0,3,"Goodwin, Mrs. Frederick (Augusta Tyler)",female,Z,43.0,1,6,CA 2144,$46.90,,S,Mrs,Goodwin,8Goodwin,8,8Goodwin
+680,1,1,"Cardeza, Mr. Thomas Drake Martinez",male,B,36.0,0,1,PC 17755,$512.33,B51 B53 B55,C,Mr,Cardeza,Small,2,Small
+681,0,3,"Peters, Miss. Katie",female,Z,22.3,0,0,330935,$8.14,,Q,Miss,Peters,Small,1,Small
+682,1,1,"Hassab, Mr. Hammad",male,D,27.0,0,0,PC 17572,$76.73,D49,C,Mr,Hassab,Small,1,Small
+683,0,3,"Olsvigen, Mr. Thor Anderson",male,Z,20.0,0,0,6563,$9.23,,S,Mr,Olsvigen,Small,1,Small
+684,0,3,"Goodwin, Mr. Charles Edward",male,Z,14.0,5,2,CA 2144,$46.90,,S,Mr,Goodwin,8Goodwin,8,8Goodwin
+685,0,2,"Brown, Mr. Thomas William Solomon",male,Z,60.0,1,1,29750,$39.00,,S,Mr,Brown,3Brown,3,Small
+686,0,2,"Laroche, Mr. Joseph Philippe Lemercier",male,Z,25.0,1,2,SC/Paris 2123,$41.58,,C,Mr,Laroche,4Laroche,4,4Laroche
+687,0,3,"Panula, Mr. Jaako Arnold",male,Z,14.0,4,1,3101295,$39.69,,S,Mr,Panula,6Panula,6,6Panula
+688,0,3,"Dakic, Mr. Branko",male,Z,19.0,0,0,349228,$10.17,,S,Mr,Dakic,Small,1,Small
+689,0,3,"Fischer, Mr. Eberhard Thelander",male,Z,18.0,0,0,350036,$7.80,,S,Mr,Fischer,Small,1,Small
+690,1,1,"Madill, Miss. Georgette Alexandra",female,B,15.0,0,1,24160,$211.34,B5,S,Miss,Madill,Small,2,Small
+691,1,1,"Dick, Mr. Albert Adrian",male,B,31.0,1,0,17474,$57.00,B20,S,Mr,Dick,Small,2,Small
+692,1,3,"Karun, Miss. Manca",female,Z,4.0,0,1,349256,$13.42,,C,Miss,Karun,Small,2,Small
+693,1,3,"Lam, Mr. Ali",male,Z,28.9,0,0,1601,$56.50,,S,Mr,Lam,Small,1,Small
+694,0,3,"Saad, Mr. Khalil",male,Z,25.0,0,0,2672,$7.23,,C,Mr,Saad,Small,1,Small
+695,0,1,"Weir, Col. John",male,Z,60.0,0,0,113800,$26.55,,S,Col,Weir,Small,1,Small
+696,0,2,"Chapman, Mr. Charles Henry",male,Z,52.0,0,0,248731,$13.50,,S,Mr,Chapman,Small,1,Small
+697,0,3,"Kelly, Mr. James",male,Z,44.0,0,0,363592,$8.05,,S,Mr,Kelly,Small,1,Small
+698,1,3,"Mullens, Miss. Katherine ""Katie""",female,Z,22.3,0,0,35852,$7.73,,Q,Miss,Mullens,Small,1,Small
+699,0,1,"Thayer, Mr. John Borland",male,C,49.0,1,1,17421,$110.88,C68,C,Mr,Thayer,3Thayer,3,Small
+700,0,3,"Humblen, Mr. Adolf Mathias Nicolai Olsen",male,G,42.0,0,0,348121,$7.65,F G63,S,Mr,Humblen,Small,1,Small
+701,1,1,"Astor, Mrs. John Jacob (Madeleine Talmadge Force)",female,C,18.0,1,0,PC 17757,$227.53,C62 C64,C,Mrs,Astor,Small,2,Small
+702,1,1,"Silverthorne, Mr. Spencer Victor",male,E,35.0,0,0,PC 17475,$26.29,E24,S,Mr,Silverthorne,Small,1,Small
+703,0,3,"Barbara, Miss. Saiide",female,Z,18.0,0,1,2691,$14.45,,C,Miss,Barbara,Small,2,Small
+704,0,3,"Gallagher, Mr. Martin",male,Z,25.0,0,0,36864,$7.74,,Q,Mr,Gallagher,Small,1,Small
+705,0,3,"Hansen, Mr. Henrik Juul",male,Z,26.0,1,0,350025,$7.85,,S,Mr,Hansen,Small,2,Small
+706,0,2,"Morley, Mr. Henry Samuel (""Mr Henry Marshall"")",male,Z,39.0,0,0,250655,$26.00,,S,Mr,Morley,Small,1,Small
+707,1,2,"Kelly, Mrs. Florence ""Fannie""",female,Z,45.0,0,0,223596,$13.50,,S,Mrs,Kelly,Small,1,Small
+708,1,1,"Calderhead, Mr. Edward Pennington",male,E,42.0,0,0,PC 17476,$26.29,E24,S,Mr,Calderhead,Small,1,Small
+709,1,1,"Cleaver, Miss. Alice",female,Z,22.0,0,0,113781,$151.55,,S,Miss,Cleaver,Small,1,Small
+710,1,3,"Moubarek, Master. Halim Gonios (""William George"")",male,Z,7.1,1,1,2661,$15.25,,C,Master,Moubarek,3Moubarek,3,Small
+711,1,1,"Mayne, Mlle. Berthe Antonine (""Mrs de Villiers"")",female,C,24.0,0,0,PC 17482,$49.50,C90,C,Mlle,Mayne,Small,1,Small
+712,0,1,"Klaber, Mr. Herman",male,C,42.5,0,0,113028,$26.55,C124,S,Mr,Klaber,Small,1,Small
+713,1,1,"Taylor, Mr. Elmer Zebley",male,C,48.0,1,0,19996,$52.00,C126,S,Mr,Taylor,Small,2,Small
+714,0,3,"Larsson, Mr. August Viktor",male,Z,29.0,0,0,7545,$9.48,,S,Mr,Larsson,Small,1,Small
+715,0,2,"Greenberg, Mr. Samuel",male,Z,52.0,0,0,250647,$13.00,,S,Mr,Greenberg,Small,1,Small
+716,0,3,"Soholt, Mr. Peter Andreas Lauritz Andersen",male,G,19.0,0,0,348124,$7.65,F G73,S,Mr,Soholt,Small,1,Small
+717,1,1,"Endres, Miss. Caroline Louise",female,C,38.0,0,0,PC 17757,$227.53,C45,C,Miss,Endres,Small,1,Small
+718,1,2,"Troutt, Miss. Edwina Celia ""Winnie""",female,E,27.0,0,0,34218,$10.50,E101,S,Miss,Troutt,Small,1,Small
+719,0,3,"McEvoy, Mr. Michael",male,Z,28.9,0,0,36568,$15.50,,Q,Mr,McEvoy,Small,1,Small
+720,0,3,"Johnson, Mr. Malkolm Joackim",male,Z,33.0,0,0,347062,$7.78,,S,Mr,Johnson,Small,1,Small
+721,1,2,"Harper, Miss. Annie Jessie ""Nina""",female,Z,6.0,0,1,248727,$33.00,,S,Miss,Harper,Small,2,Small
+722,0,3,"Jensen, Mr. Svend Lauritz",male,Z,17.0,1,0,350048,$7.05,,S,Mr,Jensen,Small,2,Small
+723,0,2,"Gillespie, Mr. William Henry",male,Z,34.0,0,0,12233,$13.00,,S,Mr,Gillespie,Small,1,Small
+724,0,2,"Hodges, Mr. Henry Price",male,Z,50.0,0,0,250643,$13.00,,S,Mr,Hodges,Small,1,Small
+725,1,1,"Chambers, Mr. Norman Campbell",male,E,27.0,1,0,113806,$53.10,E8,S,Mr,Chambers,Small,2,Small
+726,0,3,"Oreskovic, Mr. Luka",male,Z,20.0,0,0,315094,$8.66,,S,Mr,Oreskovic,Small,1,Small
+727,1,2,"Renouf, Mrs. Peter Henry (Lillian Jefferys)",female,Z,30.0,3,0,31027,$21.00,,S,Mrs,Renouf,Small,4,Small
+728,1,3,"Mannion, Miss. Margareth",female,Z,22.3,0,0,36866,$7.74,,Q,Miss,Mannion,Small,1,Small
+729,0,2,"Bryhl, Mr. Kurt Arnold Gottfrid",male,Z,25.0,1,0,236853,$26.00,,S,Mr,Bryhl,Small,2,Small
+730,0,3,"Ilmakangas, Miss. Pieta Sofia",female,Z,25.0,1,0,STON/O2. 3101271,$7.93,,S,Miss,Ilmakangas,Small,2,Small
+731,1,1,"Allen, Miss. Elisabeth Walton",female,B,29.0,0,0,24160,$211.34,B5,S,Miss,Allen,Small,1,Small
+732,0,3,"Hassan, Mr. Houssein G N",male,Z,11.0,0,0,2699,$18.79,,C,Mr,Hassan,Small,1,Small
+733,0,2,"Knight, Mr. Robert J",male,Z,33.1,0,0,239855,$0.00,,S,Mr,Knight,Small,1,Small
+734,0,2,"Berriman, Mr. William John",male,Z,23.0,0,0,28425,$13.00,,S,Mr,Berriman,Small,1,Small
+735,0,2,"Troupiansky, Mr. Moses Aaron",male,Z,23.0,0,0,233639,$13.00,,S,Mr,Troupiansky,Small,1,Small
+736,0,3,"Williams, Mr. Leslie",male,Z,28.5,0,0,54636,$16.10,,S,Mr,Williams,Small,1,Small
+737,0,3,"Ford, Mrs. Edward (Margaret Ann Watson)",female,Z,48.0,1,3,W./C. 6608,$34.38,,S,Mrs,Ford,5Ford,5,5Ford
+738,1,1,"Lesurer, Mr. Gustave J",male,B,35.0,0,0,PC 17755,$512.33,B101,C,Mr,Lesurer,Small,1,Small
+739,0,3,"Ivanoff, Mr. Kanio",male,Z,28.9,0,0,349201,$7.90,,S,Mr,Ivanoff,Small,1,Small
+740,0,3,"Nankoff, Mr. Minko",male,Z,28.9,0,0,349218,$7.90,,S,Mr,Nankoff,Small,1,Small
+741,1,1,"Hawksford, Mr. Walter James",male,D,42.5,0,0,16988,$30.00,D45,S,Mr,Hawksford,Small,1,Small
+742,0,1,"Cavendish, Mr. Tyrell William",male,C,36.0,1,0,19877,$78.85,C46,S,Mr,Cavendish,Small,2,Small
+743,1,1,"Ryerson, Miss. Susan Parker ""Suzette""",female,B,21.0,2,2,PC 17608,$262.38,B57 B59 B63 B66,C,Miss,Ryerson,5Ryerson,5,5Ryerson
+744,0,3,"McNamee, Mr. Neal",male,Z,24.0,1,0,376566,$16.10,,S,Mr,McNamee,Small,2,Small
+745,1,3,"Stranden, Mr. Juho",male,Z,31.0,0,0,STON/O 2. 3101288,$7.93,,S,Mr,Stranden,Small,1,Small
+746,0,1,"Crosby, Capt. Edward Gifford",male,B,70.0,1,1,WE/P 5735,$71.00,B22,S,Sir,Crosby,3Crosby,3,Small
+747,0,3,"Abbott, Mr. Rossmore Edward",male,Z,16.0,1,1,C.A. 2673,$20.25,,S,Mr,Abbott,3Abbott,3,Small
+748,1,2,"Sinkkonen, Miss. Anna",female,Z,30.0,0,0,250648,$13.00,,S,Miss,Sinkkonen,Small,1,Small
+749,0,1,"Marvin, Mr. Daniel Warner",male,D,19.0,1,0,113773,$53.10,D30,S,Mr,Marvin,Small,2,Small
+750,0,3,"Connaghton, Mr. Michael",male,Z,31.0,0,0,335097,$7.75,,Q,Mr,Connaghton,Small,1,Small
+751,1,2,"Wells, Miss. Joan",female,Z,4.0,1,1,29103,$23.00,,S,Miss,Wells,3Wells,3,Small
+752,1,3,"Moor, Master. Meier",male,E,6.0,0,1,392096,$12.48,E121,S,Master,Moor,Small,2,Small
+753,0,3,"Vande Velde, Mr. Johannes Joseph",male,Z,33.0,0,0,345780,$9.50,,S,Mr,Vande Velde,Small,1,Small
+754,0,3,"Jonkoff, Mr. Lalio",male,Z,23.0,0,0,349204,$7.90,,S,Mr,Jonkoff,Small,1,Small
+755,1,2,"Herman, Mrs. Samuel (Jane Laver)",female,Z,48.0,1,2,220845,$65.00,,S,Mrs,Herman,4Herman,4,4Herman
+756,1,2,"Hamalainen, Master. Viljo",male,Z,0.7,1,1,250649,$14.50,,S,Master,Hamalainen,Small,3,Small
+757,0,3,"Carlsson, Mr. August Sigfrid",male,Z,28.0,0,0,350042,$7.80,,S,Mr,Carlsson,Small,1,Small
+758,0,2,"Bailey, Mr. Percy Andrew",male,Z,18.0,0,0,29108,$11.50,,S,Mr,Bailey,Small,1,Small
+759,0,3,"Theobald, Mr. Thomas Leonard",male,Z,34.0,0,0,363294,$8.05,,S,Mr,Theobald,Small,1,Small
+760,1,1,"Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)",female,B,33.0,0,0,110152,$86.50,B77,S,Lady,Rothes,Small,1,Small
+761,0,3,"Garfirth, Mr. John",male,Z,28.9,0,0,358585,$14.50,,S,Mr,Garfirth,Small,1,Small
+762,0,3,"Nirva, Mr. Iisakki Antino Aijo",male,Z,41.0,0,0,SOTON/O2 3101272,$7.13,,S,Mr,Nirva,Small,1,Small
+763,1,3,"Barah, Mr. Hanna Assi",male,Z,20.0,0,0,2663,$7.23,,C,Mr,Barah,Small,1,Small
+764,1,1,"Carter, Mrs. William Ernest (Lucile Polk)",female,B,36.0,1,2,113760,$120.00,B96 B98,S,Mrs,Carter,4Carter,4,4Carter
+765,0,3,"Eklund, Mr. Hans Linus",male,Z,16.0,0,0,347074,$7.78,,S,Mr,Eklund,Small,1,Small
+766,1,1,"Hogeboom, Mrs. John C (Anna Andrews)",female,D,51.0,1,0,13502,$77.96,D11,S,Mrs,Hogeboom,Small,2,Small
+767,0,1,"Brewe, Dr. Arthur Jackson",male,Z,42.5,0,0,112379,$39.60,,C,Dr,Brewe,Small,1,Small
+768,0,3,"Mangan, Miss. Mary",female,Z,30.5,0,0,364850,$7.75,,Q,Miss,Mangan,Small,1,Small
+769,0,3,"Moran, Mr. Daniel J",male,Z,28.9,1,0,371110,$24.15,,Q,Mr,Moran,Small,2,Small
+770,0,3,"Gronnestad, Mr. Daniel Danielsen",male,Z,32.0,0,0,8471,$8.36,,S,Mr,Gronnestad,Small,1,Small
+771,0,3,"Lievens, Mr. Rene Aime",male,Z,24.0,0,0,345781,$9.50,,S,Mr,Lievens,Small,1,Small
+772,0,3,"Jensen, Mr. Niels Peder",male,Z,48.0,0,0,350047,$7.85,,S,Mr,Jensen,Small,1,Small
+773,0,2,"Mack, Mrs. (Mary)",female,E,57.0,0,0,S.O./P.P. 3,$10.50,E77,S,Mrs,Mack,Small,1,Small
+774,0,3,"Elias, Mr. Dibo",male,Z,28.9,0,0,2674,$7.23,,C,Mr,Elias,Small,1,Small
+775,1,2,"Hocking, Mrs. Elizabeth (Eliza Needs)",female,Z,54.0,1,3,29105,$23.00,,S,Mrs,Hocking,Small,5,Small
+776,0,3,"Myhrman, Mr. Pehr Fabian Oliver Malkolm",male,Z,18.0,0,0,347078,$7.75,,S,Mr,Myhrman,Small,1,Small
+777,0,3,"Tobin, Mr. Roger",male,F,28.9,0,0,383121,$7.75,F38,Q,Mr,Tobin,Small,1,Small
+778,1,3,"Emanuel, Miss. Virginia Ethel",female,Z,5.0,0,0,364516,$12.48,,S,Miss,Emanuel,Small,1,Small
+779,0,3,"Kilgannon, Mr. Thomas J",male,Z,28.9,0,0,36865,$7.74,,Q,Mr,Kilgannon,Small,1,Small
+780,1,1,"Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)",female,B,43.0,0,1,24160,$211.34,B3,S,Mrs,Robert,Small,2,Small
+781,1,3,"Ayoub, Miss. Banoura",female,Z,13.0,0,0,2687,$7.23,,C,Miss,Ayoub,Small,1,Small
+782,1,1,"Dick, Mrs. Albert Adrian (Vera Gillespie)",female,B,17.0,1,0,17474,$57.00,B20,S,Mrs,Dick,Small,2,Small
+783,0,1,"Long, Mr. Milton Clyde",male,D,29.0,0,0,113501,$30.00,D6,S,Mr,Long,Small,1,Small
+784,0,3,"Johnston, Mr. Andrew G",male,Z,28.9,1,2,W./C. 6607,$23.45,,S,Mr,Johnston,4Johnston,4,4Johnston
+785,0,3,"Ali, Mr. William",male,Z,25.0,0,0,SOTON/O.Q. 3101312,$7.05,,S,Mr,Ali,Small,1,Small
+786,0,3,"Harmer, Mr. Abraham (David Lishin)",male,Z,25.0,0,0,374887,$7.25,,S,Mr,Harmer,Small,1,Small
+787,1,3,"Sjoblom, Miss. Anna Sofia",female,Z,18.0,0,0,3101265,$7.50,,S,Miss,Sjoblom,Small,1,Small
+788,0,3,"Rice, Master. George Hugh",male,Z,8.0,4,1,382652,$29.13,,Q,Master,Rice,6Rice,6,6Rice
+789,1,3,"Dean, Master. Bertram Vere",male,Z,1.0,1,2,C.A. 2315,$20.58,,S,Master,Dean,4Dean,4,4Dean
+790,0,1,"Guggenheim, Mr. Benjamin",male,B,46.0,0,0,PC 17593,$79.20,B82 B84,C,Mr,Guggenheim,Small,1,Small
+791,0,3,"Keane, Mr. Andrew ""Andy""",male,Z,28.9,0,0,12460,$7.75,,Q,Mr,Keane,Small,1,Small
+792,0,2,"Gaskell, Mr. Alfred",male,Z,16.0,0,0,239865,$26.00,,S,Mr,Gaskell,Small,1,Small
+793,0,3,"Sage, Miss. Stella Anna",female,Z,18.8,8,2,CA. 2343,$69.55,,S,Miss,Sage,11Sage,11,11Sage
+794,0,1,"Hoyt, Mr. William Fisher",male,Z,42.5,0,0,PC 17600,$30.70,,C,Mr,Hoyt,Small,1,Small
+795,0,3,"Dantcheff, Mr. Ristiu",male,Z,25.0,0,0,349203,$7.90,,S,Mr,Dantcheff,Small,1,Small
+796,0,2,"Otter, Mr. Richard",male,Z,39.0,0,0,28213,$13.00,,S,Mr,Otter,Small,1,Small
+797,1,1,"Leader, Dr. Alice (Farnham)",female,D,49.0,0,0,17465,$25.93,D17,S,Dr,Leader,Small,1,Small
+798,1,3,"Osman, Mrs. Mara",female,Z,31.0,0,0,349244,$8.68,,S,Mrs,Osman,Small,1,Small
+799,0,3,"Ibrahim Shawah, Mr. Yousseff",male,Z,30.0,0,0,2685,$7.23,,C,Mr,Ibrahim Shawah,Small,1,Small
+800,0,3,"Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert)",female,Z,30.0,1,1,345773,$24.15,,S,Mrs,Van Impe,3Van Impe,3,Small
+801,0,2,"Ponesell, Mr. Martin",male,Z,34.0,0,0,250647,$13.00,,S,Mr,Ponesell,Small,1,Small
+802,1,2,"Collyer, Mrs. Harvey (Charlotte Annie Tate)",female,Z,31.0,1,1,C.A. 31921,$26.25,,S,Mrs,Collyer,3Collyer,3,Small
+803,1,1,"Carter, Master. William Thornton II",male,B,11.0,1,2,113760,$120.00,B96 B98,S,Master,Carter,4Carter,4,4Carter
+804,1,3,"Thomas, Master. Assad Alexander",male,Z,0.4,0,1,2625,$8.52,,C,Master,Thomas,Small,2,Small
+805,1,3,"Hedman, Mr. Oskar Arvid",male,Z,27.0,0,0,347089,$6.98,,S,Mr,Hedman,Small,1,Small
+806,0,3,"Johansson, Mr. Karl Johan",male,Z,31.0,0,0,347063,$7.78,,S,Mr,Johansson,Small,1,Small
+807,0,1,"Andrews, Mr. Thomas Jr",male,A,39.0,0,0,112050,$0.00,A36,S,Mr,Andrews,Small,1,Small
+808,0,3,"Pettersson, Miss. Ellen Natalia",female,Z,18.0,0,0,347087,$7.78,,S,Miss,Pettersson,Small,1,Small
+809,0,2,"Meyer, Mr. August",male,Z,39.0,0,0,248723,$13.00,,S,Mr,Meyer,Small,1,Small
+810,1,1,"Chambers, Mrs. Norman Campbell (Bertha Griggs)",female,E,33.0,1,0,113806,$53.10,E8,S,Mrs,Chambers,Small,2,Small
+811,0,3,"Alexander, Mr. William",male,Z,26.0,0,0,3474,$7.89,,S,Mr,Alexander,Small,1,Small
+812,0,3,"Lester, Mr. James",male,Z,39.0,0,0,A/4 48871,$24.15,,S,Mr,Lester,Small,1,Small
+813,0,2,"Slemen, Mr. Richard James",male,Z,35.0,0,0,28206,$10.50,,S,Mr,Slemen,Small,1,Small
+814,0,3,"Andersson, Miss. Ebba Iris Alfrida",female,Z,6.0,4,2,347082,$31.28,,S,Miss,Andersson,7Andersson,7,7Andersson
+815,0,3,"Tomlin, Mr. Ernest Portage",male,Z,30.5,0,0,364499,$8.05,,S,Mr,Tomlin,Small,1,Small
+816,0,1,"Fry, Mr. Richard",male,B,42.5,0,0,112058,$0.00,B102,S,Mr,Fry,Small,1,Small
+817,0,3,"Heininen, Miss. Wendla Maria",female,Z,23.0,0,0,STON/O2. 3101290,$7.93,,S,Miss,Heininen,Small,1,Small
+818,0,2,"Mallet, Mr. Albert",male,Z,31.0,1,1,S.C./PARIS 2079,$37.00,,C,Mr,Mallet,3Mallet,3,Small
+819,0,3,"Holm, Mr. John Fredrik Alexander",male,Z,43.0,0,0,C 7075,$6.45,,S,Mr,Holm,Small,1,Small
+820,0,3,"Skoog, Master. Karl Thorsten",male,Z,10.0,3,2,347088,$27.90,,S,Master,Skoog,6Skoog,6,6Skoog
+821,1,1,"Hays, Mrs. Charles Melville (Clara Jennings Gregg)",female,B,52.0,1,1,12749,$93.50,B69,S,Mrs,Hays,Small,3,Small
+822,1,3,"Lulic, Mr. Nikola",male,Z,27.0,0,0,315098,$8.66,,S,Mr,Lulic,Small,1,Small
+823,0,1,"Reuchlin, Jonkheer. John George",male,Z,38.0,0,0,19972,$0.00,,S,Lady,Reuchlin,Small,1,Small
+824,1,3,"Moor, Mrs. (Beila)",female,E,27.0,0,1,392096,$12.48,E121,S,Mrs,Moor,Small,2,Small
+825,0,3,"Panula, Master. Urho Abraham",male,Z,2.0,4,1,3101295,$39.69,,S,Master,Panula,6Panula,6,6Panula
+826,0,3,"Flynn, Mr. John",male,Z,28.9,0,0,368323,$6.95,,Q,Mr,Flynn,Small,1,Small
+827,0,3,"Lam, Mr. Len",male,Z,28.9,0,0,1601,$56.50,,S,Mr,Lam,Small,1,Small
+828,1,2,"Mallet, Master. Andre",male,Z,1.0,0,2,S.C./PARIS 2079,$37.00,,C,Master,Mallet,3Mallet,3,Small
+829,1,3,"McCormack, Mr. Thomas Joseph",male,Z,28.9,0,0,367228,$7.75,,Q,Mr,McCormack,Small,1,Small
+830,1,1,"Stone, Mrs. George Nelson (Martha Evelyn)",female,B,62.0,0,0,113572,$80.00,B28,S,Mrs,Stone,Small,1,Small
+831,1,3,"Yasbeck, Mrs. Antoni (Selini Alexander)",female,Z,15.0,1,0,2659,$14.45,,C,Mrs,Yasbeck,Small,2,Small
+832,1,2,"Richards, Master. George Sibley",male,Z,0.8,1,1,29106,$18.75,,S,Master,Richards,Small,3,Small
+833,0,3,"Saad, Mr. Amin",male,Z,28.9,0,0,2671,$7.23,,C,Mr,Saad,Small,1,Small
+834,0,3,"Augustsson, Mr. Albert",male,Z,23.0,0,0,347468,$7.85,,S,Mr,Augustsson,Small,1,Small
+835,0,3,"Allum, Mr. Owen George",male,Z,18.0,0,0,2223,$8.30,,S,Mr,Allum,Small,1,Small
+836,1,1,"Compton, Miss. Sara Rebecca",female,E,39.0,1,1,PC 17756,$83.16,E49,C,Miss,Compton,3Compton,3,Small
+837,0,3,"Pasic, Mr. Jakob",male,Z,21.0,0,0,315097,$8.66,,S,Mr,Pasic,Small,1,Small
+838,0,3,"Sirota, Mr. Maurice",male,Z,28.9,0,0,392092,$8.05,,S,Mr,Sirota,Small,1,Small
+839,1,3,"Chip, Mr. Chang",male,Z,32.0,0,0,1601,$56.50,,S,Mr,Chip,Small,1,Small
+840,1,1,"Marechal, Mr. Pierre",male,C,42.5,0,0,11774,$29.70,C47,C,Mr,Marechal,Small,1,Small
+841,0,3,"Alhomaki, Mr. Ilmari Rudolf",male,Z,20.0,0,0,SOTON/O2 3101287,$7.93,,S,Mr,Alhomaki,Small,1,Small
+842,0,2,"Mudd, Mr. Thomas Charles",male,Z,16.0,0,0,S.O./P.P. 3,$10.50,,S,Mr,Mudd,Small,1,Small
+843,1,1,"Serepeca, Miss. Augusta",female,Z,30.0,0,0,113798,$31.00,,C,Miss,Serepeca,Small,1,Small
+844,0,3,"Lemberopolous, Mr. Peter L",male,Z,34.5,0,0,2683,$6.44,,C,Mr,Lemberopolous,Small,1,Small
+845,0,3,"Culumovic, Mr. Jeso",male,Z,17.0,0,0,315090,$8.66,,S,Mr,Culumovic,Small,1,Small
+846,0,3,"Abbing, Mr. Anthony",male,Z,42.0,0,0,C.A. 5547,$7.55,,S,Mr,Abbing,Small,1,Small
+847,0,3,"Sage, Mr. Douglas Bullen",male,Z,28.9,8,2,CA. 2343,$69.55,,S,Mr,Sage,11Sage,11,11Sage
+848,0,3,"Markoff, Mr. Marin",male,Z,35.0,0,0,349213,$7.90,,C,Mr,Markoff,Small,1,Small
+849,0,2,"Harper, Rev. John",male,Z,28.0,0,1,248727,$33.00,,S,Rev,Harper,Small,2,Small
+850,1,1,"Goldenberg, Mrs. Samuel L (Edwiga Grabowska)",female,C,42.5,1,0,17453,$89.10,C92,C,Mrs,Goldenberg,Small,2,Small
+851,0,3,"Andersson, Master. Sigvard Harald Elias",male,Z,4.0,4,2,347082,$31.28,,S,Master,Andersson,7Andersson,7,7Andersson
+852,0,3,"Svensson, Mr. Johan",male,Z,74.0,0,0,347060,$7.78,,S,Mr,Svensson,Small,1,Small
+853,0,3,"Boulos, Miss. Nourelain",female,Z,9.0,1,1,2678,$15.25,,C,Miss,Boulos,3Boulos,3,Small
+854,1,1,"Lines, Miss. Mary Conover",female,D,16.0,0,1,PC 17592,$39.40,D28,S,Miss,Lines,Small,2,Small
+855,0,2,"Carter, Mrs. Ernest Courtenay (Lilian Hughes)",female,Z,44.0,1,0,244252,$26.00,,S,Mrs,Carter,Small,2,Small
+856,1,3,"Aks, Mrs. Sam (Leah Rosen)",female,Z,18.0,0,1,392091,$9.35,,S,Mrs,Aks,Small,2,Small
+857,1,1,"Wick, Mrs. George Dennick (Mary Hitchcock)",female,Z,45.0,1,1,36928,$164.87,,S,Mrs,Wick,3Wick,3,Small
+858,1,1,"Daly, Mr. Peter Denis ",male,E,51.0,0,0,113055,$26.55,E17,S,Mr,Daly,Small,1,Small
+859,1,3,"Baclini, Mrs. Solomon (Latifa Qurban)",female,Z,24.0,0,3,2666,$19.26,,C,Mrs,Baclini,4Baclini,4,4Baclini
+860,0,3,"Razi, Mr. Raihed",male,Z,28.9,0,0,2629,$7.23,,C,Mr,Razi,Small,1,Small
+861,0,3,"Hansen, Mr. Claus Peter",male,Z,41.0,2,0,350026,$14.11,,S,Mr,Hansen,Small,3,Small
+862,0,2,"Giles, Mr. Frederick Edward",male,Z,21.0,1,0,28134,$11.50,,S,Mr,Giles,Small,2,Small
+863,1,1,"Swift, Mrs. Frederick Joel (Margaret Welles Barron)",female,D,48.0,0,0,17466,$25.93,D17,S,Mrs,Swift,Small,1,Small
+864,0,3,"Sage, Miss. Dorothy Edith ""Dolly""",female,Z,18.8,8,2,CA. 2343,$69.55,,S,Miss,Sage,11Sage,11,11Sage
+865,0,2,"Gill, Mr. John William",male,Z,24.0,0,0,233866,$13.00,,S,Mr,Gill,Small,1,Small
+866,1,2,"Bystrom, Mrs. (Karolina)",female,Z,42.0,0,0,236852,$13.00,,S,Mrs,Bystrom,Small,1,Small
+867,1,2,"Duran y More, Miss. Asuncion",female,Z,27.0,1,0,SC/PARIS 2149,$13.86,,C,Miss,Duran y More,Small,2,Small
+868,0,1,"Roebling, Mr. Washington Augustus II",male,A,31.0,0,0,PC 17590,$50.50,A24,S,Mr,Roebling,Small,1,Small
+869,0,3,"van Melkebeke, Mr. Philemon",male,Z,28.9,0,0,345777,$9.50,,S,Mr,van Melkebeke,Small,1,Small
+870,1,3,"Johnson, Master. Harold Theodor",male,Z,4.0,1,1,347742,$11.13,,S,Master,Johnson,3Johnson,3,Small
+871,0,3,"Balkic, Mr. Cerin",male,Z,26.0,0,0,349248,$7.90,,S,Mr,Balkic,Small,1,Small
+872,1,1,"Beckwith, Mrs. Richard Leonard (Sallie Monypeny)",female,D,47.0,1,1,11751,$52.55,D35,S,Mrs,Beckwith,Small,3,Small
+873,0,1,"Carlsson, Mr. Frans Olof",male,B,33.0,0,0,695,$5.00,B51 B53 B55,S,Mr,Carlsson,Small,1,Small
+874,0,3,"Vander Cruyssen, Mr. Victor",male,Z,47.0,0,0,345765,$9.00,,S,Mr,Vander Cruyssen,Small,1,Small
+875,1,2,"Abelson, Mrs. Samuel (Hannah Wizosky)",female,Z,28.0,1,0,P/PP 3381,$24.00,,C,Mrs,Abelson,Small,2,Small
+876,1,3,"Najib, Miss. Adele Kiamie ""Jane""",female,Z,15.0,0,0,2667,$7.23,,C,Miss,Najib,Small,1,Small
+877,0,3,"Gustafsson, Mr. Alfred Ossian",male,Z,20.0,0,0,7534,$9.85,,S,Mr,Gustafsson,Small,1,Small
+878,0,3,"Petroff, Mr. Nedelio",male,Z,19.0,0,0,349212,$7.90,,S,Mr,Petroff,Small,1,Small
+879,0,3,"Laleff, Mr. Kristo",male,Z,28.9,0,0,349217,$7.90,,S,Mr,Laleff,Small,1,Small
+880,1,1,"Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)",female,C,56.0,0,1,11767,$83.16,C50,C,Mrs,Potter,Small,2,Small
+881,1,2,"Shelley, Mrs. William (Imanita Parrish Hall)",female,Z,25.0,0,1,230433,$26.00,,S,Mrs,Shelley,Small,2,Small
+882,0,3,"Markun, Mr. Johann",male,Z,33.0,0,0,349257,$7.90,,S,Mr,Markun,Small,1,Small
+883,0,3,"Dahlberg, Miss. Gerda Ulrika",female,Z,22.0,0,0,7552,$10.52,,S,Miss,Dahlberg,Small,1,Small
+884,0,2,"Banfield, Mr. Frederick James",male,Z,28.0,0,0,C.A./SOTON 34068,$10.50,,S,Mr,Banfield,Small,1,Small
+885,0,3,"Sutehall, Mr. Henry Jr",male,Z,25.0,0,0,SOTON/OQ 392076,$7.05,,S,Mr,Sutehall,Small,1,Small
+886,0,3,"Rice, Mrs. William (Margaret Norton)",female,Z,39.0,0,5,382652,$29.13,,Q,Mrs,Rice,6Rice,6,6Rice
+887,0,2,"Montvila, Rev. Juozas",male,Z,27.0,0,0,211536,$13.00,,S,Rev,Montvila,Small,1,Small
+888,1,1,"Graham, Miss. Margaret Edith",female,B,19.0,0,0,112053,$30.00,B42,S,Miss,Graham,Small,1,Small
+889,0,3,"Johnston, Miss. Catherine Helen ""Carrie""",female,Z,7.1,1,2,W./C. 6607,$23.45,,S,Miss,Johnston,4Johnston,4,4Johnston
+890,1,1,"Behr, Mr. Karl Howell",male,C,26.0,0,0,111369,$30.00,C148,C,Mr,Behr,Small,1,Small
+891,0,3,"Dooley, Mr. Patrick",male,Z,32.0,0,0,370376,$7.75,,Q,Mr,Dooley,Small,1,Small
+892,NA,3,"Kelly, Mr. James",male,Z,34.5,0,0,330911,$7.83,,Q,Mr,Kelly,Small,1,Small
+893,NA,3,"Wilkes, Mrs. James (Ellen Needs)",female,Z,47.0,1,0,363272,$7.00,,S,Mrs,Wilkes,Small,2,Small
+894,NA,2,"Myles, Mr. Thomas Francis",male,Z,62.0,0,0,240276,$9.69,,Q,Mr,Myles,Small,1,Small
+895,NA,3,"Wirz, Mr. Albert",male,Z,27.0,0,0,315154,$8.66,,S,Mr,Wirz,Small,1,Small
+896,NA,3,"Hirvonen, Mrs. Alexander (Helga E Lindqvist)",female,Z,22.0,1,1,3101298,$12.29,,S,Mrs,Hirvonen,Small,3,Small
+897,NA,3,"Svensson, Mr. Johan Cervin",male,Z,14.0,0,0,7538,$9.23,,S,Mr,Svensson,Small,1,Small
+898,NA,3,"Connolly, Miss. Kate",female,Z,30.0,0,0,330972,$7.63,,Q,Miss,Connolly,Small,1,Small
+899,NA,2,"Caldwell, Mr. Albert Francis",male,Z,26.0,1,1,248738,$29.00,,S,Mr,Caldwell,3Caldwell,3,Small
+900,NA,3,"Abrahim, Mrs. Joseph (Sophie Halaut Easu)",female,Z,18.0,0,0,2657,$7.23,,C,Mrs,Abrahim,Small,1,Small
+901,NA,3,"Davies, Mr. John Samuel",male,Z,21.0,2,0,A/4 48871,$24.15,,S,Mr,Davies,3Davies,3,Small
+902,NA,3,"Ilieff, Mr. Ylio",male,Z,28.9,0,0,349220,$7.90,,S,Mr,Ilieff,Small,1,Small
+903,NA,1,"Jones, Mr. Charles Cresson",male,Z,46.0,0,0,694,$26.00,,S,Mr,Jones,Small,1,Small
+904,NA,1,"Snyder, Mrs. John Pillsbury (Nelle Stevenson)",female,B,23.0,1,0,21228,$82.27,B45,S,Mrs,Snyder,Small,2,Small
+905,NA,2,"Howard, Mr. Benjamin",male,Z,63.0,1,0,24065,$26.00,,S,Mr,Howard,Small,2,Small
+906,NA,1,"Chaffee, Mrs. Herbert Fuller (Carrie Constance Toogood)",female,E,47.0,1,0,W.E.P. 5734,$61.18,E31,S,Mrs,Chaffee,Small,2,Small
+907,NA,2,"del Carlo, Mrs. Sebastiano (Argenia Genovesi)",female,Z,24.0,1,0,SC/PARIS 2167,$27.72,,C,Mrs,del Carlo,Small,2,Small
+908,NA,2,"Keane, Mr. Daniel",male,Z,35.0,0,0,233734,$12.35,,Q,Mr,Keane,Small,1,Small
+909,NA,3,"Assaf, Mr. Gerios",male,Z,21.0,0,0,2692,$7.23,,C,Mr,Assaf,Small,1,Small
+910,NA,3,"Ilmakangas, Miss. Ida Livija",female,Z,27.0,1,0,STON/O2. 3101270,$7.93,,S,Miss,Ilmakangas,Small,2,Small
+911,NA,3,"Assaf Khalil, Mrs. Mariana (Miriam"")""",female,Z,45.0,0,0,2696,$7.23,,C,Mrs,Assaf Khalil,Small,1,Small
+912,NA,1,"Rothschild, Mr. Martin",male,Z,55.0,1,0,PC 17603,$59.40,,C,Mr,Rothschild,Small,2,Small
+913,NA,3,"Olsen, Master. Artur Karl",male,Z,9.0,0,1,C 17368,$3.17,,S,Master,Olsen,Small,2,Small
+914,NA,1,"Flegenheim, Mrs. Alfred (Antoinette)",female,Z,42.5,0,0,PC 17598,$31.68,,S,Mrs,Flegenheim,Small,1,Small
+915,NA,1,"Williams, Mr. Richard Norris II",male,Z,21.0,0,1,PC 17597,$61.38,,C,Mr,Williams,Small,2,Small
+916,NA,1,"Ryerson, Mrs. Arthur Larned (Emily Maria Borie)",female,B,48.0,1,3,PC 17608,$262.38,B57 B59 B63 B66,C,Mrs,Ryerson,5Ryerson,5,5Ryerson
+917,NA,3,"Robins, Mr. Alexander A",male,Z,50.0,1,0,A/5. 3337,$14.50,,S,Mr,Robins,Small,2,Small
+918,NA,1,"Ostby, Miss. Helene Ragnhild",female,B,22.0,0,1,113509,$61.98,B36,C,Miss,Ostby,Small,2,Small
+919,NA,3,"Daher, Mr. Shedid",male,Z,22.5,0,0,2698,$7.23,,C,Mr,Daher,Small,1,Small
+920,NA,1,"Brady, Mr. John Bertram",male,A,41.0,0,0,113054,$30.50,A21,S,Mr,Brady,Small,1,Small
+921,NA,3,"Samaan, Mr. Elias",male,Z,28.9,2,0,2662,$21.68,,C,Mr,Samaan,3Samaan,3,Small
+922,NA,2,"Louch, Mr. Charles Alexander",male,Z,50.0,1,0,SC/AH 3085,$26.00,,S,Mr,Louch,Small,2,Small
+923,NA,2,"Jefferys, Mr. Clifford Thomas",male,Z,24.0,2,0,C.A. 31029,$31.50,,S,Mr,Jefferys,Small,3,Small
+924,NA,3,"Dean, Mrs. Bertram (Eva Georgetta Light)",female,Z,33.0,1,2,C.A. 2315,$20.58,,S,Mrs,Dean,4Dean,4,4Dean
+925,NA,3,"Johnston, Mrs. Andrew G (Elizabeth Lily"" Watson)""",female,Z,28.9,1,2,W./C. 6607,$23.45,,S,Mrs,Johnston,4Johnston,4,4Johnston
+926,NA,1,"Mock, Mr. Philipp Edmund",male,C,30.0,1,0,13236,$57.75,C78,C,Mr,Mock,Small,2,Small
+927,NA,3,"Katavelas, Mr. Vassilios (Catavelas Vassilios"")""",male,Z,18.5,0,0,2682,$7.23,,C,Mr,Katavelas,Small,1,Small
+928,NA,3,"Roth, Miss. Sarah A",female,Z,22.3,0,0,342712,$8.05,,S,Miss,Roth,Small,1,Small
+929,NA,3,"Cacic, Miss. Manda",female,Z,21.0,0,0,315087,$8.66,,S,Miss,Cacic,Small,1,Small
+930,NA,3,"Sap, Mr. Julius",male,Z,25.0,0,0,345768,$9.50,,S,Mr,Sap,Small,1,Small
+931,NA,3,"Hee, Mr. Ling",male,Z,28.9,0,0,1601,$56.50,,S,Mr,Hee,Small,1,Small
+932,NA,3,"Karun, Mr. Franz",male,Z,39.0,0,1,349256,$13.42,,C,Mr,Karun,Small,2,Small
+933,NA,1,"Franklin, Mr. Thomas Parham",male,D,42.5,0,0,113778,$26.55,D34,S,Mr,Franklin,Small,1,Small
+934,NA,3,"Goldsmith, Mr. Nathan",male,Z,41.0,0,0,SOTON/O.Q. 3101263,$7.85,,S,Mr,Goldsmith,Small,1,Small
+935,NA,2,"Corbett, Mrs. Walter H (Irene Colvin)",female,Z,30.0,0,0,237249,$13.00,,S,Mrs,Corbett,Small,1,Small
+936,NA,1,"Kimball, Mrs. Edwin Nelson Jr (Gertrude Parsons)",female,D,45.0,1,0,11753,$52.55,D19,S,Mrs,Kimball,Small,2,Small
+937,NA,3,"Peltomaki, Mr. Nikolai Johannes",male,Z,25.0,0,0,STON/O 2. 3101291,$7.93,,S,Mr,Peltomaki,Small,1,Small
+938,NA,1,"Chevre, Mr. Paul Romaine",male,A,45.0,0,0,PC 17594,$29.70,A9,C,Mr,Chevre,Small,1,Small
+939,NA,3,"Shaughnessy, Mr. Patrick",male,Z,28.9,0,0,370374,$7.75,,Q,Mr,Shaughnessy,Small,1,Small
+940,NA,1,"Bucknell, Mrs. William Robert (Emma Eliza Ward)",female,D,60.0,0,0,11813,$76.29,D15,C,Mrs,Bucknell,Small,1,Small
+941,NA,3,"Coutts, Mrs. William (Winnie Minnie"" Treanor)""",female,Z,36.0,0,2,C.A. 37671,$15.90,,S,Mrs,Coutts,3Coutts,3,Small
+942,NA,1,"Smith, Mr. Lucien Philip",male,C,24.0,1,0,13695,$60.00,C31,S,Mr,Smith,Small,2,Small
+943,NA,2,"Pulbaum, Mr. Franz",male,Z,27.0,0,0,SC/PARIS 2168,$15.03,,C,Mr,Pulbaum,Small,1,Small
+944,NA,2,"Hocking, Miss. Ellen Nellie""""",female,Z,20.0,2,1,29105,$23.00,,S,Miss,Hocking,Small,4,Small
+945,NA,1,"Fortune, Miss. Ethel Flora",female,C,28.0,3,2,19950,$263.00,C23 C25 C27,S,Miss,Fortune,6Fortune,6,6Fortune
+946,NA,2,"Mangiavacchi, Mr. Serafino Emilio",male,Z,33.1,0,0,SC/A.3 2861,$15.58,,C,Mr,Mangiavacchi,Small,1,Small
+947,NA,3,"Rice, Master. Albert",male,Z,10.0,4,1,382652,$29.13,,Q,Master,Rice,6Rice,6,6Rice
+948,NA,3,"Cor, Mr. Bartol",male,Z,35.0,0,0,349230,$7.90,,S,Mr,Cor,Small,1,Small
+949,NA,3,"Abelseth, Mr. Olaus Jorgensen",male,G,25.0,0,0,348122,$7.65,F G63,S,Mr,Abelseth,Small,1,Small
+950,NA,3,"Davison, Mr. Thomas Henry",male,Z,28.9,1,0,386525,$16.10,,S,Mr,Davison,Small,2,Small
+951,NA,1,"Chaudanson, Miss. Victorine",female,B,36.0,0,0,PC 17608,$262.38,B61,C,Miss,Chaudanson,Small,1,Small
+952,NA,3,"Dika, Mr. Mirko",male,Z,17.0,0,0,349232,$7.90,,S,Mr,Dika,Small,1,Small
+953,NA,2,"McCrae, Mr. Arthur Gordon",male,Z,32.0,0,0,237216,$13.50,,S,Mr,McCrae,Small,1,Small
+954,NA,3,"Bjorklund, Mr. Ernst Herbert",male,Z,18.0,0,0,347090,$7.75,,S,Mr,Bjorklund,Small,1,Small
+955,NA,3,"Bradley, Miss. Bridget Delia",female,Z,22.0,0,0,334914,$7.73,,Q,Miss,Bradley,Small,1,Small
+956,NA,1,"Ryerson, Master. John Borie",male,B,13.0,2,2,PC 17608,$262.38,B57 B59 B63 B66,C,Master,Ryerson,5Ryerson,5,5Ryerson
+957,NA,2,"Corey, Mrs. Percy C (Mary Phyllis Elizabeth Miller)",female,Z,33.1,0,0,F.C.C. 13534,$21.00,,S,Mrs,Corey,Small,1,Small
+958,NA,3,"Burns, Miss. Mary Delia",female,Z,18.0,0,0,330963,$7.88,,Q,Miss,Burns,Small,1,Small
+959,NA,1,"Moore, Mr. Clarence Bloomfield",male,Z,47.0,0,0,113796,$42.40,,S,Mr,Moore,Small,1,Small
+960,NA,1,"Tucker, Mr. Gilbert Milligan Jr",male,C,31.0,0,0,2543,$28.54,C53,C,Mr,Tucker,Small,1,Small
+961,NA,1,"Fortune, Mrs. Mark (Mary McDougald)",female,C,60.0,1,4,19950,$263.00,C23 C25 C27,S,Mrs,Fortune,6Fortune,6,6Fortune
+962,NA,3,"Mulvihill, Miss. Bertha E",female,Z,24.0,0,0,382653,$7.75,,Q,Miss,Mulvihill,Small,1,Small
+963,NA,3,"Minkoff, Mr. Lazar",male,Z,21.0,0,0,349211,$7.90,,S,Mr,Minkoff,Small,1,Small
+964,NA,3,"Nieminen, Miss. Manta Josefina",female,Z,29.0,0,0,3101297,$7.93,,S,Miss,Nieminen,Small,1,Small
+965,NA,1,"Ovies y Rodriguez, Mr. Servando",male,D,28.5,0,0,PC 17562,$27.72,D43,C,Mr,Ovies y Rodriguez,Small,1,Small
+966,NA,1,"Geiger, Miss. Amalie",female,C,35.0,0,0,113503,$211.50,C130,C,Miss,Geiger,Small,1,Small
+967,NA,1,"Keeping, Mr. Edwin",male,C,32.5,0,0,113503,$211.50,C132,C,Mr,Keeping,Small,1,Small
+968,NA,3,"Miles, Mr. Frank",male,Z,28.9,0,0,359306,$8.05,,S,Mr,Miles,Small,1,Small
+969,NA,1,"Cornell, Mrs. Robert Clifford (Malvina Helen Lamson)",female,C,55.0,2,0,11770,$25.70,C101,S,Mrs,Cornell,Small,3,Small
+970,NA,2,"Aldworth, Mr. Charles Augustus",male,Z,30.0,0,0,248744,$13.00,,S,Mr,Aldworth,Small,1,Small
+971,NA,3,"Doyle, Miss. Elizabeth",female,Z,24.0,0,0,368702,$7.75,,Q,Miss,Doyle,Small,1,Small
+972,NA,3,"Boulos, Master. Akar",male,Z,6.0,1,1,2678,$15.25,,C,Master,Boulos,3Boulos,3,Small
+973,NA,1,"Straus, Mr. Isidor",male,C,67.0,1,0,PC 17483,$221.78,C55 C57,S,Mr,Straus,Small,2,Small
+974,NA,1,"Case, Mr. Howard Brown",male,Z,49.0,0,0,19924,$26.00,,S,Mr,Case,Small,1,Small
+975,NA,3,"Demetri, Mr. Marinko",male,Z,28.9,0,0,349238,$7.90,,S,Mr,Demetri,Small,1,Small
+976,NA,2,"Lamb, Mr. John Joseph",male,Z,33.1,0,0,240261,$10.71,,Q,Mr,Lamb,Small,1,Small
+977,NA,3,"Khalil, Mr. Betros",male,Z,28.9,1,0,2660,$14.45,,C,Mr,Khalil,Small,2,Small
+978,NA,3,"Barry, Miss. Julia",female,Z,27.0,0,0,330844,$7.88,,Q,Miss,Barry,Small,1,Small
+979,NA,3,"Badman, Miss. Emily Louisa",female,Z,18.0,0,0,A/4 31416,$8.05,,S,Miss,Badman,Small,1,Small
+980,NA,3,"O'Donoghue, Ms. Bridget",female,Z,28.9,0,0,364856,$7.75,,Q,Ms,O'Donoghue,Small,1,Small
+981,NA,2,"Wells, Master. Ralph Lester",male,Z,2.0,1,1,29103,$23.00,,S,Master,Wells,3Wells,3,Small
+982,NA,3,"Dyker, Mrs. Adolf Fredrik (Anna Elisabeth Judith Andersson)",female,Z,22.0,1,0,347072,$13.90,,S,Mrs,Dyker,Small,2,Small
+983,NA,3,"Pedersen, Mr. Olaf",male,Z,28.9,0,0,345498,$7.78,,S,Mr,Pedersen,Small,1,Small
+984,NA,1,"Davidson, Mrs. Thornton (Orian Hays)",female,B,27.0,1,2,F.C. 12750,$52.00,B71,S,Mrs,Davidson,Small,4,Small
+985,NA,3,"Guest, Mr. Robert",male,Z,28.9,0,0,376563,$8.05,,S,Mr,Guest,Small,1,Small
+986,NA,1,"Birnbaum, Mr. Jakob",male,Z,25.0,0,0,13905,$26.00,,C,Mr,Birnbaum,Small,1,Small
+987,NA,3,"Tenglin, Mr. Gunnar Isidor",male,Z,25.0,0,0,350033,$7.80,,S,Mr,Tenglin,Small,1,Small
+988,NA,1,"Cavendish, Mrs. Tyrell William (Julia Florence Siegel)",female,C,76.0,1,0,19877,$78.85,C46,S,Mrs,Cavendish,Small,2,Small
+989,NA,3,"Makinen, Mr. Kalle Edvard",male,Z,29.0,0,0,STON/O 2. 3101268,$7.93,,S,Mr,Makinen,Small,1,Small
+990,NA,3,"Braf, Miss. Elin Ester Maria",female,Z,20.0,0,0,347471,$7.85,,S,Miss,Braf,Small,1,Small
+991,NA,3,"Nancarrow, Mr. William Henry",male,Z,33.0,0,0,A./5. 3338,$8.05,,S,Mr,Nancarrow,Small,1,Small
+992,NA,1,"Stengel, Mrs. Charles Emil Henry (Annie May Morris)",female,C,43.0,1,0,11778,$55.44,C116,C,Mrs,Stengel,Small,2,Small
+993,NA,2,"Weisz, Mr. Leopold",male,Z,27.0,1,0,228414,$26.00,,S,Mr,Weisz,Small,2,Small
+994,NA,3,"Foley, Mr. William",male,Z,28.9,0,0,365235,$7.75,,Q,Mr,Foley,Small,1,Small
+995,NA,3,"Johansson Palmquist, Mr. Oskar Leander",male,Z,26.0,0,0,347070,$7.78,,S,Mr,Johansson Palmquist,Small,1,Small
+996,NA,3,"Thomas, Mrs. Alexander (Thamine Thelma"")""",female,Z,16.0,1,1,2625,$8.52,,C,Mrs,Thomas,Small,3,Small
+997,NA,3,"Holthen, Mr. Johan Martin",male,Z,28.0,0,0,C 4001,$22.53,,S,Mr,Holthen,Small,1,Small
+998,NA,3,"Buckley, Mr. Daniel",male,Z,21.0,0,0,330920,$7.82,,Q,Mr,Buckley,Small,1,Small
+999,NA,3,"Ryan, Mr. Edward",male,Z,28.9,0,0,383162,$7.75,,Q,Mr,Ryan,Small,1,Small
+1000,NA,3,"Willer, Mr. Aaron (Abi Weller"")""",male,Z,28.9,0,0,3410,$8.71,,S,Mr,Willer,Small,1,Small
+1001,NA,2,"Swane, Mr. George",male,F,18.5,0,0,248734,$13.00,F,S,Mr,Swane,Small,1,Small
+1002,NA,2,"Stanton, Mr. Samuel Ward",male,Z,41.0,0,0,237734,$15.05,,C,Mr,Stanton,Small,1,Small
+1003,NA,3,"Shine, Miss. Ellen Natalia",female,Z,22.3,0,0,330968,$7.78,,Q,Miss,Shine,Small,1,Small
+1004,NA,1,"Evans, Miss. Edith Corse",female,A,36.0,0,0,PC 17531,$31.68,A29,C,Miss,Evans,Small,1,Small
+1005,NA,3,"Buckley, Miss. Katherine",female,Z,18.5,0,0,329944,$7.28,,Q,Miss,Buckley,Small,1,Small
+1006,NA,1,"Straus, Mrs. Isidor (Rosalie Ida Blun)",female,C,63.0,1,0,PC 17483,$221.78,C55 C57,S,Mrs,Straus,Small,2,Small
+1007,NA,3,"Chronopoulos, Mr. Demetrios",male,Z,18.0,1,0,2680,$14.45,,C,Mr,Chronopoulos,Small,2,Small
+1008,NA,3,"Thomas, Mr. John",male,Z,28.9,0,0,2681,$6.44,,C,Mr,Thomas,Small,1,Small
+1009,NA,3,"Sandstrom, Miss. Beatrice Irene",female,G,1.0,1,1,PP 9549,$16.70,G6,S,Miss,Sandstrom,3Sandstrom,3,Small
+1010,NA,1,"Beattie, Mr. Thomson",male,C,36.0,0,0,13050,$75.24,C6,C,Mr,Beattie,Small,1,Small
+1011,NA,2,"Chapman, Mrs. John Henry (Sara Elizabeth Lawry)",female,Z,29.0,1,0,SC/AH 29037,$26.00,,S,Mrs,Chapman,Small,2,Small
+1012,NA,2,"Watt, Miss. Bertha J",female,Z,12.0,0,0,C.A. 33595,$15.75,,S,Miss,Watt,Small,1,Small
+1013,NA,3,"Kiernan, Mr. John",male,Z,28.9,1,0,367227,$7.75,,Q,Mr,Kiernan,Small,2,Small
+1014,NA,1,"Schabert, Mrs. Paul (Emma Mock)",female,C,35.0,1,0,13236,$57.75,C28,C,Mrs,Schabert,Small,2,Small
+1015,NA,3,"Carver, Mr. Alfred John",male,Z,28.0,0,0,392095,$7.25,,S,Mr,Carver,Small,1,Small
+1016,NA,3,"Kennedy, Mr. John",male,Z,28.9,0,0,368783,$7.75,,Q,Mr,Kennedy,Small,1,Small
+1017,NA,3,"Cribb, Miss. Laura Alice",female,Z,17.0,0,1,371362,$16.10,,S,Miss,Cribb,Small,2,Small
+1018,NA,3,"Brobeck, Mr. Karl Rudolf",male,Z,22.0,0,0,350045,$7.80,,S,Mr,Brobeck,Small,1,Small
+1019,NA,3,"McCoy, Miss. Alicia",female,Z,22.3,2,0,367226,$23.25,,Q,Miss,McCoy,3McCoy,3,Small
+1020,NA,2,"Bowenur, Mr. Solomon",male,Z,42.0,0,0,211535,$13.00,,S,Mr,Bowenur,Small,1,Small
+1021,NA,3,"Petersen, Mr. Marius",male,Z,24.0,0,0,342441,$8.05,,S,Mr,Petersen,Small,1,Small
+1022,NA,3,"Spinner, Mr. Henry John",male,Z,32.0,0,0,STON/OQ. 369943,$8.05,,S,Mr,Spinner,Small,1,Small
+1023,NA,1,"Gracie, Col. Archibald IV",male,C,53.0,0,0,113780,$28.50,C51,C,Col,Gracie,Small,1,Small
+1024,NA,3,"Lefebre, Mrs. Frank (Frances)",female,Z,28.9,0,4,4133,$25.47,,S,Mrs,Lefebre,5Lefebre,5,5Lefebre
+1025,NA,3,"Thomas, Mr. Charles P",male,Z,28.9,1,0,2621,$6.44,,C,Mr,Thomas,Small,2,Small
+1026,NA,3,"Dintcheff, Mr. Valtcho",male,Z,43.0,0,0,349226,$7.90,,S,Mr,Dintcheff,Small,1,Small
+1027,NA,3,"Carlsson, Mr. Carl Robert",male,Z,24.0,0,0,350409,$7.85,,S,Mr,Carlsson,Small,1,Small
+1028,NA,3,"Zakarian, Mr. Mapriededer",male,Z,26.5,0,0,2656,$7.23,,C,Mr,Zakarian,Small,1,Small
+1029,NA,2,"Schmidt, Mr. August",male,Z,26.0,0,0,248659,$13.00,,S,Mr,Schmidt,Small,1,Small
+1030,NA,3,"Drapkin, Miss. Jennie",female,Z,23.0,0,0,SOTON/OQ 392083,$8.05,,S,Miss,Drapkin,Small,1,Small
+1031,NA,3,"Goodwin, Mr. Charles Frederick",male,Z,40.0,1,6,CA 2144,$46.90,,S,Mr,Goodwin,8Goodwin,8,8Goodwin
+1032,NA,3,"Goodwin, Miss. Jessie Allis",female,Z,10.0,5,2,CA 2144,$46.90,,S,Miss,Goodwin,8Goodwin,8,8Goodwin
+1033,NA,1,"Daniels, Miss. Sarah",female,Z,33.0,0,0,113781,$151.55,,S,Miss,Daniels,Small,1,Small
+1034,NA,1,"Ryerson, Mr. Arthur Larned",male,B,61.0,1,3,PC 17608,$262.38,B57 B59 B63 B66,C,Mr,Ryerson,5Ryerson,5,5Ryerson
+1035,NA,2,"Beauchamp, Mr. Henry James",male,Z,28.0,0,0,244358,$26.00,,S,Mr,Beauchamp,Small,1,Small
+1036,NA,1,"Lindeberg-Lind, Mr. Erik Gustaf (Mr Edward Lingrey"")""",male,Z,42.0,0,0,17475,$26.55,,S,Mr,Lindeberg-Lind,Small,1,Small
+1037,NA,3,"Vander Planke, Mr. Julius",male,Z,31.0,3,0,345763,$18.00,,S,Mr,Vander Planke,Small,4,Small
+1038,NA,1,"Hilliard, Mr. Herbert Henry",male,E,42.5,0,0,17463,$51.86,E46,S,Mr,Hilliard,Small,1,Small
+1039,NA,3,"Davies, Mr. Evan",male,Z,22.0,0,0,SC/A4 23568,$8.05,,S,Mr,Davies,Small,1,Small
+1040,NA,1,"Crafton, Mr. John Bertram",male,Z,42.5,0,0,113791,$26.55,,S,Mr,Crafton,Small,1,Small
+1041,NA,2,"Lahtinen, Rev. William",male,Z,30.0,1,1,250651,$26.00,,S,Rev,Lahtinen,Small,3,Small
+1042,NA,1,"Earnshaw, Mrs. Boulton (Olive Potter)",female,C,23.0,0,1,11767,$83.16,C54,C,Mrs,Earnshaw,Small,2,Small
+1043,NA,3,"Matinoff, Mr. Nicola",male,Z,28.9,0,0,349255,$7.90,,C,Mr,Matinoff,Small,1,Small
+1044,NA,3,"Storey, Mr. Thomas",male,Z,60.5,0,0,3701,$14.45,,S,Mr,Storey,Small,1,Small
+1045,NA,3,"Klasen, Mrs. (Hulda Kristina Eugenia Lofqvist)",female,Z,36.0,0,2,350405,$12.18,,S,Mrs,Klasen,3Klasen,3,Small
+1046,NA,3,"Asplund, Master. Filip Oscar",male,Z,13.0,4,2,347077,$31.39,,S,Master,Asplund,7Asplund,7,7Asplund
+1047,NA,3,"Duquemin, Mr. Joseph",male,Z,24.0,0,0,S.O./P.P. 752,$7.55,,S,Mr,Duquemin,Small,1,Small
+1048,NA,1,"Bird, Miss. Ellen",female,C,29.0,0,0,PC 17483,$221.78,C97,S,Miss,Bird,Small,1,Small
+1049,NA,3,"Lundin, Miss. Olga Elida",female,Z,23.0,0,0,347469,$7.85,,S,Miss,Lundin,Small,1,Small
+1050,NA,1,"Borebank, Mr. John James",male,D,42.0,0,0,110489,$26.55,D22,S,Mr,Borebank,Small,1,Small
+1051,NA,3,"Peacock, Mrs. Benjamin (Edith Nile)",female,Z,26.0,0,2,SOTON/O.Q. 3101315,$13.78,,S,Mrs,Peacock,3Peacock,3,Small
+1052,NA,3,"Smyth, Miss. Julia",female,Z,22.3,0,0,335432,$7.73,,Q,Miss,Smyth,Small,1,Small
+1053,NA,3,"Touma, Master. Georges Youssef",male,Z,7.0,1,1,2650,$15.25,,C,Master,Touma,3Touma,3,Small
+1054,NA,2,"Wright, Miss. Marion",female,Z,26.0,0,0,220844,$13.50,,S,Miss,Wright,Small,1,Small
+1055,NA,3,"Pearce, Mr. Ernest",male,Z,28.9,0,0,343271,$7.00,,S,Mr,Pearce,Small,1,Small
+1056,NA,2,"Peruschitz, Rev. Joseph Maria",male,Z,41.0,0,0,237393,$13.00,,S,Rev,Peruschitz,Small,1,Small
+1057,NA,3,"Kink-Heilmann, Mrs. Anton (Luise Heilmann)",female,Z,26.0,1,1,315153,$22.03,,S,Mrs,Kink-Heilmann,Small,3,Small
+1058,NA,1,"Brandeis, Mr. Emil",male,B,48.0,0,0,PC 17591,$50.50,B10,C,Mr,Brandeis,Small,1,Small
+1059,NA,3,"Ford, Mr. Edward Watson",male,Z,18.0,2,2,W./C. 6608,$34.38,,S,Mr,Ford,5Ford,5,5Ford
+1060,NA,1,"Cassebeer, Mrs. Henry Arthur Jr (Eleanor Genevieve Fosdick)",female,Z,42.5,0,0,17770,$27.72,,C,Mrs,Cassebeer,Small,1,Small
+1061,NA,3,"Hellstrom, Miss. Hilda Maria",female,Z,22.0,0,0,7548,$8.96,,S,Miss,Hellstrom,Small,1,Small
+1062,NA,3,"Lithman, Mr. Simon",male,Z,28.9,0,0,S.O./P.P. 251,$7.55,,S,Mr,Lithman,Small,1,Small
+1063,NA,3,"Zakarian, Mr. Ortin",male,Z,27.0,0,0,2670,$7.23,,C,Mr,Zakarian,Small,1,Small
+1064,NA,3,"Dyker, Mr. Adolf Fredrik",male,Z,23.0,1,0,347072,$13.90,,S,Mr,Dyker,Small,2,Small
+1065,NA,3,"Torfa, Mr. Assad",male,Z,28.9,0,0,2673,$7.23,,C,Mr,Torfa,Small,1,Small
+1066,NA,3,"Asplund, Mr. Carl Oscar Vilhelm Gustafsson",male,Z,40.0,1,5,347077,$31.39,,S,Mr,Asplund,7Asplund,7,7Asplund
+1067,NA,2,"Brown, Miss. Edith Eileen",female,Z,15.0,0,2,29750,$39.00,,S,Miss,Brown,3Brown,3,Small
+1068,NA,2,"Sincock, Miss. Maude",female,Z,20.0,0,0,C.A. 33112,$36.75,,S,Miss,Sincock,Small,1,Small
+1069,NA,1,"Stengel, Mr. Charles Emil Henry",male,C,54.0,1,0,11778,$55.44,C116,C,Mr,Stengel,Small,2,Small
+1070,NA,2,"Becker, Mrs. Allen Oliver (Nellie E Baumgardner)",female,F,36.0,0,3,230136,$39.00,F4,S,Mrs,Becker,4Becker,4,4Becker
+1071,NA,1,"Compton, Mrs. Alexander Taylor (Mary Eliza Ingersoll)",female,E,64.0,0,2,PC 17756,$83.16,E45,C,Mrs,Compton,3Compton,3,Small
+1072,NA,2,"McCrie, Mr. James Matthew",male,Z,30.0,0,0,233478,$13.00,,S,Mr,McCrie,Small,1,Small
+1073,NA,1,"Compton, Mr. Alexander Taylor Jr",male,E,37.0,1,1,PC 17756,$83.16,E52,C,Mr,Compton,3Compton,3,Small
+1074,NA,1,"Marvin, Mrs. Daniel Warner (Mary Graham Carmichael Farquarson)",female,D,18.0,1,0,113773,$53.10,D30,S,Mrs,Marvin,Small,2,Small
+1075,NA,3,"Lane, Mr. Patrick",male,Z,28.9,0,0,7935,$7.75,,Q,Mr,Lane,Small,1,Small
+1076,NA,1,"Douglas, Mrs. Frederick Charles (Mary Helene Baxter)",female,B,27.0,1,1,PC 17558,$247.52,B58 B60,C,Mrs,Douglas,Small,3,Small
+1077,NA,2,"Maybery, Mr. Frank Hubert",male,Z,40.0,0,0,239059,$16.00,,S,Mr,Maybery,Small,1,Small
+1078,NA,2,"Phillips, Miss. Alice Frances Louisa",female,Z,21.0,0,1,S.O./P.P. 2,$21.00,,S,Miss,Phillips,Small,2,Small
+1079,NA,3,"Davies, Mr. Joseph",male,Z,17.0,2,0,A/4 48873,$8.05,,S,Mr,Davies,3Davies,3,Small
+1080,NA,3,"Sage, Miss. Ada",female,Z,18.8,8,2,CA. 2343,$69.55,,S,Miss,Sage,11Sage,11,11Sage
+1081,NA,2,"Veal, Mr. James",male,Z,40.0,0,0,28221,$13.00,,S,Mr,Veal,Small,1,Small
+1082,NA,2,"Angle, Mr. William A",male,Z,34.0,1,0,226875,$26.00,,S,Mr,Angle,Small,2,Small
+1083,NA,1,"Salomon, Mr. Abraham L",male,Z,42.5,0,0,111163,$26.00,,S,Mr,Salomon,Small,1,Small
+1084,NA,3,"van Billiard, Master. Walter John",male,Z,11.5,1,1,A/5. 851,$14.50,,S,Master,van Billiard,3van Billiard,3,Small
+1085,NA,2,"Lingane, Mr. John",male,Z,61.0,0,0,235509,$12.35,,Q,Mr,Lingane,Small,1,Small
+1086,NA,2,"Drew, Master. Marshall Brines",male,Z,8.0,0,2,28220,$32.50,,S,Master,Drew,3Drew,3,Small
+1087,NA,3,"Karlsson, Mr. Julius Konrad Eugen",male,Z,33.0,0,0,347465,$7.85,,S,Mr,Karlsson,Small,1,Small
+1088,NA,1,"Spedden, Master. Robert Douglas",male,E,6.0,0,2,16966,$134.50,E34,C,Master,Spedden,3Spedden,3,Small
+1089,NA,3,"Nilsson, Miss. Berta Olivia",female,Z,18.0,0,0,347066,$7.78,,S,Miss,Nilsson,Small,1,Small
+1090,NA,2,"Baimbrigge, Mr. Charles Robert",male,Z,23.0,0,0,C.A. 31030,$10.50,,S,Mr,Baimbrigge,Small,1,Small
+1091,NA,3,"Rasmussen, Mrs. (Lena Jacobsen Solvang)",female,Z,28.9,0,0,65305,$8.11,,S,Mrs,Rasmussen,Small,1,Small
+1092,NA,3,"Murphy, Miss. Nora",female,Z,22.3,0,0,36568,$15.50,,Q,Miss,Murphy,Small,1,Small
+1093,NA,3,"Danbom, Master. Gilbert Sigvard Emanuel",male,Z,0.3,0,2,347080,$14.40,,S,Master,Danbom,3Danbom,3,Small
+1094,NA,1,"Astor, Col. John Jacob",male,C,47.0,1,0,PC 17757,$227.53,C62 C64,C,Col,Astor,Small,2,Small
+1095,NA,2,"Quick, Miss. Winifred Vera",female,Z,8.0,1,1,26360,$26.00,,S,Miss,Quick,3Quick,3,Small
+1096,NA,2,"Andrew, Mr. Frank Thomas",male,Z,25.0,0,0,C.A. 34050,$10.50,,S,Mr,Andrew,Small,1,Small
+1097,NA,1,"Omont, Mr. Alfred Fernand",male,Z,42.5,0,0,F.C. 12998,$25.74,,C,Mr,Omont,Small,1,Small
+1098,NA,3,"McGowan, Miss. Katherine",female,Z,35.0,0,0,9232,$7.75,,Q,Miss,McGowan,Small,1,Small
+1099,NA,2,"Collett, Mr. Sidney C Stuart",male,Z,24.0,0,0,28034,$10.50,,S,Mr,Collett,Small,1,Small
+1100,NA,1,"Rosenbaum, Miss. Edith Louise",female,A,33.0,0,0,PC 17613,$27.72,A11,C,Miss,Rosenbaum,Small,1,Small
+1101,NA,3,"Delalic, Mr. Redjo",male,Z,25.0,0,0,349250,$7.90,,S,Mr,Delalic,Small,1,Small
+1102,NA,3,"Andersen, Mr. Albert Karvin",male,Z,32.0,0,0,C 4001,$22.53,,S,Mr,Andersen,Small,1,Small
+1103,NA,3,"Finoli, Mr. Luigi",male,Z,28.9,0,0,SOTON/O.Q. 3101308,$7.05,,S,Mr,Finoli,Small,1,Small
+1104,NA,2,"Deacon, Mr. Percy William",male,Z,17.0,0,0,S.O.C. 14879,$73.50,,S,Mr,Deacon,Small,1,Small
+1105,NA,2,"Howard, Mrs. Benjamin (Ellen Truelove Arman)",female,Z,60.0,1,0,24065,$26.00,,S,Mrs,Howard,Small,2,Small
+1106,NA,3,"Andersson, Miss. Ida Augusta Margareta",female,Z,38.0,4,2,347091,$7.78,,S,Miss,Andersson,7Andersson,7,7Andersson
+1107,NA,1,"Head, Mr. Christopher",male,B,42.0,0,0,113038,$42.50,B11,S,Mr,Head,Small,1,Small
+1108,NA,3,"Mahon, Miss. Bridget Delia",female,Z,22.3,0,0,330924,$7.88,,Q,Miss,Mahon,Small,1,Small
+1109,NA,1,"Wick, Mr. George Dennick",male,Z,57.0,1,1,36928,$164.87,,S,Mr,Wick,3Wick,3,Small
+1110,NA,1,"Widener, Mrs. George Dunton (Eleanor Elkins)",female,C,50.0,1,1,113503,$211.50,C80,C,Mrs,Widener,3Widener,3,Small
+1111,NA,3,"Thomson, Mr. Alexander Morrison",male,Z,28.9,0,0,32302,$8.05,,S,Mr,Thomson,Small,1,Small
+1112,NA,2,"Duran y More, Miss. Florentina",female,Z,30.0,1,0,SC/PARIS 2148,$13.86,,C,Miss,Duran y More,Small,2,Small
+1113,NA,3,"Reynolds, Mr. Harold J",male,Z,21.0,0,0,342684,$8.05,,S,Mr,Reynolds,Small,1,Small
+1114,NA,2,"Cook, Mrs. (Selena Rogers)",female,F,22.0,0,0,W./C. 14266,$10.50,F33,S,Mrs,Cook,Small,1,Small
+1115,NA,3,"Karlsson, Mr. Einar Gervasius",male,Z,21.0,0,0,350053,$7.80,,S,Mr,Karlsson,Small,1,Small
+1116,NA,1,"Candee, Mrs. Edward (Helen Churchill Hungerford)",female,Z,53.0,0,0,PC 17606,$27.45,,C,Mrs,Candee,Small,1,Small
+1117,NA,3,"Moubarek, Mrs. George (Omine Amenia"" Alexander)""",female,Z,28.9,0,2,2661,$15.25,,C,Mrs,Moubarek,3Moubarek,3,Small
+1118,NA,3,"Asplund, Mr. Johan Charles",male,Z,23.0,0,0,350054,$7.80,,S,Mr,Asplund,Small,1,Small
+1119,NA,3,"McNeill, Miss. Bridget",female,Z,22.3,0,0,370368,$7.75,,Q,Miss,McNeill,Small,1,Small
+1120,NA,3,"Everett, Mr. Thomas James",male,Z,40.5,0,0,C.A. 6212,$15.10,,S,Mr,Everett,Small,1,Small
+1121,NA,2,"Hocking, Mr. Samuel James Metcalfe",male,Z,36.0,0,0,242963,$13.00,,S,Mr,Hocking,Small,1,Small
+1122,NA,2,"Sweet, Mr. George Frederick",male,Z,14.0,0,0,220845,$65.00,,S,Mr,Sweet,Small,1,Small
+1123,NA,1,"Willard, Miss. Constance",female,Z,21.0,0,0,113795,$26.55,,S,Miss,Willard,Small,1,Small
+1124,NA,3,"Wiklund, Mr. Karl Johan",male,Z,21.0,1,0,3101266,$6.50,,S,Mr,Wiklund,Small,2,Small
+1125,NA,3,"Linehan, Mr. Michael",male,Z,28.9,0,0,330971,$7.88,,Q,Mr,Linehan,Small,1,Small
+1126,NA,1,"Cumings, Mr. John Bradley",male,C,39.0,1,0,PC 17599,$71.28,C85,C,Mr,Cumings,Small,2,Small
+1127,NA,3,"Vendel, Mr. Olof Edvin",male,Z,20.0,0,0,350416,$7.85,,S,Mr,Vendel,Small,1,Small
+1128,NA,1,"Warren, Mr. Frank Manley",male,D,64.0,1,0,110813,$75.25,D37,C,Mr,Warren,Small,2,Small
+1129,NA,3,"Baccos, Mr. Raffull",male,Z,20.0,0,0,2679,$7.23,,C,Mr,Baccos,Small,1,Small
+1130,NA,2,"Hiltunen, Miss. Marta",female,Z,18.0,1,1,250650,$13.00,,S,Miss,Hiltunen,Small,3,Small
+1131,NA,1,"Douglas, Mrs. Walter Donald (Mahala Dutton)",female,C,48.0,1,0,PC 17761,$106.43,C86,C,Mrs,Douglas,Small,2,Small
+1132,NA,1,"Lindstrom, Mrs. Carl Johan (Sigrid Posse)",female,Z,55.0,0,0,112377,$27.72,,C,Mrs,Lindstrom,Small,1,Small
+1133,NA,2,"Christy, Mrs. (Alice Frances)",female,Z,45.0,0,2,237789,$30.00,,S,Mrs,Christy,Small,3,Small
+1134,NA,1,"Spedden, Mr. Frederic Oakley",male,E,45.0,1,1,16966,$134.50,E34,C,Mr,Spedden,3Spedden,3,Small
+1135,NA,3,"Hyman, Mr. Abraham",male,Z,28.9,0,0,3470,$7.89,,S,Mr,Hyman,Small,1,Small
+1136,NA,3,"Johnston, Master. William Arthur Willie""""",male,Z,7.1,1,2,W./C. 6607,$23.45,,S,Master,Johnston,4Johnston,4,4Johnston
+1137,NA,1,"Kenyon, Mr. Frederick R",male,D,41.0,1,0,17464,$51.86,D21,S,Mr,Kenyon,Small,2,Small
+1138,NA,2,"Karnes, Mrs. J Frank (Claire Bennett)",female,Z,22.0,0,0,F.C.C. 13534,$21.00,,S,Mrs,Karnes,Small,1,Small
+1139,NA,2,"Drew, Mr. James Vivian",male,Z,42.0,1,1,28220,$32.50,,S,Mr,Drew,3Drew,3,Small
+1140,NA,2,"Hold, Mrs. Stephen (Annie Margaret Hill)",female,Z,29.0,1,0,26707,$26.00,,S,Mrs,Hold,Small,2,Small
+1141,NA,3,"Khalil, Mrs. Betros (Zahie Maria"" Elias)""",female,Z,28.9,1,0,2660,$14.45,,C,Mrs,Khalil,Small,2,Small
+1142,NA,2,"West, Miss. Barbara J",female,Z,0.9,1,2,C.A. 34651,$27.75,,S,Miss,West,4West,4,4West
+1143,NA,3,"Abrahamsson, Mr. Abraham August Johannes",male,Z,20.0,0,0,SOTON/O2 3101284,$7.93,,S,Mr,Abrahamsson,Small,1,Small
+1144,NA,1,"Clark, Mr. Walter Miller",male,C,27.0,1,0,13508,$136.78,C89,C,Mr,Clark,Small,2,Small
+1145,NA,3,"Salander, Mr. Karl Johan",male,Z,24.0,0,0,7266,$9.33,,S,Mr,Salander,Small,1,Small
+1146,NA,3,"Wenzel, Mr. Linhart",male,Z,32.5,0,0,345775,$9.50,,S,Mr,Wenzel,Small,1,Small
+1147,NA,3,"MacKay, Mr. George William",male,Z,28.9,0,0,C.A. 42795,$7.55,,S,Mr,MacKay,Small,1,Small
+1148,NA,3,"Mahon, Mr. John",male,Z,28.9,0,0,AQ/4 3130,$7.75,,Q,Mr,Mahon,Small,1,Small
+1149,NA,3,"Niklasson, Mr. Samuel",male,Z,28.0,0,0,363611,$8.05,,S,Mr,Niklasson,Small,1,Small
+1150,NA,2,"Bentham, Miss. Lilian W",female,Z,19.0,0,0,28404,$13.00,,S,Miss,Bentham,Small,1,Small
+1151,NA,3,"Midtsjo, Mr. Karl Albert",male,Z,21.0,0,0,345501,$7.78,,S,Mr,Midtsjo,Small,1,Small
+1152,NA,3,"de Messemaeker, Mr. Guillaume Joseph",male,Z,36.5,1,0,345572,$17.40,,S,Mr,de Messemaeker,Small,2,Small
+1153,NA,3,"Nilsson, Mr. August Ferdinand",male,Z,21.0,0,0,350410,$7.85,,S,Mr,Nilsson,Small,1,Small
+1154,NA,2,"Wells, Mrs. Arthur Henry (Addie"" Dart Trevaskis)""",female,Z,29.0,0,2,29103,$23.00,,S,Mrs,Wells,3Wells,3,Small
+1155,NA,3,"Klasen, Miss. Gertrud Emilia",female,Z,1.0,1,1,350405,$12.18,,S,Miss,Klasen,3Klasen,3,Small
+1156,NA,2,"Portaluppi, Mr. Emilio Ilario Giuseppe",male,Z,30.0,0,0,C.A. 34644,$12.74,,C,Mr,Portaluppi,Small,1,Small
+1157,NA,3,"Lyntakoff, Mr. Stanko",male,Z,28.9,0,0,349235,$7.90,,S,Mr,Lyntakoff,Small,1,Small
+1158,NA,1,"Chisholm, Mr. Roderick Robert Crispin",male,Z,42.5,0,0,112051,$0.00,,S,Mr,Chisholm,Small,1,Small
+1159,NA,3,"Warren, Mr. Charles William",male,Z,28.9,0,0,C.A. 49867,$7.55,,S,Mr,Warren,Small,1,Small
+1160,NA,3,"Howard, Miss. May Elizabeth",female,Z,22.3,0,0,A. 2. 39186,$8.05,,S,Miss,Howard,Small,1,Small
+1161,NA,3,"Pokrnic, Mr. Mate",male,Z,17.0,0,0,315095,$8.66,,S,Mr,Pokrnic,Small,1,Small
+1162,NA,1,"McCaffry, Mr. Thomas Francis",male,C,46.0,0,0,13050,$75.24,C6,C,Mr,McCaffry,Small,1,Small
+1163,NA,3,"Fox, Mr. Patrick",male,Z,28.9,0,0,368573,$7.75,,Q,Mr,Fox,Small,1,Small
+1164,NA,1,"Clark, Mrs. Walter Miller (Virginia McDowell)",female,C,26.0,1,0,13508,$136.78,C89,C,Mrs,Clark,Small,2,Small
+1165,NA,3,"Lennon, Miss. Mary",female,Z,22.3,1,0,370371,$15.50,,Q,Miss,Lennon,Small,2,Small
+1166,NA,3,"Saade, Mr. Jean Nassr",male,Z,28.9,0,0,2676,$7.23,,C,Mr,Saade,Small,1,Small
+1167,NA,2,"Bryhl, Miss. Dagmar Jenny Ingeborg ",female,Z,20.0,1,0,236853,$26.00,,S,Miss,Bryhl,Small,2,Small
+1168,NA,2,"Parker, Mr. Clifford Richard",male,Z,28.0,0,0,SC 14888,$10.50,,S,Mr,Parker,Small,1,Small
+1169,NA,2,"Faunthorpe, Mr. Harry",male,Z,40.0,1,0,2926,$26.00,,S,Mr,Faunthorpe,Small,2,Small
+1170,NA,2,"Ware, Mr. John James",male,Z,30.0,1,0,CA 31352,$21.00,,S,Mr,Ware,Small,2,Small
+1171,NA,2,"Oxenham, Mr. Percy Thomas",male,Z,22.0,0,0,W./C. 14260,$10.50,,S,Mr,Oxenham,Small,1,Small
+1172,NA,3,"Oreskovic, Miss. Jelka",female,Z,23.0,0,0,315085,$8.66,,S,Miss,Oreskovic,Small,1,Small
+1173,NA,3,"Peacock, Master. Alfred Edward",male,Z,0.8,1,1,SOTON/O.Q. 3101315,$13.78,,S,Master,Peacock,3Peacock,3,Small
+1174,NA,3,"Fleming, Miss. Honora",female,Z,22.3,0,0,364859,$7.75,,Q,Miss,Fleming,Small,1,Small
+1175,NA,3,"Touma, Miss. Maria Youssef",female,Z,9.0,1,1,2650,$15.25,,C,Miss,Touma,3Touma,3,Small
+1176,NA,3,"Rosblom, Miss. Salli Helena",female,Z,2.0,1,1,370129,$20.21,,S,Miss,Rosblom,3Rosblom,3,Small
+1177,NA,3,"Dennis, Mr. William",male,Z,36.0,0,0,A/5 21175,$7.25,,S,Mr,Dennis,Small,1,Small
+1178,NA,3,"Franklin, Mr. Charles (Charles Fardon)",male,Z,28.9,0,0,SOTON/O.Q. 3101314,$7.25,,S,Mr,Franklin,Small,1,Small
+1179,NA,1,"Snyder, Mr. John Pillsbury",male,B,24.0,1,0,21228,$82.27,B45,S,Mr,Snyder,Small,2,Small
+1180,NA,3,"Mardirosian, Mr. Sarkis",male,E,28.9,0,0,2655,$7.23,F E46,C,Mr,Mardirosian,Small,1,Small
+1181,NA,3,"Ford, Mr. Arthur",male,Z,28.9,0,0,A/5 1478,$8.05,,S,Mr,Ford,Small,1,Small
+1182,NA,1,"Rheims, Mr. George Alexander Lucien",male,Z,42.5,0,0,PC 17607,$39.60,,S,Mr,Rheims,Small,1,Small
+1183,NA,3,"Daly, Miss. Margaret Marcella Maggie""""",female,Z,30.0,0,0,382650,$6.95,,Q,Miss,Daly,Small,1,Small
+1184,NA,3,"Nasr, Mr. Mustafa",male,Z,28.9,0,0,2652,$7.23,,C,Mr,Nasr,Small,1,Small
+1185,NA,1,"Dodge, Dr. Washington",male,A,53.0,1,1,33638,$81.86,A34,S,Dr,Dodge,3Dodge,3,Small
+1186,NA,3,"Wittevrongel, Mr. Camille",male,Z,36.0,0,0,345771,$9.50,,S,Mr,Wittevrongel,Small,1,Small
+1187,NA,3,"Angheloff, Mr. Minko",male,Z,26.0,0,0,349202,$7.90,,S,Mr,Angheloff,Small,1,Small
+1188,NA,2,"Laroche, Miss. Louise",female,Z,1.0,1,2,SC/Paris 2123,$41.58,,C,Miss,Laroche,4Laroche,4,4Laroche
+1189,NA,3,"Samaan, Mr. Hanna",male,Z,28.9,2,0,2662,$21.68,,C,Mr,Samaan,3Samaan,3,Small
+1190,NA,1,"Loring, Mr. Joseph Holland",male,Z,30.0,0,0,113801,$45.50,,S,Mr,Loring,Small,1,Small
+1191,NA,3,"Johansson, Mr. Nils",male,Z,29.0,0,0,347467,$7.85,,S,Mr,Johansson,Small,1,Small
+1192,NA,3,"Olsson, Mr. Oscar Wilhelm",male,Z,32.0,0,0,347079,$7.78,,S,Mr,Olsson,Small,1,Small
+1193,NA,2,"Malachard, Mr. Noel",male,D,33.1,0,0,237735,$15.05,D,C,Mr,Malachard,Small,1,Small
+1194,NA,2,"Phillips, Mr. Escott Robert",male,Z,43.0,0,1,S.O./P.P. 2,$21.00,,S,Mr,Phillips,Small,2,Small
+1195,NA,3,"Pokrnic, Mr. Tome",male,Z,24.0,0,0,315092,$8.66,,S,Mr,Pokrnic,Small,1,Small
+1196,NA,3,"McCarthy, Miss. Catherine Katie""""",female,Z,22.3,0,0,383123,$7.75,,Q,Miss,McCarthy,Small,1,Small
+1197,NA,1,"Crosby, Mrs. Edward Gifford (Catherine Elizabeth Halstead)",female,B,64.0,1,1,112901,$26.55,B26,S,Mrs,Crosby,3Crosby,3,Small
+1198,NA,1,"Allison, Mr. Hudson Joshua Creighton",male,C,30.0,1,2,113781,$151.55,C22 C26,S,Mr,Allison,4Allison,4,4Allison
+1199,NA,3,"Aks, Master. Philip Frank",male,Z,0.8,0,1,392091,$9.35,,S,Master,Aks,Small,2,Small
+1200,NA,1,"Hays, Mr. Charles Melville",male,B,55.0,1,1,12749,$93.50,B69,S,Mr,Hays,Small,3,Small
+1201,NA,3,"Hansen, Mrs. Claus Peter (Jennie L Howard)",female,Z,45.0,1,0,350026,$14.11,,S,Mrs,Hansen,Small,2,Small
+1202,NA,3,"Cacic, Mr. Jego Grga",male,Z,18.0,0,0,315091,$8.66,,S,Mr,Cacic,Small,1,Small
+1203,NA,3,"Vartanian, Mr. David",male,Z,22.0,0,0,2658,$7.23,,C,Mr,Vartanian,Small,1,Small
+1204,NA,3,"Sadowitz, Mr. Harry",male,Z,28.9,0,0,LP 1588,$7.58,,S,Mr,Sadowitz,Small,1,Small
+1205,NA,3,"Carr, Miss. Jeannie",female,Z,37.0,0,0,368364,$7.75,,Q,Miss,Carr,Small,1,Small
+1206,NA,1,"White, Mrs. John Stuart (Ella Holmes)",female,C,55.0,0,0,PC 17760,$135.63,C32,C,Mrs,White,Small,1,Small
+1207,NA,3,"Hagardon, Miss. Kate",female,Z,17.0,0,0,AQ/3. 30631,$7.73,,Q,Miss,Hagardon,Small,1,Small
+1208,NA,1,"Spencer, Mr. William Augustus",male,B,57.0,1,0,PC 17569,$146.52,B78,C,Mr,Spencer,Small,2,Small
+1209,NA,2,"Rogers, Mr. Reginald Harry",male,Z,19.0,0,0,28004,$10.50,,S,Mr,Rogers,Small,1,Small
+1210,NA,3,"Jonsson, Mr. Nils Hilding",male,Z,27.0,0,0,350408,$7.85,,S,Mr,Jonsson,Small,1,Small
+1211,NA,2,"Jefferys, Mr. Ernest Wilfred",male,Z,22.0,2,0,C.A. 31029,$31.50,,S,Mr,Jefferys,Small,3,Small
+1212,NA,3,"Andersson, Mr. Johan Samuel",male,Z,26.0,0,0,347075,$7.78,,S,Mr,Andersson,Small,1,Small
+1213,NA,3,"Krekorian, Mr. Neshan",male,E,25.0,0,0,2654,$7.23,F E57,C,Mr,Krekorian,Small,1,Small
+1214,NA,2,"Nesson, Mr. Israel",male,F,26.0,0,0,244368,$13.00,F2,S,Mr,Nesson,Small,1,Small
+1215,NA,1,"Rowe, Mr. Alfred G",male,Z,33.0,0,0,113790,$26.55,,S,Mr,Rowe,Small,1,Small
+1216,NA,1,"Kreuchen, Miss. Emilie",female,Z,39.0,0,0,24160,$211.34,,S,Miss,Kreuchen,Small,1,Small
+1217,NA,3,"Assam, Mr. Ali",male,Z,23.0,0,0,SOTON/O.Q. 3101309,$7.05,,S,Mr,Assam,Small,1,Small
+1218,NA,2,"Becker, Miss. Ruth Elizabeth",female,F,12.0,2,1,230136,$39.00,F4,S,Miss,Becker,4Becker,4,4Becker
+1219,NA,1,"Rosenshine, Mr. George (Mr George Thorne"")""",male,Z,46.0,0,0,PC 17585,$79.20,,C,Mr,Rosenshine,Small,1,Small
+1220,NA,2,"Clarke, Mr. Charles Valentine",male,Z,29.0,1,0,2003,$26.00,,S,Mr,Clarke,Small,2,Small
+1221,NA,2,"Enander, Mr. Ingvar",male,Z,21.0,0,0,236854,$13.00,,S,Mr,Enander,Small,1,Small
+1222,NA,2,"Davies, Mrs. John Morgan (Elizabeth Agnes Mary White) ",female,Z,48.0,0,2,C.A. 33112,$36.75,,S,Mrs,Davies,3Davies,3,Small
+1223,NA,1,"Dulles, Mr. William Crothers",male,A,39.0,0,0,PC 17580,$29.70,A18,C,Mr,Dulles,Small,1,Small
+1224,NA,3,"Thomas, Mr. Tannous",male,Z,28.9,0,0,2684,$7.23,,C,Mr,Thomas,Small,1,Small
+1225,NA,3,"Nakid, Mrs. Said (Waika Mary"" Mowad)""",female,Z,19.0,1,1,2653,$15.74,,C,Mrs,Nakid,3Nakid,3,Small
+1226,NA,3,"Cor, Mr. Ivan",male,Z,27.0,0,0,349229,$7.90,,S,Mr,Cor,Small,1,Small
+1227,NA,1,"Maguire, Mr. John Edward",male,C,30.0,0,0,110469,$26.00,C106,S,Mr,Maguire,Small,1,Small
+1228,NA,2,"de Brito, Mr. Jose Joaquim",male,Z,32.0,0,0,244360,$13.00,,S,Mr,de Brito,Small,1,Small
+1229,NA,3,"Elias, Mr. Joseph",male,Z,39.0,0,2,2675,$7.23,,C,Mr,Elias,3Elias,3,Small
+1230,NA,2,"Denbury, Mr. Herbert",male,Z,25.0,0,0,C.A. 31029,$31.50,,S,Mr,Denbury,Small,1,Small
+1231,NA,3,"Betros, Master. Seman",male,Z,22.3,0,0,2622,$7.23,,C,Master,Betros,Small,1,Small
+1232,NA,2,"Fillbrook, Mr. Joseph Charles",male,Z,18.0,0,0,C.A. 15185,$10.50,,S,Mr,Fillbrook,Small,1,Small
+1233,NA,3,"Lundstrom, Mr. Thure Edvin",male,Z,32.0,0,0,350403,$7.58,,S,Mr,Lundstrom,Small,1,Small
+1234,NA,3,"Sage, Mr. John George",male,Z,28.9,1,9,CA. 2343,$69.55,,S,Mr,Sage,11Sage,11,11Sage
+1235,NA,1,"Cardeza, Mrs. James Warburton Martinez (Charlotte Wardle Drake)",female,B,58.0,0,1,PC 17755,$512.33,B51 B53 B55,C,Mrs,Cardeza,Small,2,Small
+1236,NA,3,"van Billiard, Master. James William",male,Z,7.1,1,1,A/5. 851,$14.50,,S,Master,van Billiard,3van Billiard,3,Small
+1237,NA,3,"Abelseth, Miss. Karen Marie",female,Z,16.0,0,0,348125,$7.65,,S,Miss,Abelseth,Small,1,Small
+1238,NA,2,"Botsford, Mr. William Hull",male,Z,26.0,0,0,237670,$13.00,,S,Mr,Botsford,Small,1,Small
+1239,NA,3,"Whabee, Mrs. George Joseph (Shawneene Abi-Saab)",female,Z,38.0,0,0,2688,$7.23,,C,Mrs,Whabee,Small,1,Small
+1240,NA,2,"Giles, Mr. Ralph",male,Z,24.0,0,0,248726,$13.50,,S,Mr,Giles,Small,1,Small
+1241,NA,2,"Walcroft, Miss. Nellie",female,Z,31.0,0,0,F.C.C. 13528,$21.00,,S,Miss,Walcroft,Small,1,Small
+1242,NA,1,"Greenfield, Mrs. Leo David (Blanche Strouse)",female,D,45.0,0,1,PC 17759,$63.36,D10 D12,C,Mrs,Greenfield,Small,2,Small
+1243,NA,2,"Stokes, Mr. Philip Joseph",male,Z,25.0,0,0,F.C.C. 13540,$10.50,,S,Mr,Stokes,Small,1,Small
+1244,NA,2,"Dibden, Mr. William",male,Z,18.0,0,0,S.O.C. 14879,$73.50,,S,Mr,Dibden,Small,1,Small
+1245,NA,2,"Herman, Mr. Samuel",male,Z,49.0,1,2,220845,$65.00,,S,Mr,Herman,4Herman,4,4Herman
+1246,NA,3,"Dean, Miss. Elizabeth Gladys Millvina""""",female,Z,0.2,1,2,C.A. 2315,$20.58,,S,Miss,Dean,4Dean,4,4Dean
+1247,NA,1,"Julian, Mr. Henry Forbes",male,E,50.0,0,0,113044,$26.00,E60,S,Mr,Julian,Small,1,Small
+1248,NA,1,"Brown, Mrs. John Murray (Caroline Lane Lamson)",female,C,59.0,2,0,11769,$51.48,C101,S,Mrs,Brown,3Brown,3,Small
+1249,NA,3,"Lockyer, Mr. Edward",male,Z,28.9,0,0,1222,$7.88,,S,Mr,Lockyer,Small,1,Small
+1250,NA,3,"O'Keefe, Mr. Patrick",male,Z,28.9,0,0,368402,$7.75,,Q,Mr,O'Keefe,Small,1,Small
+1251,NA,3,"Lindell, Mrs. Edvard Bengtsson (Elin Gerda Persson)",female,Z,30.0,1,0,349910,$15.55,,S,Mrs,Lindell,Small,2,Small
+1252,NA,3,"Sage, Master. William Henry",male,Z,14.5,8,2,CA. 2343,$69.55,,S,Master,Sage,11Sage,11,11Sage
+1253,NA,2,"Mallet, Mrs. Albert (Antoinette Magnin)",female,Z,24.0,1,1,S.C./PARIS 2079,$37.00,,C,Mrs,Mallet,3Mallet,3,Small
+1254,NA,2,"Ware, Mrs. John James (Florence Louise Long)",female,Z,31.0,0,0,CA 31352,$21.00,,S,Mrs,Ware,Small,1,Small
+1255,NA,3,"Strilic, Mr. Ivan",male,Z,27.0,0,0,315083,$8.66,,S,Mr,Strilic,Small,1,Small
+1256,NA,1,"Harder, Mrs. George Achilles (Dorothy Annan)",female,E,25.0,1,0,11765,$55.44,E50,C,Mrs,Harder,Small,2,Small
+1257,NA,3,"Sage, Mrs. John (Annie Bullen)",female,Z,28.9,1,9,CA. 2343,$69.55,,S,Mrs,Sage,11Sage,11,11Sage
+1258,NA,3,"Caram, Mr. Joseph",male,Z,28.9,1,0,2689,$14.46,,C,Mr,Caram,Small,2,Small
+1259,NA,3,"Riihivouri, Miss. Susanna Juhantytar Sanni""""",female,Z,22.0,0,0,3101295,$39.69,,S,Miss,Riihivouri,Small,1,Small
+1260,NA,1,"Gibson, Mrs. Leonard (Pauline C Boeson)",female,Z,45.0,0,1,112378,$59.40,,C,Mrs,Gibson,Small,2,Small
+1261,NA,2,"Pallas y Castello, Mr. Emilio",male,Z,29.0,0,0,SC/PARIS 2147,$13.86,,C,Mr,Pallas y Castello,Small,1,Small
+1262,NA,2,"Giles, Mr. Edgar",male,Z,21.0,1,0,28133,$11.50,,S,Mr,Giles,Small,2,Small
+1263,NA,1,"Wilson, Miss. Helen Alice",female,E,31.0,0,0,16966,$134.50,E39 E41,C,Miss,Wilson,Small,1,Small
+1264,NA,1,"Ismay, Mr. Joseph Bruce",male,B,49.0,0,0,112058,$0.00,B52 B54 B56,S,Mr,Ismay,Small,1,Small
+1265,NA,2,"Harbeck, Mr. William H",male,Z,44.0,0,0,248746,$13.00,,S,Mr,Harbeck,Small,1,Small
+1266,NA,1,"Dodge, Mrs. Washington (Ruth Vidaver)",female,A,54.0,1,1,33638,$81.86,A34,S,Mrs,Dodge,3Dodge,3,Small
+1267,NA,1,"Bowen, Miss. Grace Scott",female,Z,45.0,0,0,PC 17608,$262.38,,C,Miss,Bowen,Small,1,Small
+1268,NA,3,"Kink, Miss. Maria",female,Z,22.0,2,0,315152,$8.66,,S,Miss,Kink,Small,3,Small
+1269,NA,2,"Cotterill, Mr. Henry Harry""""",male,Z,21.0,0,0,29107,$11.50,,S,Mr,Cotterill,Small,1,Small
+1270,NA,1,"Hipkins, Mr. William Edward",male,C,55.0,0,0,680,$50.00,C39,S,Mr,Hipkins,Small,1,Small
+1271,NA,3,"Asplund, Master. Carl Edgar",male,Z,5.0,4,2,347077,$31.39,,S,Master,Asplund,7Asplund,7,7Asplund
+1272,NA,3,"O'Connor, Mr. Patrick",male,Z,28.9,0,0,366713,$7.75,,Q,Mr,O'Connor,Small,1,Small
+1273,NA,3,"Foley, Mr. Joseph",male,Z,26.0,0,0,330910,$7.88,,Q,Mr,Foley,Small,1,Small
+1274,NA,3,"Risien, Mrs. Samuel (Emma)",female,Z,28.9,0,0,364498,$14.50,,S,Mrs,Risien,Small,1,Small
+1275,NA,3,"McNamee, Mrs. Neal (Eileen O'Leary)",female,Z,19.0,1,0,376566,$16.10,,S,Mrs,McNamee,Small,2,Small
+1276,NA,2,"Wheeler, Mr. Edwin Frederick""""",male,Z,33.1,0,0,SC/PARIS 2159,$12.88,,S,Mr,Wheeler,Small,1,Small
+1277,NA,2,"Herman, Miss. Kate",female,Z,24.0,1,2,220845,$65.00,,S,Miss,Herman,4Herman,4,4Herman
+1278,NA,3,"Aronsson, Mr. Ernst Axel Algot",male,Z,24.0,0,0,349911,$7.78,,S,Mr,Aronsson,Small,1,Small
+1279,NA,2,"Ashby, Mr. John",male,Z,57.0,0,0,244346,$13.00,,S,Mr,Ashby,Small,1,Small
+1280,NA,3,"Canavan, Mr. Patrick",male,Z,21.0,0,0,364858,$7.75,,Q,Mr,Canavan,Small,1,Small
+1281,NA,3,"Palsson, Master. Paul Folke",male,Z,6.0,3,1,349909,$21.08,,S,Master,Palsson,5Palsson,5,5Palsson
+1282,NA,1,"Payne, Mr. Vivian Ponsonby",male,B,23.0,0,0,12749,$93.50,B24,S,Mr,Payne,Small,1,Small
+1283,NA,1,"Lines, Mrs. Ernest H (Elizabeth Lindsey James)",female,D,51.0,0,1,PC 17592,$39.40,D28,S,Mrs,Lines,Small,2,Small
+1284,NA,3,"Abbott, Master. Eugene Joseph",male,Z,13.0,0,2,C.A. 2673,$20.25,,S,Master,Abbott,3Abbott,3,Small
+1285,NA,2,"Gilbert, Mr. William",male,Z,47.0,0,0,C.A. 30769,$10.50,,S,Mr,Gilbert,Small,1,Small
+1286,NA,3,"Kink-Heilmann, Mr. Anton",male,Z,29.0,3,1,315153,$22.03,,S,Mr,Kink-Heilmann,Small,5,Small
+1287,NA,1,"Smith, Mrs. Lucien Philip (Mary Eloise Hughes)",female,C,18.0,1,0,13695,$60.00,C31,S,Mrs,Smith,Small,2,Small
+1288,NA,3,"Colbert, Mr. Patrick",male,Z,24.0,0,0,371109,$7.25,,Q,Mr,Colbert,Small,1,Small
+1289,NA,1,"Frolicher-Stehli, Mrs. Maxmillian (Margaretha Emerentia Stehli)",female,B,48.0,1,1,13567,$79.20,B41,C,Mrs,Frolicher-Stehli,Small,3,Small
+1290,NA,3,"Larsson-Rondberg, Mr. Edvard A",male,Z,22.0,0,0,347065,$7.78,,S,Mr,Larsson-Rondberg,Small,1,Small
+1291,NA,3,"Conlon, Mr. Thomas Henry",male,Z,31.0,0,0,21332,$7.73,,Q,Mr,Conlon,Small,1,Small
+1292,NA,1,"Bonnell, Miss. Caroline",female,C,30.0,0,0,36928,$164.87,C7,S,Miss,Bonnell,Small,1,Small
+1293,NA,2,"Gale, Mr. Harry",male,Z,38.0,1,0,28664,$21.00,,S,Mr,Gale,Small,2,Small
+1294,NA,1,"Gibson, Miss. Dorothy Winifred",female,Z,22.0,0,1,112378,$59.40,,C,Miss,Gibson,Small,2,Small
+1295,NA,1,"Carrau, Mr. Jose Pedro",male,Z,17.0,0,0,113059,$47.10,,S,Mr,Carrau,Small,1,Small
+1296,NA,1,"Frauenthal, Mr. Isaac Gerald",male,D,43.0,1,0,17765,$27.72,D40,C,Mr,Frauenthal,Small,2,Small
+1297,NA,2,"Nourney, Mr. Alfred (Baron von Drachstedt"")""",male,D,20.0,0,0,SC/PARIS 2166,$13.86,D38,C,Mr,Nourney,Small,1,Small
+1298,NA,2,"Ware, Mr. William Jeffery",male,Z,23.0,1,0,28666,$10.50,,S,Mr,Ware,Small,2,Small
+1299,NA,1,"Widener, Mr. George Dunton",male,C,50.0,1,1,113503,$211.50,C80,C,Mr,Widener,3Widener,3,Small
+1300,NA,3,"Riordan, Miss. Johanna Hannah""""",female,Z,22.3,0,0,334915,$7.72,,Q,Miss,Riordan,Small,1,Small
+1301,NA,3,"Peacock, Miss. Treasteall",female,Z,3.0,1,1,SOTON/O.Q. 3101315,$13.78,,S,Miss,Peacock,3Peacock,3,Small
+1302,NA,3,"Naughton, Miss. Hannah",female,Z,22.3,0,0,365237,$7.75,,Q,Miss,Naughton,Small,1,Small
+1303,NA,1,"Minahan, Mrs. William Edward (Lillian E Thorpe)",female,C,37.0,1,0,19928,$90.00,C78,Q,Mrs,Minahan,Small,2,Small
+1304,NA,3,"Henriksson, Miss. Jenny Lovisa",female,Z,28.0,0,0,347086,$7.78,,S,Miss,Henriksson,Small,1,Small
+1305,NA,3,"Spector, Mr. Woolf",male,Z,28.9,0,0,A.5. 3236,$8.05,,S,Mr,Spector,Small,1,Small
+1306,NA,1,"Oliva y Ocana, Dona. Fermina",female,C,39.0,0,0,PC 17758,$108.90,C105,C,Lady,Oliva y Ocana,Small,1,Small
+1307,NA,3,"Saether, Mr. Simon Sivertsen",male,Z,38.5,0,0,SOTON/O.Q. 3101262,$7.25,,S,Mr,Saether,Small,1,Small
+1308,NA,3,"Ware, Mr. Frederick",male,Z,28.9,0,0,359309,$8.05,,S,Mr,Ware,Small,1,Small
+1309,NA,3,"Peter, Master. Michael J",male,Z,7.1,1,1,2668,$22.36,,C,Master,Peter,3Peter,3,Small
